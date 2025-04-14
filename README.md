@@ -52,7 +52,7 @@ I plan to obtain this data through publicly-available online datasets and websit
 
 3. **Unemployment Rate**
 
-- **United States Bureau of Labor Statistics**: A government organization that collects and shares data on the number of employed and unemployed people. This can be used for unemployment rate data. [Datasets are available here.](https://www.bls.gov/cew/downloadable-data-files.htm)
+- **United States Bureau of Labor Statistics**: A government organization that collects and shares data on the proportions of employed and unemployed people. This can be used for unemployment rate data. [Datasets are available here.](https://www.bls.gov/lau/tables.htm)
 
 4. **Environmental Risk**
 
