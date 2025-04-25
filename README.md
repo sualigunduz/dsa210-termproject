@@ -1,6 +1,24 @@
 ## dsa210-termproject
-
 This is my term project for the course, DSA210: Introduction to Data Science, in the 2024-25 Spring term.
+
+---
+# Contents
+- [Motivation](#motivation)
+- [Plan](#plan)
+  - [Data to be Used](#data-to-be-used)
+  - [Plans on Collecting Data](#plans-on-collecting-data)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+  - [Distribution of Variables](#distributions-of-variables)
+  - [Descriptive Statistics](#distributions-of-variables)
+  - [Cartographic Visualizations](#distributions-of-variables)
+  - [Comparing the Variables](#comparing-the-variables-with-house-prices)
+  - [Correlation Analysis](#comparing-the-variables-with-house-prices)
+  - [Hypothesis Testing](#hypothesis-testing-1)
+- [Limitations and Future Work](#limitations-and-future-work)
+  - [Limitations](#limitations)
+  - [Future Work](#future-work)
+---
 
 # Project Report
 
