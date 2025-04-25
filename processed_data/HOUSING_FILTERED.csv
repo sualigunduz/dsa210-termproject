@@ -1,0 +1,3074 @@
+RegionName,RegionType,State,Metro,StCntyFIPS,2019_average
+Los Angeles County,county,CA,"Los Angeles-Long Beach-Anaheim, CA",06037,628198.75705
+Cook County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17031,232428.72574
+Harris County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48201,200232.71259
+Maricopa County,county,AZ,"Phoenix-Mesa-Chandler, AZ",04013,291203.2516
+San Diego County,county,CA,"San Diego-Chula Vista-Carlsbad, CA",06073,594778.24092
+Orange County,county,CA,"Los Angeles-Long Beach-Anaheim, CA",06059,713291.59504
+Kings County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36047,763572.41105
+Miami-Dade County,county,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",12086,309068.20582
+Dallas County,county,TX,"Dallas-Fort Worth-Arlington, TX",48113,211338.33973
+Riverside County,county,CA,"Riverside-San Bernardino-Ontario, CA",06065,388612.8329
+Queens County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36081,661233.55309
+King County,county,WA,"Seattle-Tacoma-Bellevue, WA",53033,607982.61913
+Clark County,county,NV,"Las Vegas-Henderson-Paradise, NV",32003,286334.56783
+San Bernardino County,county,CA,"Riverside-San Bernardino-Ontario, CA",06071,353021.72589
+Tarrant County,county,TX,"Dallas-Fort Worth-Arlington, TX",48439,219842.7886
+Bexar County,county,TX,"San Antonio-New Braunfels, TX",48029,189215.56593
+Santa Clara County,county,CA,"San Jose-Sunnyvale-Santa Clara, CA",06085,1186636.95115
+Broward County,county,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",12011,269473.35354
+Wayne County,county,MI,"Detroit-Warren-Dearborn, MI",26163,112554.52647
+Alameda County,county,CA,"San Francisco-Oakland-Berkeley, CA",06001,854638.4046
+New York County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36061,1284751.21618
+Middlesex County,county,MA,"Boston-Cambridge-Newton, MA-NH",25017,553590.32935
+Philadelphia County,county,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42101,168649.09909
+Sacramento County,county,CA,"Sacramento-Roseville-Folsom, CA",06067,380206.63088
+Suffolk County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36103,454444.69418
+Palm Beach County,county,FL,"Miami-Fort Lauderdale-Pompano Beach, FL",12099,291165.00767
+Bronx County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36005,525096.04484
+Hillsborough County,county,FL,"Tampa-St. Petersburg-Clearwater, FL",12057,230607.59651
+Orange County,county,FL,"Orlando-Kissimmee-Sanford, FL",12095,257258.34988
+Nassau County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36059,574605.29313
+Franklin County,county,OH,"Columbus, OH",39049,181841.74206
+Oakland County,county,MI,"Detroit-Warren-Dearborn, MI",26125,245287.47134
+Hennepin County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27053,295710.72043
+Travis County,county,TX,"Austin-Round Rock-Georgetown, TX",48453,353516.90124
+Cuyahoga County,county,OH,"Cleveland-Elyria, OH",39035,131412.90226
+Allegheny County,county,PA,"Pittsburgh, PA",42003,158149.78926
+Salt Lake County,county,UT,"Salt Lake City, UT",49035,359272.62675
+Contra Costa County,county,CA,"San Francisco-Oakland-Berkeley, CA",06013,626390.0463
+Fairfax County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51059,557132.42941
+Wake County,county,NC,"Raleigh-Cary, NC",37183,309835.21984
+Mecklenburg County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37119,255410.02939
+Montgomery County,county,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",24031,483303.30412
+Fulton County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13121,301165.00017
+Collin County,county,TX,"Dallas-Fort Worth-Arlington, TX",48085,332340.5555
+Pima County,county,AZ,"Tucson, AZ",04019,221486.63861
+Honolulu County,county,HI,"Urban Honolulu, HI",15003,664558.39435
+Fresno County,county,CA,"Fresno, CA",06019,266957.78044
+Saint Louis County,county,MO,"St. Louis, MO-IL",29189,182766.9153
+Westchester County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36119,590854.19212
+Duval County,county,FL,"Jacksonville, FL",12031,193052.5127
+Marion County,county,IN,"Indianapolis-Carmel-Anderson, IN",18097,137817.8073
+Pinellas County,county,FL,"Tampa-St. Petersburg-Clearwater, FL",12103,238110.29236
+Prince Georges County,county,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",24033,316242.18735
+Fairfield County,county,CT,"Bridgeport-Stamford-Norwalk, CT",09001,411272.72809
+Bergen County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34003,509393.79885
+Erie County,county,NY,"Buffalo-Cheektowaga, NY",36029,169979.67371
+Gwinnett County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13135,247129.39634
+Milwaukee County,county,WI,"Milwaukee-Waukesha, WI",55079,162096.85356
+DuPage County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17043,299269.39626
+Shelby County,county,TN,"Memphis, TN-MS-AR",47157,137821.24589
+Pierce County,county,WA,"Seattle-Tacoma-Bellevue, WA",53053,358290.49421
+Kern County,county,CA,"Bakersfield, CA",06029,224859.82718
+Hartford County,county,CT,"Hartford-East Hartford-Middletown, CT",09003,217632.04339
+Denton County,county,TX,"Dallas-Fort Worth-Arlington, TX",48121,306455.04281
+Macomb County,county,MI,"Detroit-Warren-Dearborn, MI",26099,174527.79627
+San Francisco County,county,CA,"San Francisco-Oakland-Berkeley, CA",06075,1296201.19464
+Hidalgo County,county,TX,"McAllen-Edinburg-Mission, TX",48215,112281.06658
+New Haven County,county,CT,"New Haven-Milford, CT",09009,222912.57625
+El Paso County,county,TX,"El Paso, TX",48141,138055.67044
+Middlesex County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34023,364191.17376
+Worcester County,county,MA,"Worcester, MA-CT",25027,294536.38298
+Essex County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34013,415973.55744
+Montgomery County,county,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42091,309203.5846
+Baltimore County,county,MD,"Baltimore-Columbia-Towson, MD",24005,258905.3746
+Ventura County,county,CA,"Oxnard-Thousand Oaks-Ventura, CA",06111,614369.2418
+Hamilton County,county,OH,"Cincinnati, OH-KY-IN",39061,164143.14798
+Snohomish County,county,WA,"Seattle-Tacoma-Bellevue, WA",53061,469967.38064
+Multnomah County,county,OR,"Portland-Vancouver-Hillsboro, OR-WA",41051,406380.507
+Fort Bend County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48157,265027.27143
+Essex County,county,MA,"Boston-Cambridge-Newton, MA-NH",25009,454656.0511
+Suffolk County,county,MA,"Boston-Cambridge-Newton, MA-NH",25025,593727.08155
+Oklahoma County,county,OK,"Oklahoma City, OK",40109,142873.79671
+Jefferson County,county,KY,"Louisville/Jefferson County, KY-IN",21111,174058.46088
+San Joaquin County,county,CA,"Stockton, CA",06077,384202.71901
+Cobb County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13067,269769.58012
+San Mateo County,county,CA,"San Francisco-Oakland-Berkeley, CA",06081,1330718.62502
+Dekalb County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13089,229801.37342
+Monroe County,county,NY,"Rochester, NY",36055,152286.44821
+Lee County,county,FL,"Cape Coral-Fort Myers, FL",12071,235538.08438
+El Paso County,county,CO,"Colorado Springs, CO",08041,321731.50381
+Norfolk County,county,MA,"Boston-Cambridge-Newton, MA-NH",25021,515768.11408
+Lake County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17097,245422.87331
+Jackson County,county,MO,"Kansas City, MO-KS",29095,147270.0211
+Polk County,county,FL,"Lakeland-Winter Haven, FL",12105,189960.0523
+Hudson County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34017,467839.41794
+Davidson County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47037,282833.71819
+Denver County,county,CO,"Denver-Aurora-Lakewood, CO",08031,434150.19586
+Will County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17197,237766.91358
+District of Columbia,county,DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11001,575013.11859
+Bernalillo County,county,NM,"Albuquerque, NM",35001,202140.13086
+Jefferson County,county,AL,"Birmingham-Hoover, AL",01073,141932.69861
+Tulsa County,county,OK,"Tulsa, OK",40143,148016.82869
+Providence County,county,RI,"Providence-Warwick, RI-MA",44007,258279.2268
+Kent County,county,MI,"Grand Rapids-Kentwood, MI",26081,206973.82721
+Arapahoe County,county,CO,"Denver-Aurora-Lakewood, CO",08005,391127.3393
+Utah County,county,UT,"Provo-Orem, UT",49049,350843.55163
+Bucks County,county,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42017,323541.10318
+Monmouth County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34025,439446.06118
+Ocean County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34029,296700.33492
+Montgomery County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48339,247211.49759
+Johnson County,county,KS,"Kansas City, MO-KS",20091,289492.97656
+Brevard County,county,FL,"Palm Bay-Melbourne-Titusville, FL",12009,219805.72993
+Washington County,county,OR,"Portland-Vancouver-Hillsboro, OR-WA",41067,421164.52737
+Baltimore City,county,MD,"Baltimore-Columbia-Towson, MD",24510,132034.77358
+Williamson County,county,TX,"Austin-Round Rock-Georgetown, TX",48491,288053.52898
+Anne Arundel County,county,MD,"Baltimore-Columbia-Towson, MD",24003,366635.23305
+Jefferson County,county,CO,"Denver-Aurora-Lakewood, CO",08059,445719.65367
+Douglas County,county,NE,"Omaha-Council Bluffs, NE-IA",31055,183041.85063
+Bristol County,county,MA,"Providence-Warwick, RI-MA",25005,327615.0216
+Delaware County,county,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42045,217932.11696
+Union County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34039,404000.21141
+New Castle County,county,DE,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",10003,244242.6457
+Dane County,county,WI,"Madison, WI",55025,293882.5352
+Pasco County,county,FL,"Tampa-St. Petersburg-Clearwater, FL",12101,205988.73917
+Stanislaus County,county,CA,"Modesto, CA",06099,320549.64309
+Lancaster County,county,PA,"Lancaster, PA",42071,231615.66236
+Ramsey County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27123,248430.43806
+Volusia County,county,FL,"Deltona-Daytona Beach-Ormond Beach, FL",12127,205640.07082
+Summit County,county,OH,"Akron, OH",39153,135551.63422
+Guilford County,county,NC,"Greensboro-High Point, NC",37081,165546.29702
+Montgomery County,county,OH,"Dayton-Kettering, OH",39113,116354.19443
+Chester County,county,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",42029,356964.30236
+Spokane County,county,WA,"Spokane-Spokane Valley, WA",53063,256197.67338
+Plymouth County,county,MA,"Boston-Cambridge-Newton, MA-NH",25023,395486.20897
+Camden County,county,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34007,185057.51955
+Passaic County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34031,353543.6977
+Sedgwick County,county,KS,"Wichita, KS",20173,134820.5104
+Greenville County,county,SC,"Greenville-Anderson, SC",45045,209987.98832
+Kane County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17089,236586.88991
+Adams County,county,CO,"Denver-Aurora-Lakewood, CO",08001,359282.58326
+Morris County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34027,458975.69683
+Clark County,county,WA,"Portland-Vancouver-Hillsboro, OR-WA",53011,365739.84719
+Lake County,county,IN,"Chicago-Naperville-Elgin, IL-IN-WI",18089,155188.53407
+Richmond County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36085,582529.28183
+Sonoma County,county,CA,"Santa Rosa-Petaluma, CA",06097,655938.29876
+Polk County,county,IA,"Des Moines-West Des Moines, IA",19153,194786.39364
+Ada County,county,ID,"Boise City, ID",16001,321755.82927
+Washoe County,county,NV,"Reno, NV",32031,375395.58007
+Prince William County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51153,395260.17453
+Knox County,county,TN,"Knoxville, TN",47093,189431.09452
+Onondaga County,county,NY,"Syracuse, NY",36067,143434.90193
+Tulare County,county,CA,"Visalia, CA",06107,228982.83613
+Seminole County,county,FL,"Orlando-Kissimmee-Sanford, FL",12117,253770.57092
+Hampden County,county,MA,"Springfield, MA",25013,209392.60861
+Burlington County,county,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34005,243634.50605
+Virginia Beach City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51810,279407.72984
+East Baton Rouge Parish,county,LA,"Baton Rouge, LA",22033,179381.49196
+York County,county,PA,"York-Hanover, PA",42133,184433.17254
+Solano County,county,CA,"Vallejo, CA",06095,447844.70015
+Santa Barbara County,county,CA,"Santa Maria-Santa Barbara, CA",06083,600524.90648
+Jefferson Parish,county,LA,"New Orleans-Metairie, LA",22051,217737.25082
+Monterey County,county,CA,"Salinas, CA",06053,570640.10768
+Dakota County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27037,289244.03531
+Lucas County,county,OH,"Toledo, OH",39095,103361.18372
+Sarasota County,county,FL,"North Port-Sarasota-Bradenton, FL",12115,270533.69761
+Berks County,county,PA,"Reading, PA",42011,177571.64928
+Pinal County,county,AZ,"Phoenix-Mesa-Chandler, AZ",04021,227253.60395
+Hillsborough County,county,NH,"Manchester-Nashua, NH",33011,288532.83507
+Cameron County,county,TX,"Brownsville-Harlingen, TX",48061,120662.32364
+Clackamas County,county,OR,"Portland-Vancouver-Hillsboro, OR-WA",41005,438094.59186
+Richland County,county,SC,"Columbia, SC",45079,154780.52954
+Mobile County,county,AL,"Mobile, AL",01097,125528.12806
+Loudoun County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51107,535946.39903
+Genesee County,county,MI,"Flint, MI",26049,110859.13011
+Waukesha County,county,WI,"Milwaukee-Waukesha, WI",55133,315441.26031
+Charleston County,county,SC,"Charleston-North Charleston, SC",45019,339574.81183
+Saint Charles County,county,MO,"St. Louis, MO-IL",29183,236025.50076
+Placer County,county,CA,"Sacramento-Roseville-Folsom, CA",06061,506034.03315
+Orange County,county,NY,"Poughkeepsie-Newburgh-Middletown, NY",36071,262762.98173
+Pulaski County,county,AR,"Little Rock-North Little Rock-Conway, AR",05119,147857.07326
+Manatee County,county,FL,"North Port-Sarasota-Bradenton, FL",12081,272650.85108
+Butler County,county,OH,"Cincinnati, OH-KY-IN",39017,182505.98928
+Mercer County,county,NJ,"Trenton-Princeton, NJ",34021,262319.9469
+Orleans Parish,county,LA,"New Orleans-Metairie, LA",22071,213230.37515
+Madison County,county,AL,"Huntsville, AL",01089,188924.2311
+Allen County,county,IN,"Fort Wayne, IN",18003,143774.6084
+Forsyth County,county,NC,"Winston-Salem, NC",37067,167546.12548
+Lane County,county,OR,"Eugene-Springfield, OR",41039,299724.76075
+Osceola County,county,FL,"Orlando-Kissimmee-Sanford, FL",12097,236106.58812
+Lake County,county,FL,"Orlando-Kissimmee-Sanford, FL",12069,231541.70095
+Stark County,county,OH,"Canton-Massillon, OH",39151,130466.20211
+Collier County,county,FL,"Naples-Marco Island, FL",12021,350325.57927
+Washtenaw County,county,MI,"Ann Arbor, MI",26161,294997.22058
+Lehigh County,county,PA,"Allentown-Bethlehem-Easton, PA-NJ",42077,206981.33676
+Marion County,county,FL,"Ocala, FL",12083,163044.73925
+Brazoria County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48039,238743.61641
+Bell County,county,TX,"Killeen-Temple, TX",48027,163361.5036
+Hamilton County,county,TN,"Chattanooga, TN-GA",47065,208029.78084
+Anoka County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27003,261023.31566
+Chesterfield County,county,VA,"Richmond, VA",51041,255271.70514
+Davis County,county,UT,"Ogden-Clearfield, UT",49011,342529.98134
+Westmoreland County,county,PA,"Pittsburgh, PA",42129,144560.35502
+Larimer County,county,CO,"Fort Collins, CO",08069,407234.08605
+Nueces County,county,TX,"Corpus Christi, TX",48355,173458.13991
+Douglas County,county,CO,"Denver-Aurora-Lakewood, CO",08035,516136.59082
+Galveston County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48167,226308.27419
+Horry County,county,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",45051,193134.24268
+Marion County,county,OR,"Salem, OR",41047,299899.47766
+Somerset County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34035,432481.68367
+Hamilton County,county,IN,"Indianapolis-Carmel-Anderson, IN",18057,286524.33252
+Rockland County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36087,461877.19536
+Rutherford County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47149,260977.79724
+Cumberland County,county,NC,"Fayetteville, NC",37051,127011.25233
+Henrico County,county,VA,"Richmond, VA",51087,249226.12719
+Howard County,county,MD,"Baltimore-Columbia-Towson, MD",24027,466343.44715
+Boulder County,county,CO,"Boulder, CO",08013,541725.78527
+Saint Lucie County,county,FL,"Port St. Lucie, FL",12111,224382.58472
+Luzerne County,county,PA,"Scranton--Wilkes-Barre, PA",42079,128531.85701
+Spartanburg County,county,SC,"Spartanburg, SC",45083,162188.3982
+Weld County,county,CO,"Greeley, CO",08123,367920.92643
+Fayette County,county,KY,"Lexington-Fayette, KY",21067,198027.93059
+Lancaster County,county,NE,"Lincoln, NE",31109,197757.39644
+Durham County,county,NC,"Durham-Chapel Hill, NC",37063,247539.2558
+Escambia County,county,FL,"Pensacola-Ferry Pass-Brent, FL",12033,168840.29947
+Albany County,county,NY,"Albany-Schenectady-Troy, NY",36001,231012.30286
+Rockingham County,county,NH,"Boston-Cambridge-Newton, MA-NH",33015,350819.63182
+Lorain County,county,OH,"Cleveland-Elyria, OH",39093,151754.92314
+Northampton County,county,PA,"Allentown-Bethlehem-Easton, PA-NJ",42095,214160.78582
+McHenry County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17111,217679.25524
+Lubbock County,county,TX,"Lubbock, TX",48303,150451.21185
+Saint Louis City,county,MO,"St. Louis, MO-IL",29510,123418.81426
+Cumberland County,county,ME,"Portland-South Portland, ME",23005,318540.95849
+Gloucester County,county,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34015,213131.45654
+Greene County,county,MO,"Springfield, MO",29077,147765.73823
+Dutchess County,county,NY,"Poughkeepsie-Newburgh-Middletown, NY",36027,280969.00461
+Chatham County,county,GA,"Savannah, GA",13051,196937.45577
+Clayton County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13063,131923.39994
+Ottawa County,county,MI,"Grand Rapids-Kentwood, MI",26139,237049.71043
+Anchorage Borough,county,AK,"Anchorage, AK",02020,336168.25207
+Cleveland County,county,OK,"Oklahoma City, OK",40027,167020.07545
+Lexington County,county,SC,"Columbia, SC",45063,165364.77506
+Leon County,county,FL,"Tallahassee, FL",12073,198942.78315
+Thurston County,county,WA,"Olympia-Lacey-Tumwater, WA",53067,328956.20416
+Ingham County,county,MI,"Lansing-East Lansing, MI",26065,133438.7569
+Winnebago County,county,IL,"Rockford, IL",17201,109412.91857
+Dauphin County,county,PA,"Harrisburg-Carlisle, PA",42043,165372.76168
+San Luis Obispo County,county,CA,"San Luis Obispo-Paso Robles, CA",06079,612721.68044
+Benton County,county,AR,"Fayetteville-Springdale-Rogers, AR",05007,203247.66839
+Merced County,county,CA,"Merced, CA",06047,279092.54146
+York County,county,SC,"Charlotte-Concord-Gastonia, NC-SC",45091,230498.39878
+Alachua County,county,FL,"Gainesville, FL",12001,196407.73484
+Atlantic County,county,NJ,"Atlantic City-Hammonton, NJ",34001,198166.97814
+Kitsap County,county,WA,"Bremerton-Silverdale-Port Orchard, WA",53035,383817.4853
+Santa Cruz County,county,CA,"Santa Cruz-Watsonville, CA",06087,828377.90749
+Saint Joseph County,county,IN,"South Bend-Mishawaka, IN-MI",18141,127475.25588
+Erie County,county,PA,"Erie, PA",42049,126660.21397
+New London County,county,CT,"Norwich-New London, CT",09011,232714.58074
+Frederick County,county,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",24021,344094.38155
+Brown County,county,WI,"Green Bay, WI",55009,198536.32892
+Buncombe County,county,NC,"Asheville, NC",37021,291413.11763
+Webb County,county,TX,"Laredo, TX",48479,164747.33559
+Madison County,county,IL,"St. Louis, MO-IL",17119,124128.41142
+Saint Johns County,county,FL,"Jacksonville, FL",12109,317433.83742
+Washington County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27163,322465.88658
+Saint Tammany Parish,county,LA,"New Orleans-Metairie, LA",22103,224357.45326
+Marin County,county,CA,"San Francisco-Oakland-Berkeley, CA",06041,1101747.02642
+Cherokee County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13057,280961.42383
+Kalamazoo County,county,MI,"Kalamazoo-Portage, MI",26077,171875.35518
+Weber County,county,UT,"Ogden-Clearfield, UT",49057,275094.92931
+Saint Clair County,county,IL,"St. Louis, MO-IL",17163,122768.64519
+Harford County,county,MD,"Baltimore-Columbia-Towson, MD",24025,293378.90461
+McLennan County,county,TX,"Waco, TX",48309,163349.45617
+Cumberland County,county,PA,"Harrisburg-Carlisle, PA",42041,214873.27439
+Jefferson County,county,TX,"Beaumont-Port Arthur, TX",48245,132954.05726
+Yakima County,county,WA,"Yakima, WA",53077,221888.13107
+Clay County,county,MO,"Kansas City, MO-KS",29047,195012.39067
+Chesapeake City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51550,273517.46858
+Forsyth County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13117,362558.25849
+Washington County,county,AR,"Fayetteville-Springdale-Rogers, AR",05143,199569.82812
+Williamson County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47187,511664.90631
+Lafayette Parish,county,LA,"Lafayette, LA",22055,201947.914
+Caddo Parish,county,LA,"Shreveport-Bossier City, LA",22017,114921.98916
+Warren County,county,OH,"Cincinnati, OH-KY-IN",39165,249522.63784
+Norfolk City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51710,201858.1695
+Henry County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13151,195942.58268
+Union County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37179,267865.12884
+Arlington County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51013,669390.99586
+Saratoga County,county,NY,"Albany-Schenectady-Troy, NY",36091,280230.57957
+Hays County,county,TX,"Austin-Round Rock-Georgetown, TX",48209,281697.20312
+Sussex County,county,DE,"Salisbury, MD-DE",10005,317564.64226
+Yavapai County,county,AZ,"Prescott Valley-Prescott, AZ",04025,326565.68727
+Lake County,county,OH,"Cleveland-Elyria, OH",39085,153247.15112
+Oneida County,county,NY,"Utica-Rome, NY",36065,129440.37791
+Smith County,county,TX,"Tyler, TX",48423,170899.15826
+Brazos County,county,TX,"College Station-Bryan, TX",48041,228259.28197
+Hinds County,county,MS,"Jackson, MS",28049,94252.55124
+Montgomery County,county,AL,"Montgomery, AL",01101,108660.93393
+Mahoning County,county,OH,"Youngstown-Warren-Boardman, OH-PA",39099,92249.75268
+Linn County,county,IA,"Cedar Rapids, IA",19113,159959.50326
+Barnstable County,county,MA,"Barnstable Town, MA",25001,431882.4302
+Canyon County,county,ID,"Boise City, ID",16027,240511.77266
+Baldwin County,county,AL,"Daphne-Fairhope-Foley, AL",01003,243990.89015
+Gaston County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37071,167606.43288
+Jefferson County,county,MO,"St. Louis, MO-IL",29099,183560.27036
+Richmond City,county,VA,"Richmond, VA",51760,230344.56471
+New Hanover County,county,NC,"Wilmington, NC",37129,256516.7714
+Whatcom County,county,WA,"Bellingham, WA",53073,394104.54883
+Tuscaloosa County,county,AL,"Tuscaloosa, AL",01125,162956.27483
+Berkeley County,county,SC,"Charleston-North Charleston, SC",45015,236090.4332
+Jackson County,county,OR,"Medford, OR",41029,317665.35292
+Cabarrus County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37025,223846.54286
+Shelby County,county,AL,"Birmingham-Hoover, AL",01117,241757.88839
+Dona Ana County,county,NM,"Las Cruces, NM",35013,173204.6204
+Butte County,county,CA,"Chico, CA",06007,325764.5078
+Yolo County,county,CA,"Sacramento-Roseville-Folsom, CA",06113,462028.04907
+Clay County,county,FL,"Jacksonville, FL",12019,216579.49686
+Montgomery County,county,TN,"Clarksville, TN-KY",47125,186547.92529
+Lackawanna County,county,PA,"Scranton--Wilkes-Barre, PA",42069,131586.81708
+Niagara County,county,NY,"Buffalo-Cheektowaga, NY",36063,138845.10201
+Calcasieu Parish,county,LA,"Lake Charles, LA",22019,205125.76641
+Mohave County,county,AZ,"Lake Havasu City-Kingman, AZ",04015,227046.33648
+Delaware County,county,OH,"Columbus, OH",39041,329859.5304
+Johnston County,county,NC,"Raleigh-Cary, NC",37101,209194.55142
+York County,county,ME,"Portland-South Portland, ME",23031,296719.73323
+Okaloosa County,county,FL,"Crestview-Fort Walton Beach-Destin, FL",12091,235952.12187
+Washington County,county,PA,"Pittsburgh, PA",42125,163537.32279
+Clermont County,county,OH,"Cincinnati, OH-KY-IN",39025,194873.58988
+Harrison County,county,MS,"Gulfport-Biloxi, MS",28047,147847.22371
+Champaign County,county,IL,"Champaign-Urbana, IL",17019,154213.58344
+Elkhart County,county,IN,"Elkhart-Goshen, IN",18039,159100.34915
+Richmond County,county,GA,"Augusta-Richmond County, GA-SC",13245,107919.17469
+Benton County,county,WA,"Kennewick-Richland, WA",53005,303603.32877
+Muscogee County,county,GA,"Columbus, GA-AL",13215,108993.66246
+Yuma County,county,AZ,"Yuma, AZ",04027,162685.13045
+Anderson County,county,SC,"Greenville-Anderson, SC",45007,156145.51002
+Trumbull County,county,OH,"Youngstown-Warren-Boardman, OH-PA",39155,90426.20951
+Hall County,county,GA,"Gainesville, GA",13139,226094.47957
+Onslow County,county,NC,"Jacksonville, NC",37133,168444.61116
+Hawaii County,county,HI,"Hilo, HI",15001,370231.34295
+Saint Louis County,county,MN,"Duluth, MN-WI",27137,154199.70425
+Broome County,county,NY,"Binghamton, NY",36007,109081.79441
+Racine County,county,WI,"Racine, WI",55101,181166.20555
+Sangamon County,county,IL,"Springfield, IL",17167,134177.59698
+Deschutes County,county,OR,"Bend, OR",41017,417508.52658
+Minnehaha County,county,SD,"Sioux Falls, SD",46099,206668.29131
+Livingston County,county,MI,"Detroit-Warren-Dearborn, MI",26093,265027.91151
+Sumner County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47165,273289.61544
+Butler County,county,PA,"Pittsburgh, PA",42019,224446.05221
+Hernando County,county,FL,"Tampa-St. Petersburg-Clearwater, FL",12053,173291.25463
+El Dorado County,county,CA,"Sacramento-Roseville-Folsom, CA",06017,492960.79686
+Saginaw County,county,MI,"Saginaw, MI",26145,92194.28183
+Outagamie County,county,WI,"Appleton, WI",55087,193637.99102
+Sarpy County,county,NE,"Omaha-Council Bluffs, NE-IA",31153,229420.39646
+Ellis County,county,TX,"Dallas-Fort Worth-Arlington, TX",48139,249358.10956
+Tippecanoe County,county,IN,"Lafayette-West Lafayette, IN",18157,173911.03363
+Beaufort County,county,SC,"Hilton Head Island-Bluffton, SC",45013,317826.00007
+Litchfield County,county,CT,"Torrington, CT",09005,230607.61577
+Charlotte County,county,FL,"Punta Gorda, FL",12015,212707.02329
+Santa Rosa County,county,FL,"Pensacola-Ferry Pass-Brent, FL",12113,216101.05247
+Iredell County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37097,226342.26989
+DeSoto County,county,MS,"Memphis, TN-MS-AR",28033,197066.97151
+Newport News City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51700,178334.75191
+Cass County,county,ND,"Fargo, ND-MN",38017,251167.61712
+Peoria County,county,IL,"Peoria, IL",17143,96308.13482
+Boone County,county,MO,"Columbia, MO",29019,196850.663
+Kanawha County,county,WV,"Charleston, WV",54039,98775.61029
+Shasta County,county,CA,"Redding, CA",06089,269606.39988
+Ulster County,county,NY,"Kingston, NY",36111,227257.64266
+Medina County,county,OH,"Cleveland-Elyria, OH",39103,212788.07097
+Bay County,county,FL,"Panama City, FL",12005,208186.49277
+Kent County,county,DE,"Dover, DE",10001,223373.69734
+Imperial County,county,CA,"El Centro, CA",06025,237605.54602
+Vanderburgh County,county,IN,"Evansville, IN-KY",18163,121517.25802
+Shawnee County,county,KS,"Topeka, KS",20177,121912.16279
+Licking County,county,OH,"Columbus, OH",39089,196225.27333
+Johnson County,county,TX,"Dallas-Fort Worth-Arlington, TX",48251,219151.06383
+Washington County,county,UT,"St. George, UT",49053,324476.10641
+Muskegon County,county,MI,"Muskegon, MI",26121,138371.67747
+Scott County,county,IA,"Davenport-Moline-Rock Island, IA-IL",19163,167328.0331
+Porter County,county,IN,"Chicago-Naperville-Elgin, IL-IN-WI",18127,209738.63898
+Lee County,county,AL,"Auburn-Opelika, AL",01081,217352.60087
+Carroll County,county,MD,"Baltimore-Columbia-Towson, MD",24013,345071.55961
+Hendricks County,county,IN,"Indianapolis-Carmel-Anderson, IN",18063,211945.95442
+McLean County,county,IL,"Bloomington, IL",17113,161348.05837
+Winnebago County,county,WI,"Oshkosh-Neenah, WI",55139,178120.0942
+Pitt County,county,NC,"Greenville, NC",37147,143706.4075
+Guadalupe County,county,TX,"San Antonio-New Braunfels, TX",48187,233985.0262
+Kent County,county,RI,"Providence-Warwick, RI-MA",44003,244634.60287
+Alamance County,county,NC,"Burlington, NC",37001,165374.31678
+Kenosha County,county,WI,"Chicago-Naperville-Elgin, IL-IN-WI",55059,195867.34779
+Wyandotte County,county,KS,"Kansas City, MO-KS",20209,110511.51143
+Kootenai County,county,ID,"Coeur d'Alene, ID",16055,320365.0234
+Kenton County,county,KY,"Cincinnati, OH-KY-IN",21117,172691.82562
+Beaver County,county,PA,"Pittsburgh, PA",42007,125191.19838
+Monroe County,county,PA,"East Stroudsburg, PA",42089,166884.40646
+Aiken County,county,SC,"Augusta-Richmond County, GA-SC",45003,153920.22697
+Davidson County,county,NC,"Winston-Salem, NC",37057,154940.38746
+Pueblo County,county,CO,"Pueblo, CO",08101,187358.6198
+Chittenden County,county,VT,"Burlington-South Burlington, VT",50007,335535.19839
+Greene County,county,OH,"Dayton-Kettering, OH",39057,185647.29205
+Midland County,county,TX,"Midland, TX",48329,273576.45215
+Paulding County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13223,205731.63052
+Charles County,county,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",24017,324129.32628
+Maui County,county,HI,"Kahului-Wailuku-Lahaina, HI",15009,658197.96008
+Middlesex County,county,CT,"Hartford-East Hartford-Middletown, CT",09007,258090.50201
+Yellowstone County,county,MT,"Billings, MT",30111,254620.55691
+Rock County,county,WI,"Janesville-Beloit, WI",55105,163954.54096
+Portage County,county,OH,"Akron, OH",39133,170024.71345
+Hampshire County,county,MA,"Springfield, MA",25015,279773.57092
+Ector County,county,TX,"Odessa, TX",48135,200618.64241
+Houston County,county,GA,"Warner Robins, GA",13153,152530.4253
+Dorchester County,county,SC,"Charleston-North Charleston, SC",45035,236751.97411
+Rensselaer County,county,NY,"Albany-Schenectady-Troy, NY",36083,192159.87311
+Olmsted County,county,MN,"Rochester, MN",27109,239702.83271
+Jackson County,county,MI,"Jackson, MI",26075,143305.69207
+Ouachita Parish,county,LA,"Monroe, LA",22073,138200.68145
+Saint Clair County,county,MI,"Detroit-Warren-Dearborn, MI",26147,167676.38645
+Johnson County,county,IN,"Indianapolis-Carmel-Anderson, IN",18081,188085.60955
+Catawba County,county,NC,"Hickory-Lenoir-Morganton, NC",37035,159512.00301
+Centre County,county,PA,"State College, PA",42027,243698.17534
+Alexandria City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51510,540949.77719
+Indian River County,county,FL,"Sebastian-Vero Beach, FL",12061,234079.38418
+Martin County,county,FL,"Port St. Lucie, FL",12085,282439.87078
+Sullivan County,county,TN,"Kingsport-Bristol, TN-VA",47163,150017.14462
+Stearns County,county,MN,"St. Cloud, MN",27145,202534.66424
+Fairfield County,county,OH,"Columbus, OH",39045,210635.88896
+Schenectady County,county,NY,"Albany-Schenectady-Troy, NY",36093,181062.44923
+Bibb County,county,GA,"Macon-Bibb County, GA",13021,98445.07545
+Madera County,county,CA,"Madera, CA",06039,269921.71163
+Comal County,county,TX,"San Antonio-New Braunfels, TX",48091,308139.14965
+Rankin County,county,MS,"Jackson, MS",28121,178797.28158
+Franklin County,county,PA,"Chambersburg-Waynesboro, PA",42055,187041.08701
+Cumberland County,county,NJ,"Vineland-Bridgeton, NJ",34011,149113.39446
+Mesa County,county,CO,"Grand Junction, CO",08077,258925.51261
+Columbia County,county,GA,"Augusta-Richmond County, GA-SC",13073,208849.19632
+Berrien County,county,MI,"Niles, MI",26021,163258.57649
+Stafford County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51179,351884.16162
+Monroe County,county,MI,"Monroe, MI",26115,177737.41628
+Washington County,county,MD,"Hagerstown-Martinsburg, MD-WV",24043,213755.94933
+Santa Fe County,county,NM,"Santa Fe, NM",35049,363185.23249
+Merrimack County,county,NH,"Concord, NH",33013,258290.49853
+Penobscot County,county,ME,"Bangor, ME",23019,149714.35924
+Citrus County,county,FL,"Homosassa Springs, FL",12017,161352.93266
+Kings County,county,CA,"Hanford-Corcoran, CA",06031,229238.88544
+Johnson County,county,IA,"Iowa City, IA",19103,226114.93907
+Canadian County,county,OK,"Oklahoma City, OK",40017,177860.27644
+Tolland County,county,CT,"Hartford-East Hartford-Middletown, CT",09013,231797.60395
+Scott County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27139,321638.05565
+Sandoval County,county,NM,"Albuquerque, NM",35043,215284.71652
+Orange County,county,NC,"Durham-Chapel Hill, NC",37135,309150.79464
+Rowan County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37159,154566.10933
+Sussex County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34037,253965.80962
+Coweta County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13077,239417.47532
+Coconino County,county,AZ,"Flagstaff, AZ",04005,366306.92369
+Parker County,county,TX,"Dallas-Fort Worth-Arlington, TX",48367,302932.09657
+Wilson County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47189,307780.53477
+Rock Island County,county,IL,"Davenport-Moline-Rock Island, IA-IL",17161,118737.5728
+Randolph County,county,NC,"Greensboro-High Point, NC",37151,158227.28924
+Douglas County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13097,183989.61919
+Schuylkill County,county,PA,"Pottsville, PA",42107,80718.64051
+Jackson County,county,MS,"Gulfport-Biloxi, MS",28059,140052.59074
+Lebanon County,county,PA,"Lebanon, PA",42075,187557.12779
+Taylor County,county,TX,"Abilene, TX",48441,138674.81988
+Livingston Parish,county,LA,"Baton Rouge, LA",22063,187403.16451
+Monroe County,county,IN,"Bloomington, IN",18105,201738.72915
+Kaufman County,county,TX,"Dallas-Fort Worth-Arlington, TX",48257,223867.77825
+Wright County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27171,269864.1309
+Randall County,county,TX,"Amarillo, TX",48381,173026.77822
+Napa County,county,CA,"Napa, CA",06055,694664.77968
+Spotsylvania County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51177,296472.97567
+Marathon County,county,WI,"Wausau-Weston, WI",55073,159419.46204
+Florence County,county,SC,"Florence, SC",45041,130784.58111
+Humboldt County,county,CA,"Eureka-Arcata, CA",06023,383690.64928
+Hampton City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51650,165325.87808
+Washington County,county,WI,"Milwaukee-Waukesha, WI",55131,266205.26928
+Clark County,county,OH,"Springfield, OH",39023,109644.39595
+Boone County,county,KY,"Cincinnati, OH-KY-IN",21015,211083.49387
+Calhoun County,county,MI,"Battle Creek, MI",26025,109392.16398
+Grayson County,county,TX,"Sherman-Denison, TX",48181,183025.15201
+Cambria County,county,PA,"Johnstown, PA",42021,101321.74449
+Blount County,county,TN,"Knoxville, TN",47009,197946.3856
+Brunswick County,county,NC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",37019,246884.46774
+Harnett County,county,NC,"Fayetteville, NC",37085,175946.41005
+Warren County,county,KY,"Bowling Green, KY",21227,184203.92637
+Tazewell County,county,IL,"Peoria, IL",17179,118287.20048
+Washington County,county,TN,"Johnson City, TN",47179,168887.46889
+Wood County,county,OH,"Toledo, OH",39173,162102.54373
+Tangipahoa Parish,county,LA,"Hammond, LA",22105,176072.82183
+Cache County,county,UT,"Logan, UT-ID",49005,277658.55519
+Black Hawk County,county,IA,"Waterloo-Cedar Falls, IA",19013,130606.04294
+Kendall County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17093,239109.08672
+Strafford County,county,NH,"Boston-Cambridge-Newton, MA-NH",33017,266470.03686
+Rapides Parish,county,LA,"Alexandria, LA",22079,132667.46369
+Madison County,county,IN,"Indianapolis-Carmel-Anderson, IN",18095,99740.65724
+Washington County,county,RI,"Providence-Warwick, RI-MA",44009,374273.06389
+Pickens County,county,SC,"Greenville-Anderson, SC",45077,171869.76862
+Wichita County,county,TX,"Wichita Falls, TX",48485,98779.73582
+Fayette County,county,PA,"Pittsburgh, PA",42051,103507.35464
+Berkshire County,county,MA,"Pittsfield, MA",25003,220119.95628
+Hunterdon County,county,NJ,"New York-Newark-Jersey City, NY-NJ-PA",34019,416853.28795
+Skagit County,county,WA,"Mount Vernon-Anacortes, WA",53057,369128.64994
+Clarke County,county,GA,"Athens-Clarke County, GA",13059,181985.26167
+Chautauqua County,county,NY,"Jamestown-Dunkirk-Fredonia, NY",36013,95585.70085
+Bossier Parish,county,LA,"Shreveport-Bossier City, LA",22015,176193.57288
+Sebastian County,county,AR,"Fort Smith, AR-OK",05131,135561.66617
+Sumter County,county,FL,"The Villages, FL",12119,281484.99357
+Linn County,county,OR,"Albany-Lebanon, OR",41043,263340.26535
+Ascension Parish,county,LA,"Baton Rouge, LA",22005,213104.41081
+Cochise County,county,AZ,"Sierra Vista-Douglas, AZ",04003,174441.34049
+Richland County,county,OH,"Mansfield, OH",39139,105053.14709
+Gregg County,county,TX,"Longview, TX",48183,159310.53215
+Kennebec County,county,ME,"Augusta-Waterville, ME",23011,161823.24279
+Faulkner County,county,AR,"Little Rock-North Little Rock-Conway, AR",05045,174436.5234
+Blair County,county,PA,"Altoona, PA",42013,136982.09052
+San Juan County,county,NM,"Farmington, NM",35045,178733.96789
+Morgan County,county,AL,"Decatur, AL",01103,149183.8453
+Saline County,county,AR,"Little Rock-North Little Rock-Conway, AR",05125,176855.16475
+Jasper County,county,MO,"Joplin, MO",29097,126072.17944
+Bonneville County,county,ID,"Idaho Falls, ID",16019,225739.38486
+Comanche County,county,OK,"Lawton, OK",40031,94916.71879
+Berkeley County,county,WV,"Hagerstown-Martinsburg, MD-WV",54003,191168.93131
+La Crosse County,county,WI,"La Crosse-Onalaska, WI-MN",55063,200155.11436
+Clark County,county,IN,"Louisville/Jefferson County, KY-IN",18019,164943.80068
+Allegan County,county,MI,"Holland, MI",26005,199757.18366
+Tom Green County,county,TX,"San Angelo, TX",48451,164098.41919
+Potter County,county,TX,"Amarillo, TX",48375,91796.2408
+Robeson County,county,NC,"Lumberton, NC",37155,81968.20803
+Douglas County,county,KS,"Lawrence, KS",20045,203473.5699
+Carroll County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13045,163359.50898
+Oswego County,county,NY,"Syracuse, NY",36075,112388.17649
+Wayne County,county,NC,"Goldsboro, NC",37191,122487.4715
+Fayette County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13113,317127.91386
+Jefferson County,county,NY,"Watertown-Fort Drum, NY",36045,140560.2206
+Sheboygan County,county,WI,"Sheboygan, WI",55117,177789.55775
+Lowndes County,county,GA,"Valdosta, GA",13185,130363.02214
+Missoula County,county,MT,"Missoula, MT",30063,313640.90766
+Wayne County,county,OH,"Wooster, OH",39169,156544.32619
+Windham County,county,CT,"Worcester, MA-CT",09015,207323.68907
+Calhoun County,county,AL,"Anniston-Oxford, AL",01015,118760.25784
+Gallatin County,county,MT,"Bozeman, MT",30031,431397.68198
+Henderson County,county,NC,"Asheville, NC",37089,261412.9499
+Lycoming County,county,PA,"Williamsport, PA",42081,158720.77026
+Flagler County,county,FL,"Deltona-Daytona Beach-Ormond Beach, FL",12035,239212.18864
+Saint Marys County,county,MD,"California-Lexington Park, MD",24037,304700.92691
+Delaware County,county,IN,"Muncie, IN",18035,89846.20655
+La Porte County,county,IN,"Michigan City-La Porte, IN",18091,147455.28475
+Ontario County,county,NY,"Rochester, NY",36069,178265.6167
+Albemarle County,county,VA,"Charlottesville, VA",51003,367799.75744
+Newton County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13217,172386.98488
+Mercer County,county,PA,"Youngstown-Warren-Boardman, OH-PA",42085,114300.77695
+Douglas County,county,OR,"Roseburg, OR",41019,214772.76833
+Androscoggin County,county,ME,"Lewiston-Auburn, ME",23001,174899.834
+Hardin County,county,KY,"Elizabethtown-Fort Knox, KY",21093,148631.09598
+Terrebonne Parish,county,LA,"Houma-Thibodaux, LA",22109,166147.26613
+La Salle County,county,IL,"Ottawa, IL",17099,119043.40772
+Craighead County,county,AR,"Jonesboro, AR",05031,145287.28641
+Cowlitz County,county,WA,"Longview, WA",53015,268748.98124
+Warren County,county,NJ,"Allentown-Bethlehem-Easton, PA-NJ",34041,254168.16981
+Hanover County,county,VA,"Richmond, VA",51085,293396.16187
+Eaton County,county,MI,"Lansing-East Lansing, MI",26045,169214.97387
+Saint Lawrence County,county,NY,"Ogdensburg-Massena, NY",36089,88305.45737
+Pennington County,county,SD,"Rapid City, SD",46103,217148.00094
+Madison County,county,MS,"Jackson, MS",28089,233556.01366
+Kankakee County,county,IL,"Kankakee, IL",17091,138988.31889
+Bartow County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13015,184117.4141
+Miami County,county,OH,"Dayton-Kettering, OH",39109,159086.03888
+Bradley County,county,TN,"Cleveland, TN",47011,175323.04986
+Yamhill County,county,OR,"Portland-Vancouver-Hillsboro, OR-WA",41071,354303.77372
+Cass County,county,MO,"Kansas City, MO-KS",29037,215997.53638
+Matanuska Susitna Borough,county,AK,"Anchorage, AK",02170,273087.15798
+Navajo County,county,AZ,"Show Low, AZ",04017,224105.65593
+Vigo County,county,IN,"Terre Haute, IN",18167,98213.34639
+Houston County,county,AL,"Dothan, AL",01069,127596.89612
+Walworth County,county,WI,"Whitewater, WI",55127,236003.22075
+Carver County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27019,352786.25552
+Monongalia County,county,WV,"Morgantown, WV",54061,200448.18895
+Tompkins County,county,NY,"Ithaca, NY",36109,217941.34456
+Sumter County,county,SC,"Sumter, SC",45085,136209.52076
+Rockwall County,county,TX,"Dallas-Fort Worth-Arlington, TX",48397,286689.39005
+Eau Claire County,county,WI,"Eau Claire, WI",55035,193149.62142
+Platte County,county,MO,"Kansas City, MO-KS",29165,254996.54024
+Woodbury County,county,IA,"Sioux City, IA-NE-SD",19193,129991.33444
+Macon County,county,IL,"Decatur, IL",17115,82506.56351
+Franklin County,county,MO,"St. Louis, MO-IL",29071,170068.54193
+Bay County,county,MI,"Bay City, MI",26017,103685.03963
+Fond du Lac County,county,WI,"Fond du Lac, WI",55039,164469.93856
+Adams County,county,PA,"Gettysburg, PA",42001,213295.2922
+Etowah County,county,AL,"Gadsden, AL",01055,113647.47441
+Flathead County,county,MT,"Kalispell, MT",30029,330217.2455
+Cecil County,county,MD,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",24015,246770.86851
+Wicomico County,county,MD,"Salisbury, MD-DE",24045,171598.89713
+Whitfield County,county,GA,"Dalton, GA",13313,144960.19575
+Daviess County,county,KY,"Owensboro, KY",21059,130857.67168
+Allen County,county,OH,"Lima, OH",39003,112084.72421
+Columbiana County,county,OH,"Salem, OH",39029,102488.29173
+Nevada County,county,CA,"Truckee-Grass Valley, CA",06057,472968.08108
+Limestone County,county,AL,"Huntsville, AL",01083,194251.70113
+Craven County,county,NC,"New Bern, NC",37049,157090.07633
+Highlands County,county,FL,"Sebring-Avon Park, FL",12055,137327.48037
+DeKalb County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17037,178200.62612
+Laramie County,county,WY,"Cheyenne, WY",56021,284908.57448
+Garland County,county,AR,"Hot Springs, AR",05051,144442.5783
+Roanoke City,county,VA,"Roanoke, VA",51770,121018.20503
+Lenawee County,county,MI,"Adrian, MI",26091,147733.75733
+Montgomery County,county,VA,"Blacksburg-Christiansburg, VA",51121,216347.21067
+Sutter County,county,CA,"Yuba City, CA",06101,303236.7149
+Maury County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47119,230397.96446
+Cleveland County,county,NC,"Shelby, NC",37045,124912.62151
+Hunt County,county,TX,"Dallas-Fort Worth-Arlington, TX",48231,185530.48301
+Dubuque County,county,IA,"Dubuque, IA",19061,177363.60081
+Moore County,county,NC,"Pinehurst-Southern Pines, NC",37125,235423.70407
+Madison County,county,TN,"Jackson, TN",47113,133087.85231
+Floyd County,county,GA,"Rome, GA",13115,133927.45143
+Story County,county,IA,"Ames, IA",19169,192761.69978
+Sevier County,county,TN,"Sevierville, TN",47155,230692.48803
+Putnam County,county,NY,"New York-Newark-Jersey City, NY-NJ-PA",36079,346730.93786
+Burleigh County,county,ND,"Bismarck, ND",38015,265478.9515
+Grant County,county,WA,"Moses Lake, WA",53025,213252.33162
+Ashtabula County,county,OH,"Ashtabula, OH",39007,103118.95708
+Lafourche Parish,county,LA,"Houma-Thibodaux, LA",22057,191190.87082
+Portsmouth City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51740,159313.07937
+Marshall County,county,AL,"Albertville, AL",01095,145580.45713
+Fairbanks North Star Borough,county,AK,"Fairbanks, AK",02090,255914.2614
+Dallas County,county,IA,"Des Moines-West Des Moines, IA",19049,265974.89153
+Roanoke County,county,VA,"Roanoke, VA",51161,197847.89937
+Sherburne County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27141,260084.09097
+Cape May County,county,NJ,"Ocean City, NJ",34009,412187.40932
+Walton County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13297,226200.32362
+Geauga County,county,OH,"Cleveland-Elyria, OH",39055,242445.60934
+Franklin County,county,WA,"Kennewick-Richland, WA",53021,260527.68563
+Bastrop County,county,TX,"Austin-Round Rock-Georgetown, TX",48021,243186.90838
+Benton County,county,OR,"Corvallis, OR",41003,371972.48208
+Lancaster County,county,SC,"Charlotte-Concord-Gastonia, NC-SC",45057,228271.09363
+Rogers County,county,OK,"Tulsa, OK",40131,175283.21353
+Nash County,county,NC,"Rocky Mount, NC",37127,134994.43367
+Cabell County,county,WV,"Huntington-Ashland, WV-KY-OH",54011,105930.14006
+Grand Traverse County,county,MI,"Traverse City, MI",26055,235308.37921
+Steuben County,county,NY,"Corning, NY",36101,108235.3419
+Lauderdale County,county,AL,"Florence-Muscle Shoals, AL",01077,141023.99652
+Pottawattamie County,county,IA,"Omaha-Council Bluffs, NE-IA",19155,141871.6675
+Suffolk City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51800,242270.57383
+Tuscarawas County,county,OH,"New Philadelphia-Dover, OH",39157,131783.9796
+Rockdale County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13247,180899.9975
+Bowie County,county,TX,"Texarkana, TX-AR",48037,134471.40134
+Campbell County,county,KY,"Cincinnati, OH-KY-IN",21037,177551.7084
+Saint Croix County,county,WI,"Minneapolis-St. Paul-Bloomington, MN-WI",55109,271992.26735
+Calvert County,county,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",24009,346903.0814
+Madison County,county,KY,"Richmond-Berea, KY",21151,171968.5636
+Northumberland County,county,PA,"Sunbury, PA",42097,108042.67148
+Mendocino County,county,CA,"Ukiah, CA",06045,484406.22091
+Wayne County,county,NY,"Rochester, NY",36117,132760.38881
+Victoria County,county,TX,"Victoria, TX",48469,154439.44212
+Grafton County,county,NH,"Lebanon, NH-VT",33009,215438.45984
+Ozaukee County,county,WI,"Milwaukee-Waukesha, WI",55089,320000.72424
+Rockingham County,county,NC,"Greensboro-High Point, NC",37157,127456.52744
+Saint Clair County,county,AL,"Birmingham-Hoover, AL",01115,191733.55805
+Frederick County,county,VA,"Winchester, VA-WV",51069,276250.3365
+Liberty County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48291,180711.32698
+Dodge County,county,WI,"Beaver Dam, WI",55027,182931.52287
+Twin Falls County,county,ID,"Twin Falls, ID",16083,208863.11927
+Lapeer County,county,MI,"Detroit-Warren-Dearborn, MI",26087,181291.15575
+Nassau County,county,FL,"Jacksonville, FL",12089,287073.69996
+Burke County,county,NC,"Hickory-Lenoir-Morganton, NC",37023,138857.89704
+Christian County,county,MO,"Springfield, MO",29043,191679.43953
+Josephine County,county,OR,"Grants Pass, OR",41033,286451.06994
+Elmore County,county,AL,"Montgomery, AL",01051,179704.21708
+Cullman County,county,AL,"Cullman, AL",01043,160956.80454
+Dougherty County,county,GA,"Albany, GA",13095,70978.51742
+Angelina County,county,TX,"Lufkin, TX",48005,134588.42904
+Bannock County,county,ID,"Pocatello, ID",16005,191439.5661
+Polk County,county,OR,"Salem, OR",41053,315227.87274
+Muskingum County,county,OH,"Zanesville, OH",39119,118443.78244
+Lawrence County,county,PA,"New Castle, PA",42073,104241.30477
+Island County,county,WA,"Oak Harbor, WA",53029,404254.5119
+Lincoln County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37109,232720.30106
+Buchanan County,county,MO,"St. Joseph, MO-KS",29021,116812.13604
+Newport County,county,RI,"Providence-Warwick, RI-MA",44005,435785.75047
+Orange County,county,TX,"Beaumont-Port Arthur, TX",48361,159230.22
+Orangeburg County,county,SC,"Orangeburg, SC",45075,101480.25138
+Jefferson County,county,WI,"Watertown-Fort Atkinson, WI",55055,216538.48458
+Wood County,county,WV,"Parkersburg-Vienna, WV",54107,115336.0919
+Crawford County,county,PA,"Meadville, PA",42039,115465.96386
+Chemung County,county,NY,"Elmira, NY",36015,101213.25131
+Glynn County,county,GA,"Brunswick, GA",13127,217412.87949
+Cascade County,county,MT,"Great Falls, MT",30013,191019.34248
+Indiana County,county,PA,"Indiana, PA",42063,112098.45974
+Midland County,county,MI,"Midland, MI",26111,142062.1692
+Lee County,county,MS,"Tupelo, MS",28081,136311.55122
+Howard County,county,IN,"Kokomo, IN",18067,107958.10875
+Rockingham County,county,VA,"Harrisonburg, VA",51165,219945.85296
+Saint Landry Parish,county,LA,"Opelousas, LA",22097,135901.87743
+Monroe County,county,FL,"Key West, FL",12087,576834.43611
+Barrow County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13013,193233.58721
+Talladega County,county,AL,"Talladega-Sylacauga, AL",01121,117334.62073
+Payne County,county,OK,"Stillwater, OK",40119,153422.52796
+Henderson County,county,TX,"Athens, TX",48213,177448.42789
+Bartholomew County,county,IN,"Columbus, IN",18005,169858.38962
+Bullitt County,county,KY,"Louisville/Jefferson County, KY-IN",21029,188989.31695
+Coryell County,county,TX,"Killeen-Temple, TX",48099,136208.76966
+Leavenworth County,county,KS,"Kansas City, MO-KS",20103,200278.7203
+Lewis County,county,WA,"Centralia, WA",53041,255054.04088
+Manitowoc County,county,WI,"Manitowoc, WI",55071,138198.21977
+Cape Girardeau County,county,MO,"Cape Girardeau, MO-IL",29031,158464.64404
+Caldwell County,county,NC,"Hickory-Lenoir-Morganton, NC",37027,128145.74553
+Clearfield County,county,PA,"DuBois, PA",42033,109355.12455
+Wagoner County,county,OK,"Tulsa, OK",40145,174551.49596
+Yuba County,county,CA,"Yuba City, CA",06115,280461.59962
+Kosciusko County,county,IN,"Warsaw, IN",18085,174608.79135
+Clinton County,county,NY,"Plattsburgh, NY",36019,136856.01209
+Bulloch County,county,GA,"Statesboro, GA",13031,151399.58149
+Umatilla County,county,OR,"Hermiston-Pendleton, OR",41059,192071.1056
+Natrona County,county,WY,"Casper, WY",56025,205113.73231
+Floyd County,county,IN,"Louisville/Jefferson County, KY-IN",18043,182618.53251
+Bedford County,county,VA,"Lynchburg, VA",51019,216757.84771
+Putnam County,county,TN,"Cookeville, TN",47141,176366.726
+Clinton County,county,MI,"Lansing-East Lansing, MI",26037,197139.6338
+Lynchburg City,county,VA,"Lynchburg, VA",51680,147198.39766
+Wilson County,county,NC,"Wilson, NC",37195,119932.45133
+Hancock County,county,IN,"Indianapolis-Carmel-Anderson, IN",18059,198298.33612
+Chelan County,county,WA,"Wenatchee, WA",53007,345051.28213
+Sullivan County,county,NY,,36105,153759.03368
+Oconee County,county,SC,"Seneca, SC",45073,163268.43362
+James City County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51095,319973.52984
+Forrest County,county,MS,"Hattiesburg, MS",28035,136106.24657
+Cole County,county,MO,"Jefferson City, MO",29051,159262.1111
+Cattaraugus County,county,NY,"Olean, NY",36009,90309.38092
+Ross County,county,OH,"Chillicothe, OH",39141,129474.78189
+Augusta County,county,VA,"Staunton, VA",51015,241822.18428
+White County,county,AR,"Searcy, AR",05145,129897.81184
+Clallam County,county,WA,"Port Angeles, WA",53009,314919.57757
+Anderson County,county,TN,"Knoxville, TN",47001,152421.01686
+Cayuga County,county,NY,"Auburn, NY",36011,129909.54774
+Walker County,county,TX,"Huntsville, TX",48471,196717.74638
+Cheshire County,county,NH,"Keene, NH",33005,198074.14278
+Valencia County,county,NM,"Albuquerque, NM",35061,178451.05498
+Erie County,county,OH,"Sandusky, OH",39043,140715.12053
+Van Buren County,county,MI,,26159,176832.66675
+Hancock County,county,OH,"Findlay, OH",39063,150601.0818
+Chatham County,county,NC,"Durham-Chapel Hill, NC",37037,336186.9018
+Vermilion County,county,IL,"Danville, IL",17183,63163.32499
+Raleigh County,county,WV,"Beckley, WV",54081,89150.9699
+Grays Harbor County,county,WA,"Aberdeen, WA",53027,201380.06808
+Scioto County,county,OH,"Portsmouth, OH",39145,88149.17585
+Somerset County,county,PA,"Somerset, PA",42111,109387.53698
+Wood County,county,WI,"Wisconsin Rapids-Marshfield, WI",55141,137609.30004
+Jackson County,county,GA,"Jefferson, GA",13157,234308.3528
+Lonoke County,county,AR,"Little Rock-North Little Rock-Conway, AR",05085,155725.69943
+Lauderdale County,county,MS,"Meridian, MS",28075,97192.64325
+Walton County,county,FL,"Crestview-Fort Walton Beach-Destin, FL",12131,405966.5061
+Kauai County,county,HI,"Kapaa, HI",15007,604825.36851
+Putnam County,county,FL,"Palatka, FL",12107,125100.60314
+Grand Forks County,county,ND,"Grand Forks, ND-MN",38035,219566.93634
+McKinley County,county,NM,"Gallup, NM",35031,161457.56027
+Lea County,county,NM,"Hobbs, NM",35025,209579.45505
+Riley County,county,KS,"Manhattan, KS",20161,190600.91111
+Fauquier County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51061,420234.18461
+Christian County,county,KY,"Clarksville, TN-KY",21047,107256.24362
+Broomfield County,county,CO,"Denver-Aurora-Lakewood, CO",08014,474090.173
+Pottawatomie County,county,OK,"Shawnee, OK",40125,103525.06027
+Robertson County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47147,232618.70144
+Creek County,county,OK,"Tulsa, OK",40037,139574.11468
+York County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51199,314689.94542
+De Kalb County,county,AL,"Fort Payne, AL",01049,128206.22583
+Surry County,county,NC,"Mount Airy, NC",37171,122690.15579
+Morgan County,county,IN,"Indianapolis-Carmel-Anderson, IN",18109,176024.54995
+Tooele County,county,UT,"Salt Lake City, UT",49045,294421.49223
+Franklin County,county,MA,"Springfield, MA",25011,222254.31124
+Iberia Parish,county,LA,"Lafayette, LA",22045,126310.96568
+Portage County,county,WI,"Stevens Point, WI",55097,196327.39388
+Lewis and Clark County,county,MT,"Helena, MT",30049,263426.85554
+Greene County,county,TN,"Greeneville, TN",47059,132429.38419
+Boone County,county,IN,"Indianapolis-Carmel-Anderson, IN",18011,261312.51093
+Ward County,county,ND,"Minot, ND",38101,198484.93553
+Troup County,county,GA,"LaGrange, GA-AL",13285,127943.5163
+Greenwood County,county,SC,"Greenwood, SC",45047,107028.96907
+Columbia County,county,FL,"Lake City, FL",12023,149574.1249
+Klamath County,county,OR,"Klamath Falls, OR",41035,173301.92161
+Allegany County,county,MD,"Cumberland, MD-WV",24001,100744.21242
+Harrison County,county,TX,"Longview, TX",48203,161446.79921
+Blue Earth County,county,MN,"Mankato, MN",27013,203271.13226
+San Patricio County,county,TX,"Corpus Christi, TX",48409,177676.58918
+Madison County,county,NY,"Syracuse, NY",36053,138815.49103
+Shiawassee County,county,MI,"Lansing-East Lansing, MI",26155,131675.32275
+Jefferson County,county,AR,"Pine Bluff, AR",05069,62121.86708
+Wise County,county,TX,"Dallas-Fort Worth-Arlington, TX",48497,258629.65182
+Carteret County,county,NC,"Morehead City, NC",37031,269679.63712
+Walker County,county,GA,"Chattanooga, TN-GA",13295,136120.2195
+Lake County,county,CA,"Clearlake, CA",06033,256722.00555
+Franklin County,county,NC,"Raleigh-Cary, NC",37069,218827.14414
+Oldham County,county,KY,"Louisville/Jefferson County, KY-IN",21185,300194.36687
+Catoosa County,county,GA,"Chattanooga, TN-GA",13047,164839.37599
+Butler County,county,KS,"Wichita, KS",20015,159852.14562
+McCracken County,county,KY,"Paducah, KY-IL",21145,113586.51505
+Jones County,county,MS,"Laurel, MS",28067,115225.10177
+Otero County,county,NM,"Alamogordo, NM",35035,134911.30219
+Aroostook County,county,ME,,23003,91357.40014
+Williamson County,county,IL,"Carbondale-Marion, IL",17199,111970.80803
+Laurens County,county,SC,"Greenville-Anderson, SC",45059,151796.08216
+Belmont County,county,OH,"Wheeling, WV-OH",39013,104236.34302
+Saint Francois County,county,MO,"Farmington, MO",29187,116351.19116
+Muskogee County,county,OK,"Muskogee, OK",40101,87181.6566
+Grant County,county,IN,"Marion, IN",18053,89340.63161
+Rice County,county,MN,"Faribault-Northfield, MN",27131,233916.84263
+Spalding County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13255,137034.07577
+Wayne County,county,IN,"Richmond, IN",18177,98352.23348
+Ionia County,county,MI,"Grand Rapids-Kentwood, MI",26067,148105.0849
+Apache County,county,AZ,,04001,180186.28733
+Montcalm County,county,MI,"Grand Rapids-Kentwood, MI",26117,138726.88905
+Marquette County,county,MI,"Marquette, MI",26103,145606.53658
+Wilkes County,county,NC,"North Wilkesboro, NC",37193,135148.2719
+Harrison County,county,WV,"Clarksburg, WV",54033,115005.73043
+Armstrong County,county,PA,"Pittsburgh, PA",42005,94000.01832
+Crow Wing County,county,MN,"Brainerd, MN",27035,208063.67759
+Adams County,county,IL,"Quincy, IL-MO",17001,140572.89945
+Chippewa County,county,WI,"Eau Claire, WI",55017,189134.28257
+Isabella County,county,MI,"Mount Pleasant, MI",26073,138341.18015
+Warren County,county,NY,"Glens Falls, NY",36113,211412.46185
+Starr County,county,TX,"Rio Grande City-Roma, TX",48427,111130.61168
+Marion County,county,OH,"Marion, OH",39101,105667.90171
+Jefferson County,county,OH,"Weirton-Steubenville, WV-OH",39081,83042.968
+Tehama County,county,CA,"Red Bluff, CA",06103,228554.75591
+Sauk County,county,WI,"Baraboo, WI",55111,214815.36353
+Walker County,county,AL,"Jasper, AL",01127,129308.9848
+Clay County,county,MN,"Fargo, ND-MN",27027,220063.11195
+Chaves County,county,NM,"Roswell, NM",35005,116995.20207
+Columbia County,county,PA,"Bloomsburg-Berwick, PA",42037,171256.52044
+Kershaw County,county,SC,"Columbia, SC",45055,157634.48869
+Mason County,county,WA,"Shelton, WA",53045,277891.84194
+Nacogdoches County,county,TX,"Nacogdoches, TX",48347,156143.1788
+Carbon County,county,PA,"Allentown-Bethlehem-Easton, PA-NJ",42025,141155.1987
+Salem County,county,NJ,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",34033,157031.79908
+Pulaski County,county,KY,"Somerset, KY",21199,113965.19662
+Coos County,county,OR,"Coos Bay, OR",41011,222290.74743
+Rutherford County,county,NC,"Forest City, NC",37161,132929.71227
+Liberty County,county,GA,"Hinesville, GA",13179,135120.61797
+Hamblen County,county,TN,"Morristown, TN",47063,153438.65105
+Lamar County,county,MS,"Hattiesburg, MS",28073,182330.96847
+Warrick County,county,IN,"Evansville, IN-KY",18173,177657.10831
+Belknap County,county,NH,"Laconia, NH",33001,253572.80668
+Effingham County,county,GA,"Savannah, GA",13103,196638.87271
+Darlington County,county,SC,"Florence, SC",45031,104046.23907
+San Benito County,county,CA,"San Jose-Sunnyvale-Santa Clara, CA",06069,598672.75055
+Lincoln County,county,SD,"Sioux Falls, SD",46083,260393.92933
+Pope County,county,AR,"Russellville, AR",05115,141613.06077
+Georgetown County,county,SC,"Georgetown, SC",45043,238843.12759
+Athens County,county,OH,"Athens, OH",39009,125021.51359
+Lee County,county,NC,"Sanford, NC",37105,150136.72269
+Garfield County,county,OK,"Enid, OK",40047,100536.28215
+Hall County,county,NE,"Grand Island, NE",31079,161482.07167
+Knox County,county,OH,"Mount Vernon, OH",39083,165689.249
+Livingston County,county,NY,"Rochester, NY",36051,136889.66098
+Walla Walla County,county,WA,"Walla Walla, WA",53071,264177.18482
+Stanly County,county,NC,"Albemarle, NC",37167,159524.4452
+Laurel County,county,KY,"London, KY",21125,113937.06612
+Reno County,county,KS,"Hutchinson, KS",20155,94244.25531
+Barry County,county,MI,,26015,176110.25217
+Union County,county,OH,"Columbus, OH",39159,263560.43493
+Haywood County,county,NC,"Asheville, NC",37087,207119.43377
+Columbia County,county,NY,"Hudson, NY",36021,244472.51235
+Washington County,county,NY,"Glens Falls, NY",36115,153776.90839
+Garfield County,county,CO,"Glenwood Springs, CO",08045,406976.81004
+Eddy County,county,NM,"Carlsbad-Artesia, NM",35015,189662.00594
+Tipton County,county,TN,"Memphis, TN-MS-AR",47167,161907.52195
+Crawford County,county,AR,"Fort Smith, AR-OK",05033,135618.3821
+Granville County,county,NC,"Durham-Chapel Hill, NC",37077,181655.21823
+Pittsylvania County,county,VA,"Danville, VA",51143,115079.23064
+Saint Joseph County,county,MI,"Sturgis, MI",26149,136388.33083
+Herkimer County,county,NY,"Utica-Rome, NY",36043,114332.33495
+Rutland County,county,VT,"Rutland, VT",50021,191566.13535
+Cumberland County,county,TN,"Crossville, TN",47035,162533.66207
+Hood County,county,TX,"Granbury, TX",48221,249163.96258
+Bradford County,county,PA,"Sayre, PA",42015,135330.35645
+Pender County,county,NC,"Wilmington, NC",37141,269114.4356
+Washington County,county,OH,"Marietta, OH",39167,137523.51544
+Mercer County,county,WV,"Bluefield, WV-VA",54055,78439.04377
+Otter Tail County,county,MN,"Fergus Falls, MN",27111,209407.85566
+Washington County,county,VT,"Barre, VT",50023,243212.39006
+Sampson County,county,NC,,37163,102129.07432
+Sandusky County,county,OH,"Fremont, OH",39143,115340.57792
+Otsego County,county,NY,"Oneonta, NY",36077,135239.12066
+Lawrence County,county,OH,"Huntington-Ashland, WV-KY-OH",39087,106163.19365
+Pike County,county,KY,,21195,56655.26111
+Lowndes County,county,MS,"Columbus, MS",28087,133385.18377
+Blount County,county,AL,"Birmingham-Hoover, AL",01009,163299.14116
+Van Zandt County,county,TX,,48467,183183.88971
+Kenai Peninsula Borough,county,AK,,02122,265909.49638
+Russell County,county,AL,"Columbus, GA-AL",01113,119597.29154
+Lincoln County,county,MO,"St. Louis, MO-IL",29113,188483.18567
+Newton County,county,MO,"Joplin, MO",29145,138234.43092
+Huron County,county,OH,"Norwalk, OH",39077,120212.24688
+Pickaway County,county,OH,"Columbus, OH",39129,192673.88887
+Genesee County,county,NY,"Batavia, NY",36037,125350.05887
+Pike County,county,PA,"New York-Newark-Jersey City, NY-NJ-PA",42103,156599.36327
+Autauga County,county,AL,"Montgomery, AL",01001,174083.04224
+Columbia County,county,WI,"Madison, WI",55021,215011.52178
+Acadia Parish,county,LA,"Lafayette, LA",22001,130959.46244
+Anderson County,county,TX,"Palestine, TX",48001,124789.84631
+Lyon County,county,NV,"Fernley, NV",32019,276231.6729
+Carson City,county,NV,"Carson City, NV",32510,323691.94672
+Oxford County,county,ME,,23017,164490.37153
+Vermilion Parish,county,LA,"Lafayette, LA",22113,148414.09837
+Maverick County,county,TX,"Eagle Pass, TX",48323,154483.68487
+Jefferson County,county,WV,"Washington-Arlington-Alexandria, DC-VA-MD-WV",54037,246546.18246
+Windsor County,county,VT,"Lebanon, NH-VT",50027,254362.40807
+Putnam County,county,WV,"Huntington-Ashland, WV-KY-OH",54079,164088.68093
+Coffee County,county,TN,"Tullahoma-Manchester, TN",47031,164302.44183
+Gordon County,county,GA,"Calhoun, GA",13129,148716.15741
+Box Elder County,county,UT,"Ogden-Clearfield, UT",49003,260660.90771
+Hawkins County,county,TN,"Kingsport-Bristol, TN-VA",47073,134472.15429
+Chisago County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27025,257626.96901
+Carter County,county,TN,"Johnson City, TN",47019,131836.43608
+Scott County,county,KY,"Lexington-Fayette, KY",21209,195043.21312
+Marion County,county,WV,"Fairmont, WV",54049,117840.21566
+Cherokee County,county,SC,"Gaffney, SC",45021,133484.19674
+Hardin County,county,TX,"Beaumont-Port Arthur, TX",48199,181392.41015
+Colbert County,county,AL,"Florence-Muscle Shoals, AL",01033,122136.51248
+Pearl River County,county,MS,"Picayune, MS",28109,155978.23512
+Whiteside County,county,IL,"Sterling, IL",17195,89966.78277
+Taney County,county,MO,"Branson, MO",29213,158636.94215
+Iron County,county,UT,"Cedar City, UT",49021,244712.62159
+Lafayette County,county,MS,"Oxford, MS",28071,227293.18304
+Eagle County,county,CO,"Edwards, CO",08037,709206.93574
+La Plata County,county,CO,"Durango, CO",08067,413238.63945
+Campbell County,county,VA,"Lynchburg, VA",51031,161264.67192
+Waller County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48473,261393.47968
+Hancock County,county,ME,,23009,241658.24601
+Lenoir County,county,NC,"Kinston, NC",37107,78862.76372
+Tuolumne County,county,CA,"Sonora, CA",06109,310050.18602
+Seneca County,county,OH,"Tiffin, OH",39147,105182.4955
+Franklin County,county,VA,"Roanoke, VA",51067,210630.53341
+Grady County,county,OK,"Oklahoma City, OK",40051,140423.00262
+Saline County,county,KS,"Salina, KS",20169,118238.12001
+Jefferson County,county,TN,"Morristown, TN",47089,181865.74844
+Loudon County,county,TN,"Knoxville, TN",47105,241609.57527
+Camden County,county,GA,"St. Marys, GA",13039,171265.6921
+Watauga County,county,NC,"Boone, NC",37189,280112.88236
+Washington County,county,VA,"Kingsport-Bristol, TN-VA",51191,149305.27988
+Dickson County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47043,219843.95039
+Johnson County,county,MO,"Warrensburg, MO",29101,180839.35204
+Jackson County,county,IL,"Carbondale-Marion, IL",17077,64525.43275
+Boone County,county,IL,"Rockford, IL",17007,164007.54158
+Fulton County,county,NY,"Gloversville, NY",36035,123682.56763
+Pulaski County,county,MO,"Fort Leonard Wood, MO",29169,135045.69936
+Elko County,county,NV,"Elko, NV",32007,253491.65516
+Roane County,county,TN,"Knoxville, TN",47145,164629.13685
+Tuscola County,county,MI,,26157,111001.8524
+Gila County,county,AZ,"Payson, AZ",04007,232565.07136
+McMinn County,county,TN,"Athens, TN",47107,150731.7996
+Coffee County,county,AL,"Enterprise, AL",01031,136881.53703
+Jessamine County,county,KY,"Lexington-Fayette, KY",21113,184145.5453
+Ashland County,county,OH,"Ashland, OH",39005,137981.89025
+Jackson County,county,AL,"Scottsboro, AL",01071,122376.27917
+Rusk County,county,TX,"Longview, TX",48401,147720.30833
+Kerr County,county,TX,"Kerrville, TX",48265,248626.17162
+Washington County,county,OK,"Bartlesville, OK",40147,112390.90824
+Columbia County,county,OR,"Portland-Vancouver-Hillsboro, OR-WA",41009,312531.50046
+Grundy County,county,IL,"Chicago-Naperville-Elgin, IL-IN-WI",17063,213655.35012
+Saint Charles Parish,county,LA,"New Orleans-Metairie, LA",22089,217276.84396
+Worcester County,county,MD,"Salisbury, MD-DE",24047,264363.21685
+Saint Martin Parish,county,LA,"Lafayette, LA",22099,140347.09541
+Grant County,county,WI,"Platteville, WI",55043,143865.08945
+Hoke County,county,NC,"Fayetteville, NC",37093,161507.59244
+Calumet County,county,WI,"Appleton, WI",55015,216205.17161
+Harrisonburg City,county,VA,"Harrisonburg, VA",51660,213395.02641
+Culpeper County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51047,298344.7022
+Navarro County,county,TX,"Corsicana, TX",48349,132796.1689
+Warren County,county,IA,"Des Moines-West Des Moines, IA",19181,220754.97903
+Darke County,county,OH,"Greenville, OH",39037,124599.14366
+Ogle County,county,IL,"Rochelle, IL",17141,146896.60786
+Waupaca County,county,WI,,55135,157108.2018
+Cass County,county,MI,"South Bend-Mishawaka, IN-MI",26027,169920.51651
+Columbus County,county,NC,,37047,122865.71258
+Oktibbeha County,county,MS,"Starkville, MS",28105,195212.49845
+Franklin County,county,KY,"Frankfort, KY",21073,141002.74636
+Wayne County,county,PA,,42127,166982.38058
+Henry County,county,VA,"Martinsville, VA",51089,88691.16074
+Madison County,county,ID,"Rexburg, ID",16065,239056.13179
+Venango County,county,PA,"Oil City, PA",42121,83051.17403
+Bristol County,county,RI,"Providence-Warwick, RI-MA",44001,369010.75974
+Cherokee County,county,TX,"Jacksonville, TX",48073,131626.2215
+Dearborn County,county,IN,"Cincinnati, OH-KY-IN",18029,192710.34947
+Medina County,county,TX,"San Antonio-New Braunfels, TX",48325,233492.90548
+Somerset County,county,ME,,23025,115520.85367
+Gibson County,county,TN,"Jackson, TN",47053,102970.78986
+Knox County,county,IL,"Galesburg, IL",17095,87029.62957
+Nye County,county,NV,"Pahrump, NV",32023,210082.5258
+Carroll County,county,NH,,33003,264584.44079
+Lamar County,county,TX,"Paris, TX",48277,129721.29536
+Winona County,county,MN,"Winona, MN",27169,177709.21768
+Lincoln County,county,OR,"Newport, OR",41041,288421.7108
+Buffalo County,county,NE,"Kearney, NE",31019,204377.43238
+Duplin County,county,NC,,37061,105833.29773
+Saint Mary Parish,county,LA,"Morgan City, LA",22101,110937.74446
+Franklin County,county,VT,"Burlington-South Burlington, VT",50011,229209.74865
+Bedford County,county,TN,"Shelbyville, TN",47003,189375.87622
+Queen Annes County,county,MD,"Baltimore-Columbia-Towson, MD",24035,350109.118
+Newaygo County,county,MI,,26123,137706.84532
+Edgecombe County,county,NC,"Rocky Mount, NC",37065,74234.64654
+Montgomery County,county,NY,"Amsterdam, NY",36057,117022.23753
+Dale County,county,AL,"Ozark, AL",01045,104320.04096
+Henry County,county,IL,"Davenport-Moline-Rock Island, IA-IL",17073,116144.74901
+Wilson County,county,TX,"San Antonio-New Braunfels, TX",48493,287373.33544
+Polk County,county,TX,,48373,127770.00638
+Halifax County,county,NC,"Roanoke Rapids, NC",37083,60598.92451
+Laurens County,county,GA,"Dublin, GA",13175,118388.0495
+Douglas County,county,NV,"Gardnerville Ranchos, NV",32005,462035.20657
+Vernon Parish,county,LA,"Fort Polk South, LA",22115,134152.7955
+Fremont County,county,CO,"Ca-¦on City, CO",08043,215662.20958
+Logan County,county,OK,"Oklahoma City, OK",40083,185923.26646
+Henry County,county,IN,"New Castle, IN",18065,101657.31274
+Curry County,county,NM,"Clovis, NM",35009,134965.44432
+Atascosa County,county,TX,"San Antonio-New Braunfels, TX",48013,191183.91046
+Tioga County,county,NY,"Binghamton, NY",36107,121619.99636
+Le Flore County,county,OK,,40079,92922.84544
+Burnet County,county,TX,,48053,270432.59324
+Lincoln Parish,county,LA,"Ruston, LA",22061,175734.04835
+Shelby County,county,OH,"Sidney, OH",39149,142086.2273
+Crittenden County,county,AR,"Memphis, TN-MS-AR",05035,118815.04344
+Whitman County,county,WA,"Pullman, WA",53075,249352.46429
+Carter County,county,OK,"Ardmore, OK",40019,105689.91465
+Jackson County,county,FL,,12063,108560.16088
+Boyd County,county,KY,"Huntington-Ashland, WV-KY-OH",21019,82678.88026
+Greene County,county,NY,,36039,193562.37733
+Franklin County,county,NY,"Malone, NY",36033,108110.23757
+Val Verde County,county,TX,"Del Rio, TX",48465,144346.74232
+Bedford County,county,PA,,42009,152629.39867
+Coles County,county,IL,"Charleston-Mattoon, IL",17029,94360.99976
+Bingham County,county,ID,"Blackfoot, ID",16011,202887.81291
+Shelby County,county,KY,"Louisville/Jefferson County, KY-IN",21211,205930.36109
+Goodhue County,county,MN,"Red Wing, MN",27049,223823.97217
+Santa Cruz County,county,AZ,"Nogales, AZ",04023,163096.7599
+Chenango County,county,NY,,36017,93223.53397
+Cherokee County,county,OK,"Tahlequah, OK",40021,113472.18761
+Noble County,county,IN,"Kendallville, IN",18113,144499.207
+Cortland County,county,NY,"Cortland, NY",36023,122137.49595
+Campbell County,county,WY,"Gillette, WY",56005,249714.62129
+Allegany County,county,NY,,36003,77516.56674
+Charlottesville City,county,VA,"Charlottesville, VA",51540,341201.49893
+Clinton County,county,IA,"Clinton, IA",19045,122877.25916
+Barron County,county,WI,,55005,163456.95995
+Bonner County,county,ID,"Sandpoint, ID",16017,341724.25209
+Nelson County,county,KY,"Bardstown, KY",21179,154391.56886
+Auglaize County,county,OH,"Wapakoneta, OH",39011,144010.01686
+Marshall County,county,IN,"Plymouth, IN",18099,148364.24846
+Mifflin County,county,PA,"Lewistown, PA",42087,110026.7609
+Osage County,county,OK,"Tulsa, OK",40113,127268.26757
+Monroe County,county,WI,,55081,159263.53676
+Stevens County,county,WA,"Spokane-Spokane Valley, WA",53065,228573.02638
+Monroe County,county,TN,,47123,162972.18821
+Beltrami County,county,MN,"Bemidji, MN",27007,168775.74392
+Logan County,county,OH,"Bellefontaine, OH",39091,147074.42506
+Jackson County,county,IN,"Seymour, IN",18071,141221.96494
+Hancock County,county,MS,"Gulfport-Biloxi, MS",28045,158107.66606
+Perry County,county,PA,"Harrisburg-Carlisle, PA",42099,197353.97834
+Windham County,county,VT,,50025,237083.04307
+Bryan County,county,OK,"Durant, OK",40013,137023.30661
+Colquitt County,county,GA,"Moultrie, GA",13071,100247.32882
+Washington Parish,county,LA,"Bogalusa, LA",22117,117030.34856
+Habersham County,county,GA,"Cornelia, GA",13137,166665.12358
+Hillsdale County,county,MI,"Hillsdale, MI",26059,133573.06225
+Thomas County,county,GA,"Thomasville, GA",13275,132580.03728
+Greene County,county,AR,"Paragould, AR",05055,122870.28467
+Washington County,county,MS,"Greenville, MS",28151,81686.36004
+Hopkins County,county,KY,"Madisonville, KY",21107,92529.44212
+Henderson County,county,KY,"Evansville, IN-KY",21101,126791.91801
+Calaveras County,county,CA,,06009,318193.73755
+Caldwell County,county,TX,"Austin-Round Rock-Georgetown, TX",48055,193484.72934
+Chambers County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48071,258872.73015
+Dunn County,county,WI,"Menomonie, WI",55033,190869.9562
+Macoupin County,county,IL,"St. Louis, MO-IL",17117,102081.70964
+Warren County,county,MS,"Vicksburg, MS",28149,122104.82615
+Lawrence County,county,IN,"Bedford, IN",18093,118712.66213
+Itasca County,county,MN,"Grand Rapids, MN",27061,158267.2565
+Chilton County,county,AL,"Birmingham-Hoover, AL",01021,146187.57076
+Shelby County,county,IN,"Indianapolis-Carmel-Anderson, IN",18145,141556.28441
+Stephenson County,county,IL,"Freeport, IL",17177,85869.86284
+Polk County,county,WI,,55095,204838.92909
+Beaufort County,county,NC,"Washington, NC",37013,138702.77748
+Phelps County,county,MO,"Rolla, MO",29161,137168.20887
+Branch County,county,MI,"Coldwater, MI",26023,147095.34335
+Delaware County,county,NY,,36025,137501.18868
+Wood County,county,TX,,48499,164328.62915
+Stokes County,county,NC,"Winston-Salem, NC",37169,149271.5573
+McDowell County,county,NC,"Marion, NC",37111,169321.40243
+Jefferson County,county,PA,,42065,94282.69213
+Huntingdon County,county,PA,"Huntingdon, PA",42061,124860.04957
+Callaway County,county,MO,"Jefferson City, MO",29027,177837.559
+Barren County,county,KY,"Glasgow, KY",21009,119001.13505
+Gadsden County,county,FL,"Tallahassee, FL",12039,113036.21775
+Shenandoah County,county,VA,,51171,203412.31456
+Holmes County,county,OH,,39075,216338.5235
+Siskiyou County,county,CA,,06093,206965.46094
+Kittitas County,county,WA,"Ellensburg, WA",53037,329582.94525
+Douglas County,county,WI,"Duluth, MN-WI",55031,150751.17709
+Kay County,county,OK,"Ponca City, OK",40071,72231.18037
+Lawrence County,county,TN,"Lawrenceburg, TN",47099,140798.06586
+Madison County,county,OH,"Columbus, OH",39097,199967.56329
+Baldwin County,county,GA,"Milledgeville, GA",13009,124426.42961
+Kendall County,county,TX,"San Antonio-New Braunfels, TX",48259,397123.72002
+Pittsburg County,county,OK,"McAlester, OK",40121,90728.86887
+Saint Bernard Parish,county,LA,"New Orleans-Metairie, LA",22087,161576.45487
+Ravalli County,county,MT,,30081,300391.48233
+Brown County,county,OH,"Cincinnati, OH-KY-IN",39015,144942.72539
+Chesterfield County,county,SC,,45025,111957.58292
+Suwannee County,county,FL,,12121,153380.58354
+Kandiyohi County,county,MN,"Willmar, MN",27067,176977.66016
+Dubois County,county,IN,"Jasper, IN",18037,161885.20292
+Richmond County,county,NC,"Rockingham, NC",37153,85174.76678
+Bryan County,county,GA,"Savannah, GA",13029,240465.73054
+Cerro Gordo County,county,IA,"Mason City, IA",19033,129853.07881
+Highland County,county,OH,,39071,111475.04606
+Muscatine County,county,IA,"Muscatine, IA",19139,138044.18629
+Sullivan County,county,NH,"Lebanon, NH-VT",33019,189092.79686
+Union County,county,PA,"Lewisburg, PA",42119,186162.01473
+De Kalb County,county,IN,"Auburn, IN",18033,148212.68549
+Camden County,county,MO,,29029,211380.30454
+Coffee County,county,GA,"Douglas, GA",13069,92570.20966
+Jackson County,county,NC,"Cullowhee, NC",37099,253461.42236
+Stephens County,county,OK,"Duncan, OK",40137,84297.49836
+Pettis County,county,MO,"Sedalia, MO",29159,103505.48219
+Miller County,county,AR,"Texarkana, TX-AR",05091,121705.00278
+Manassas City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51683,324205.82683
+Fulton County,county,OH,"Toledo, OH",39051,142546.4077
+Polk County,county,GA,"Cedartown, GA",13233,112426.80351
+Vance County,county,NC,"Henderson, NC",37181,114714.85268
+Douglas County,county,WA,"Wenatchee, WA",53017,331145.65852
+Ohio County,county,WV,"Wheeling, WV-OH",54069,110862.01123
+Danville City,county,VA,"Danville, VA",51590,64480.1502
+Davie County,county,NC,"Winston-Salem, NC",37059,193862.69975
+Franklin County,county,TN,"Tullahoma-Manchester, TN",47051,176339.34982
+Sweetwater County,county,WY,"Rock Springs, WY",56037,219084.04541
+Saint John the Baptist Parish,county,LA,"New Orleans-Metairie, LA",22095,176222.92679
+Levy County,county,FL,"Gainesville, FL",12075,162944.41861
+Montrose County,county,CO,"Montrose, CO",08085,266471.17056
+Butler County,county,MO,"Poplar Bluff, MO",29023,112505.12907
+Erath County,county,TX,"Stephenville, TX",48143,190050.47268
+Prince George County,county,VA,"Richmond, VA",51149,207574.95717
+Pierce County,county,WI,"Minneapolis-St. Paul-Bloomington, MN-WI",55093,237586.13406
+Summit County,county,UT,"Heber, UT",49043,766183.54
+Mercer County,county,OH,"Celina, OH",39107,159231.85047
+Clinton County,county,OH,"Wilmington, OH",39027,141762.84509
+Okanogan County,county,WA,,53047,198774.07472
+Crawford County,county,OH,"Bucyrus-Galion, OH",39033,88104.46509
+Nez Perce County,county,ID,"Lewiston, ID-WA",16069,220138.95622
+Gratiot County,county,MI,"Alma, MI",26057,114066.56715
+Marinette County,county,WI,"Marinette, WI-MI",55075,114639.69689
+Wharton County,county,TX,"El Campo, TX",48481,164461.84761
+Fayette County,county,TN,"Memphis, TN-MS-AR",47047,243416.10398
+Baxter County,county,AR,"Mountain Home, AR",05005,151580.81425
+Tallapoosa County,county,AL,"Alexander City, AL",01123,158716.14797
+Cooke County,county,TX,"Gainesville, TX",48097,198674.43979
+McClain County,county,OK,"Oklahoma City, OK",40087,183229.58337
+Tift County,county,GA,"Tifton, GA",13277,132490.35162
+Benton County,county,MN,"St. Cloud, MN",27009,195492.45565
+Fayette County,county,WV,"Beckley, WV",54019,69824.4038
+Tioga County,county,PA,,42117,140904.18054
+Preble County,county,OH,,39135,126959.11392
+Oconee County,county,GA,"Athens-Clarke County, GA",13219,330924.48928
+Mississippi County,county,AR,"Blytheville, AR",05093,64726.03275
+Cheatham County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47021,240382.12056
+Shawano County,county,WI,"Shawano, WI",55115,142167.66817
+Sanilac County,county,MI,,26151,136886.23031
+Warren County,county,TN,"McMinnville, TN",47177,137840.41903
+Upshur County,county,TX,"Longview, TX",48459,161593.94393
+Clatsop County,county,OR,"Astoria, OR",41007,325896.05134
+Delaware County,county,OK,,40041,160909.56717
+Wyoming County,county,NY,,36121,121252.22155
+McKean County,county,PA,"Bradford, PA",42083,86193.29104
+Tazewell County,county,VA,"Bluefield, WV-VA",51185,89649.77787
+Isanti County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27059,228287.46775
+Orleans County,county,NY,"Rochester, NY",36073,108213.84582
+Knox County,county,ME,,23013,239725.83506
+Ottawa County,county,OH,"Toledo, OH",39123,171304.44719
+Rio Arriba County,county,NM,"Espa-¦ola, NM",35039,220711.00986
+Warren County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51187,236377.75709
+Pike County,county,MS,"McComb, MS",28113,98948.64799
+Pasquotank County,county,NC,"Elizabeth City, NC",37139,153425.799
+Marshall County,county,IA,"Marshalltown, IA",19127,115456.3985
+Amador County,county,CA,,06005,335392.84603
+Lagrange County,county,IN,,18087,214803.2514
+Mecosta County,county,MI,"Big Rapids, MI",26107,134805.23409
+Mower County,county,MN,"Austin, MN",27099,120990.2329
+Avoyelles Parish,county,LA,,22009,145937.70885
+Snyder County,county,PA,"Selinsgrove, PA",42109,165981.38145
+Murray County,county,GA,"Dalton, GA",13213,140178.85175
+Howell County,county,MO,"West Plains, MO",29091,116435.54196
+Okeechobee County,county,FL,"Okeechobee, FL",12093,155371.20056
+Sequoyah County,county,OK,"Fort Smith, AR-OK",40135,107224.96448
+Waldo County,county,ME,,23027,191791.43545
+Harrison County,county,IN,"Louisville/Jefferson County, KY-IN",18061,164266.91299
+Latah County,county,ID,"Moscow, ID",16057,281754.34844
+Hendry County,county,FL,"Clewiston, FL",12051,147433.92888
+Fremont County,county,WY,"Riverton, WY",56013,200504.70663
+Wayne County,county,WV,"Huntington-Ashland, WV-KY-OH",54099,96793.47202
+Campbell County,county,TN,"Knoxville, TN",47013,122978.00524
+Mayes County,county,OK,,40097,131541.71736
+Union County,county,AR,"El Dorado, AR",05139,102913.39267
+Jim Wells County,county,TX,"Alice, TX",48249,136027.02826
+Dallas County,county,AL,"Selma, AL",01047,69526.64983
+Des Moines County,county,IA,"Burlington, IA-IL",19057,107990.4155
+Crawford County,county,KS,"Pittsburg, KS",20037,76606.68331
+Person County,county,NC,"Durham-Chapel Hill, NC",37145,153909.53214
+Webster County,county,MO,"Springfield, MO",29225,161181.24475
+Susquehanna County,county,PA,,42115,163892.1394
+Warren County,county,PA,"Warren, PA",42123,88474.81297
+Douglas County,county,MN,"Alexandria, MN",27041,224735.56956
+Oconto County,county,WI,"Green Bay, WI",55083,159424.8509
+Champaign County,county,OH,"Urbana, OH",39021,147330.19323
+Gloucester County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51073,235355.89664
+Guernsey County,county,OH,"Cambridge, OH",39059,109208.96407
+Woodford County,county,IL,"Peoria, IL",17203,160663.65789
+Colleton County,county,SC,,45029,149504.80551
+Brown County,county,SD,"Aberdeen, SD",46013,158676.1743
+Williams County,county,ND,"Williston, ND",38105,274709.40495
+Finney County,county,KS,"Garden City, KS",20055,158875.59835
+Defiance County,county,OH,"Defiance, OH",39039,121667.69961
+Isle of Wight County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51093,273191.86142
+Scott County,county,MO,"Sikeston, MO",29201,120121.85909
+Graham County,county,AZ,"Safford, AZ",04009,184611.32405
+Lawrence County,county,MO,,29109,113194.03259
+Pontotoc County,county,OK,"Ada, OK",40123,110385.89341
+Brown County,county,TX,"Brownwood, TX",48049,132736.30786
+Franklin County,county,IL,,17055,97891.30637
+Montgomery County,county,IN,"Crawfordsville, IN",18107,130171.73718
+Cass County,county,IN,"Logansport, IN",18017,92775.91668
+Natchitoches Parish,county,LA,"Natchitoches, LA",22069,158138.67987
+Newberry County,county,SC,"Newberry, SC",45071,158131.79054
+Clinton County,county,PA,"Lock Haven, PA",42035,139702.32722
+Independence County,county,AR,"Batesville, AR",05063,122794.41825
+Marion County,county,IL,"Centralia, IL",17121,70790.63868
+Jasper County,county,IA,"Des Moines-West Des Moines, IA",19099,138789.37399
+Clarion County,county,PA,,42031,97388.7991
+Talbot County,county,MD,"Easton, MD",24041,327363.35521
+Essex County,county,NY,,36031,174497.84866
+Covington County,county,AL,,01039,103719.92519
+Houghton County,county,MI,"Houghton, MI",26061,113935.10926
+Oneida County,county,WI,,55085,195567.49166
+Boone County,county,AR,"Harrison, AR",05009,133232.05165
+Steele County,county,MN,"Owatonna, MN",27147,182807.32408
+Jefferson County,county,IL,"Mount Vernon, IL",17081,96581.82287
+Webster Parish,county,LA,"Minden, LA",22119,134877.47959
+Albany County,county,WY,"Laramie, WY",56001,247442.61403
+Addison County,county,VT,,50001,293652.15814
+Calloway County,county,KY,"Murray, KY",21035,73970.10683
+Dodge County,county,NE,"Fremont, NE",31053,148515.34102
+Bennington County,county,VT,"Bennington, VT",50003,233316.02834
+Yadkin County,county,NC,"Winston-Salem, NC",37197,142570.33207
+Louisa County,county,VA,,51109,244584.26783
+Webster County,county,IA,"Fort Dodge, IA",19187,101216.56386
+Green County,county,WI,"Madison, WI",55045,194362.54268
+Chippewa County,county,MI,"Sault Ste. Marie, MI",26033,113709.89097
+Clinton County,county,IL,"St. Louis, MO-IL",17027,145430.49986
+Okmulgee County,county,OK,"Tulsa, OK",40111,73573.3266
+Williams County,county,OH,,39171,105641.03898
+Dyer County,county,TN,"Dyersburg, TN",47045,115767.0424
+Escambia County,county,AL,"Atmore, AL",01053,97968.34938
+Putnam County,county,IN,"Indianapolis-Carmel-Anderson, IN",18133,154035.77196
+Delta County,county,MI,"Escanaba, MI",26041,109762.23817
+Graves County,county,KY,"Mayfield, KY",21083,86149.41485
+Dare County,county,NC,"Kill Devil Hills, NC",37055,353878.13665
+Clark County,county,KY,"Lexington-Fayette, KY",21049,147649.82336
+Hopkins County,county,TX,"Sulphur Springs, TX",48223,175128.04745
+McLeod County,county,MN,"Hutchinson, MN",27085,183467.24105
+Coshocton County,county,OH,"Coshocton, OH",39031,105644.78303
+Whitley County,county,KY,"London, KY",21235,89641.47128
+Huntington County,county,IN,"Huntington, IN",18069,119621.50073
+Macon County,county,NC,,37113,199871.41247
+Wise County,county,VA,"Big Stone Gap, VA",51195,79896.46977
+Sagadahoc County,county,ME,"Portland-South Portland, ME",23023,234959.48781
+Monroe County,county,IL,"St. Louis, MO-IL",17133,210820.88151
+Geary County,county,KS,"Manhattan, KS",20061,139642.74472
+Alexander County,county,NC,"Hickory-Lenoir-Morganton, NC",37003,148710.1508
+Beauregard Parish,county,LA,"DeRidder, LA",22011,189202.21011
+Knox County,county,IN,"Vincennes, IN",18083,89347.93726
+Matagorda County,county,TX,"Bay City, TX",48321,161636.46729
+Greene County,county,PA,,42059,98054.07462
+Scotts Bluff County,county,NE,"Scottsbluff, NE",31157,123758.31043
+Carlton County,county,MN,"Duluth, MN-WI",27017,182691.0019
+Floyd County,county,KY,,21071,66482.2048
+Miami County,county,IN,"Peru, IN",18103,92918.74984
+Ware County,county,GA,"Waycross, GA",13299,76215.53667
+Orange County,county,VA,,51137,226529.60796
+Greenup County,county,KY,"Huntington-Ashland, WV-KY-OH",21089,105393.29637
+Livingston County,county,IL,"Pontiac, IL",17105,98989.65193
+Laclede County,county,MO,"Lebanon, MO",29105,134838.0893
+Cocke County,county,TN,"Newport, TN",47029,145924.85007
+Hill County,county,TX,,48217,129243.43508
+Adams County,county,IN,"Decatur, IN",18001,142088.59757
+Sioux County,county,IA,,19167,195949.73159
+Washington County,county,TX,"Brenham, TX",48477,252576.30227
+Madison County,county,NE,"Norfolk, NE",31119,163760.68245
+Uintah County,county,UT,"Vernal, UT",49047,194173.20695
+Fannin County,county,TX,"Bonham, TX",48147,166242.41324
+Perry County,county,OH,"Columbus, OH",39127,126858.75933
+Wapello County,county,IA,"Ottumwa, IA",19179,82106.62699
+Lincoln County,county,ME,,23015,245159.74125
+Lincoln County,county,TN,,47103,148443.68419
+Warren County,county,MO,"St. Louis, MO-IL",29219,216453.37462
+Silver Bow County,county,MT,"Butte-Silver Bow, MT",30093,144648.50507
+Becker County,county,MN,,27005,236169.8756
+Alcorn County,county,MS,"Corinth, MS",28003,116152.89569
+Lincoln County,county,MS,"Brookhaven, MS",28085,145134.73646
+Lincoln County,county,NE,"North Platte, NE",31111,145657.12114
+Morrow County,county,OH,"Columbus, OH",39117,184597.09823
+Chambers County,county,AL,"LaGrange, GA-AL",01017,94378.24391
+Cowley County,county,KS,"Winfield, KS",20035,70060.08522
+Clark County,county,WI,,55019,129532.12781
+Barry County,county,MO,,29009,133422.42513
+Howard County,county,TX,"Big Spring, TX",48227,156996.05762
+Effingham County,county,IL,"Effingham, IL",17049,153971.43956
+Monroe County,county,MS,,28095,104431.23967
+Ford County,county,KS,"Dodge City, KS",20057,118491.87443
+Putnam County,county,OH,,39137,154219.7958
+Steuben County,county,IN,"Angola, IN",18151,187361.81626
+Lee County,county,IL,"Dixon, IL",17103,116701.05801
+Scotland County,county,NC,"Laurinburg, NC",37165,74869.56242
+Taos County,county,NM,"Taos, NM",35055,345370.67132
+Harris County,county,GA,"Columbus, GA-AL",13145,226294.29777
+Brookings County,county,SD,"Brookings, SD",46011,203332.96704
+Nicollet County,county,MN,"Mankato, MN",27103,215536.95712
+Preston County,county,WV,"Morgantown, WV",54077,117822.01289
+Halifax County,county,VA,,51083,88308.98301
+Platte County,county,NE,"Columbus, NE",31141,180445.36777
+Whitley County,county,IN,"Fort Wayne, IN",18183,165204.54164
+Christian County,county,IL,"Taylorville, IL",17021,83603.60375
+Marshall County,county,MS,"Memphis, TN-MS-AR",28093,139747.06774
+Wasatch County,county,UT,"Heber, UT",49051,527150.16724
+De Soto County,county,FL,"Arcadia, FL",12027,147400.77265
+Fulton County,county,IL,"Peoria, IL",17057,76672.34364
+Harvey County,county,KS,"Wichita, KS",20079,113925.09928
+Miami County,county,KS,"Kansas City, MO-KS",20121,217472.16237
+Emmet County,county,MI,,26047,240620.88573
+Marshall County,county,TN,"Lewisburg, TN",47117,194712.11817
+Seneca County,county,NY,"Seneca Falls, NY",36099,123347.11785
+Pulaski County,county,VA,"Blacksburg-Christiansburg, VA",51155,148950.68791
+Morrison County,county,MN,,27097,182207.21693
+Lee County,county,IA,"Fort Madison-Keokuk, IA-IL-MO",19111,90047.01112
+Lincoln County,county,OK,"Oklahoma City, OK",40081,105100.19594
+Wexford County,county,MI,"Cadillac, MI",26165,121451.25871
+Botetourt County,county,VA,"Roanoke, VA",51023,204165.25268
+Accomack County,county,VA,,51001,155922.1379
+Marion County,county,IA,"Pella, IA",19125,170009.27883
+Jasper County,county,TX,,48241,143051.09662
+Bureau County,county,IL,"Ottawa, IL",17011,89155.34811
+Greenbrier County,county,WV,,54025,119147.91243
+Panola County,county,MS,,28107,112101.35238
+Daviess County,county,IN,"Washington, IN",18027,137835.523
+Caroline County,county,MD,,24011,208985.98201
+Petersburg City,county,VA,"Richmond, VA",51730,72848.13293
+Morgan County,county,IL,"Jacksonville, IL",17137,98114.29443
+Lumpkin County,county,GA,,13187,218316.69238
+Pike County,county,AL,"Troy, AL",01109,126452.60073
+Wakulla County,county,FL,"Tallahassee, FL",12129,180505.15388
+Hot Spring County,county,AR,"Malvern, AR",05059,115567.38549
+Lawrence County,county,AL,"Decatur, AL",01079,147191.22164
+Gibson County,county,IN,,18051,125026.75825
+Clinton County,county,IN,"Frankfort, IN",18023,116019.27178
+Jasper County,county,IN,"Chicago-Naperville-Elgin, IL-IN-WI",18073,170350.37519
+Jefferson County,county,IN,"Madison, IN",18077,133383.97934
+Transylvania County,county,NC,"Brevard, NC",37175,244825.93317
+Lassen County,county,CA,"Susanville, CA",06035,178326.73366
+Weakley County,county,TN,"Martin, TN",47183,102830.31773
+Morton County,county,ND,"Bismarck, ND",38059,233750.95563
+Hale County,county,TX,"Plainview, TX",48189,93112.07047
+Pickens County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13227,219619.22456
+Logan County,county,WV,"Mount Gay-Shamrock, WV",54045,62172.63632
+Lafayette County,county,MO,"Kansas City, MO-KS",29107,135649.47553
+Rhea County,county,TN,"Dayton, TN",47143,150368.23503
+Stark County,county,ND,"Dickinson, ND",38089,240716.72101
+Jefferson County,county,WA,,53031,387973.40398
+Lee County,county,GA,"Albany, GA",13177,154505.11874
+Evangeline Parish,county,LA,,22039,110196.89001
+Jackson County,county,OH,"Jackson, OH",39079,91926.47878
+Dorchester County,county,MD,"Cambridge, MD",24019,172712.69437
+Lyon County,county,KS,"Emporia, KS",20111,107064.05926
+Henry County,county,TN,"Paris, TN",47079,120704.03263
+Chester County,county,SC,"Charlotte-Concord-Gastonia, NC-SC",45023,125729.86063
+Jefferson Davis Parish,county,LA,"Jennings, LA",22053,123753.40862
+Juneau Borough,county,AK,"Juneau, AK",02110,396991.28838
+Franklin County,county,AL,,01059,105821.69495
+Claiborne County,county,TN,,47025,143391.97849
+Montgomery County,county,KS,"Coffeyville, KS",20125,58280.21453
+Marshall County,county,KY,,21157,109841.58157
+Clarendon County,county,SC,"Sumter, SC",45027,131252.53206
+Huron County,county,MI,,26063,115518.35235
+Polk County,county,MO,"Springfield, MO",29167,155396.27958
+Amherst County,county,VA,"Lynchburg, VA",51009,161341.71373
+Coos County,county,NH,"Berlin, NH",33007,124031.35355
+Titus County,county,TX,"Mount Pleasant, TX",48449,150024.4401
+Malheur County,county,OR,"Ontario, OR-ID",41045,148954.98835
+Polk County,county,MN,"Grand Forks, ND-MN",27119,173909.94603
+Bolivar County,county,MS,"Cleveland, MS",28011,147644.51208
+Adams County,county,NE,"Hastings, NE",31001,135930.34743
+Williamsburg County,county,SC,,45089,85528.1266
+Bee County,county,TX,"Beeville, TX",48025,144569.56028
+Gilmer County,county,GA,,13123,214726.9226
+Pontotoc County,county,MS,"Tupelo, MS",28115,145860.79309
+Delta County,county,CO,,08029,249936.3885
+Wabash County,county,IN,"Wabash, IN",18169,113088.05183
+McCurtain County,county,OK,,40089,120260.73772
+Summit County,county,CO,"Breckenridge, CO",08117,684384.52791
+Elk County,county,PA,"St. Marys, PA",42047,78424.89063
+Lake County,county,MT,,30047,300228.24288
+Stone County,county,MO,,29209,189924.6847
+Kleberg County,county,TX,"Kingsville, TX",48273,113412.69337
+Muhlenberg County,county,KY,"Central City, KY",21177,79071.24679
+Washington County,county,ME,,23029,104643.63838
+Greene County,county,IN,,18055,111906.07817
+Freeborn County,county,MN,"Albert Lea, MN",27047,116133.38224
+Caroline County,county,VA,,51033,207818.98657
+Clare County,county,MI,,26035,86637.42336
+Marshall County,county,WV,"Wheeling, WV-OH",54051,100793.06434
+Sheridan County,county,WY,"Sheridan, WY",56033,287346.26977
+Hardin County,county,OH,,39065,113346.41113
+Obion County,county,TN,"Union City, TN",47131,93447.05891
+Vernon County,county,WI,,55123,168469.06719
+Iberville Parish,county,LA,"Baton Rouge, LA",22047,143302.56886
+Randolph County,county,IL,,17157,97733.44703
+Ottawa County,county,OK,"Miami, OK",40115,80280.69788
+Trempealeau County,county,WI,,55121,169310.77602
+Boyle County,county,KY,"Danville, KY",21021,138838.02844
+Jefferson County,county,ID,"Idaho Falls, ID",16051,255189.57459
+Caledonia County,county,VT,,50005,177006.10187
+Knox County,county,KY,"London, KY",21121,88758.73913
+Mecklenburg County,county,VA,,51117,114895.48354
+Giles County,county,TN,,47055,146304.36966
+Austin County,county,TX,"Houston-The Woodlands-Sugar Land, TX",48015,272963.37253
+Wayne County,county,GA,"Jesup, GA",13305,122918.37344
+Bladen County,county,NC,,37017,109811.03347
+McPherson County,county,KS,"McPherson, KS",20113,150359.00096
+Powhatan County,county,VA,"Richmond, VA",51145,319674.8029
+Smyth County,county,VA,,51173,97324.25246
+Schoharie County,county,NY,"Albany-Schenectady-Troy, NY",36095,136492.02699
+Adams County,county,MS,"Natchez, MS-LA",28001,95956.59115
+Cass County,county,MN,"Brainerd, MN",27021,198142.24361
+Madison County,county,GA,"Athens-Clarke County, GA",13195,178386.32858
+Meade County,county,KY,"Elizabethtown-Fort Knox, KY",21163,138496.56499
+Door County,county,WI,,55029,233149.34404
+Sumter County,county,GA,"Americus, GA",13261,77273.47789
+Haralson County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13143,151331.59037
+Park County,county,WY,,56029,275507.23998
+Marion County,county,SC,,45067,71490.51423
+Meade County,county,SD,"Rapid City, SD",46093,241182.83554
+Franklin County,county,ME,,23007,152743.57479
+Hancock County,county,WV,"Weirton-Steubenville, WV-OH",54029,89980.46334
+Marion County,county,AL,,01093,108831.97447
+Gallia County,county,OH,"Point Pleasant, WV-OH",39053,105809.43523
+Orange County,county,VT,"Lebanon, NH-VT",50017,219689.09122
+Neshoba County,county,MS,,28099,110110.13804
+Carroll County,county,VA,,51035,118802.91783
+Mason County,county,MI,"Ludington, MI",26105,151976.63226
+Decatur County,county,GA,"Bainbridge, GA",13087,95538.96629
+Pine County,county,MN,,27115,157086.79324
+Garrett County,county,MD,,24023,211952.59474
+Ripley County,county,IN,,18137,165673.68006
+Alpena County,county,MI,"Alpena, MI",26007,110320.41763
+Fayette County,county,OH,"Washington Court House, OH",39047,139513.87084
+Ellis County,county,KS,"Hays, KS",20051,164310.21263
+Grimes County,county,TX,,48185,209639.88103
+Morgan County,county,CO,"Fort Morgan, CO",08087,231590.72671
+Stoddard County,county,MO,,29207,108464.1063
+Van Wert County,county,OH,"Van Wert, OH",39161,104779.18417
+Cass County,county,TX,,48067,115467.88105
+Marion County,county,TN,"Chattanooga, TN-GA",47115,146120.30357
+Glenn County,county,CA,,06021,255229.63511
+Dunklin County,county,MO,"Kennett, MO",29069,81298.46228
+Le Sueur County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27079,226420.29017
+Custer County,county,OK,"Weatherford, OK",40039,116557.55514
+Marion County,county,MO,"Hannibal, MO",29127,111348.93217
+Leflore County,county,MS,"Greenwood, MS",28083,59252.99498
+Dillon County,county,SC,,45033,109485.03264
+Cherokee County,county,NC,,37039,161069.88527
+Montgomery County,county,IL,,17135,88734.14517
+Jasper County,county,SC,"Hilton Head Island-Bluffton, SC",45053,231868.83888
+Sanpete County,county,UT,,49039,195412.9097
+Copiah County,county,MS,"Jackson, MS",28029,94665.37714
+Perry County,county,KY,,21193,75655.13888
+Elmore County,county,ID,"Mountain Home, ID",16039,179334.10605
+Lincoln County,county,WI,"Wausau-Weston, WI",55069,144257.39158
+Carroll County,county,TN,,47017,106309.76326
+Wythe County,county,VA,,51197,122384.0619
+Palo Pinto County,county,TX,"Mineral Wells, TX",48363,159685.53021
+Jones County,county,GA,"Macon-Bibb County, GA",13169,153887.39338
+Codington County,county,SD,"Watertown, SD",46029,224479.27342
+Logan County,county,IL,"Lincoln, IL",17107,104226.95939
+Winchester City,county,VA,"Winchester, VA-WV",51840,226300.74602
+Hocking County,county,OH,"Columbus, OH",39073,150052.84525
+Grant County,county,NM,"Silver City, NM",35017,137749.29376
+Carroll County,county,AR,,05015,156255.29901
+Randolph County,county,WV,"Elkins, WV",54083,104299.09794
+Tate County,county,MS,"Memphis, TN-MS-AR",28137,153271.92712
+Wells County,county,IN,"Bluffton, IN",18179,142644.18649
+Montgomery County,county,KY,"Mount Sterling, KY",21173,130336.90441
+Scott County,county,MS,,28123,86001.93233
+Dinwiddie County,county,VA,"Richmond, VA",51053,148295.17166
+Fredericksburg City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51630,325695.6809
+Washington County,county,IN,"Louisville/Jefferson County, KY-IN",18175,133832.06417
+Jackson County,county,WV,"Charleston, WV",54035,124782.19968
+Monroe County,county,GA,"Macon-Bibb County, GA",13207,207344.23943
+Baker County,county,FL,"Jacksonville, FL",12003,194855.20246
+Bradford County,county,FL,,12007,132110.94644
+Yazoo County,county,MS,"Jackson, MS",28163,100993.50901
+White County,county,GA,,13311,186669.53194
+Peach County,county,GA,"Warner Robins, GA",13225,137482.4289
+Henderson County,county,TN,,47077,120122.67067
+Union County,county,MS,,28145,136988.40164
+McDonough County,county,IL,"Macomb, IL",17109,76078.50598
+Del Norte County,county,CA,"Crescent City, CA",06015,260826.53189
+Jennings County,county,IN,"North Vernon, IN",18079,123847.50642
+Henry County,county,OH,,39069,123478.92506
+Currituck County,county,NC,"Virginia Beach-Norfolk-Newport News, VA-NC",37053,336583.12442
+Upson County,county,GA,"Thomaston, GA",13293,85835.02069
+Adams County,county,OH,,39001,106159.18369
+San Jacinto County,county,TX,,48407,159142.01653
+Iroquois County,county,IL,,17075,99581.00646
+San Miguel County,county,NM,"Las Vegas, NM",35047,169129.57273
+Logan County,county,KY,,21141,120282.78287
+Orleans County,county,VT,,50019,176519.14141
+Union County,county,SC,"Union, SC",45087,79635.4517
+Cibola County,county,NM,"Grants, NM",35006,90203.39076
+Pike County,county,OH,,39131,113588.91338
+Caddo County,county,OK,,40015,83818.76466
+White County,county,TN,,47185,150654.09901
+Tillamook County,county,OR,,41057,325140.47349
+Fluvanna County,county,VA,"Charlottesville, VA",51065,228295.85653
+West Baton Rouge Parish,county,LA,"Baton Rouge, LA",22121,192779.88895
+Woodford County,county,KY,"Lexington-Fayette, KY",21239,207873.90641
+Mineral County,county,WV,"Cumberland, MD-WV",54057,127607.85049
+Toombs County,county,GA,"Vidalia, GA",13279,105323.56482
+Harlan County,county,KY,,21095,44652.43167
+Marlboro County,county,SC,"Bennettsville, SC",45069,98414.7567
+Carroll County,county,OH,"Canton-Massillon, OH",39019,134880.983
+Carter County,county,KY,"Huntington-Ashland, WV-KY-OH",21043,77803.598
+De Soto Parish,county,LA,"Shreveport-Bossier City, LA",22031,169611.52974
+Gillespie County,county,TX,"Fredericksburg, TX",48171,325806.07647
+Hardin County,county,TN,,47071,117476.25244
+Boone County,county,IA,"Ames, IA",19015,152318.74522
+Lewis County,county,NY,,36049,121783.2387
+Stephens County,county,GA,"Toccoa, GA",13257,114483.43121
+Juneau County,county,WI,,55057,138171.14153
+Geneva County,county,AL,"Dothan, AL",01061,115123.37521
+Wasco County,county,OR,"The Dalles, OR",41065,257805.81305
+Ashe County,county,NC,,37009,222165.36833
+King George County,county,VA,,51099,306717.987
+Oceana County,county,MI,,26127,151939.35077
+Cass County,county,NE,"Omaha-Council Bluffs, NE-IA",31025,193744.8725
+Decatur County,county,IN,"Greensburg, IN",18031,148125.3578
+Clay County,county,IN,"Terre Haute, IN",18021,99016.68019
+Mille Lacs County,county,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27095,199990.31765
+Wyoming County,county,PA,"Scranton--Wilkes-Barre, PA",42131,165069.80103
+Grayson County,county,KY,,21085,122934.47375
+Sunflower County,county,MS,"Indianola, MS",28133,77277.22666
+Union County,county,OR,"La Grande, OR",41061,197198.11282
+Dawson County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13085,266828.44393
+Charlevoix County,county,MI,,26029,213407.70367
+Grady County,county,GA,,13131,119230.88503
+Simpson County,county,MS,"Jackson, MS",28127,132317.3766
+Dickinson County,county,MI,"Iron Mountain, MI-WI",26043,109891.52219
+Franklin County,county,KS,"Ottawa, KS",20059,137804.22066
+Garvin County,county,OK,,40049,80439.04903
+Taylor County,county,KY,"Campbellsville, KY",21217,114661.87145
+Edgefield County,county,SC,"Augusta-Richmond County, GA-SC",45037,172362.26975
+Russell County,county,VA,,51167,95813.67512
+McNairy County,county,TN,,47109,102000.13056
+Montezuma County,county,CO,,08083,258721.60705
+Elbert County,county,CO,"Denver-Aurora-Lakewood, CO",08039,472689.58006
+Brown County,county,MN,"New Ulm, MN",27015,148450.31334
+Montgomery County,county,NC,,37123,129196.92829
+Lamoille County,county,VT,,50015,310862.04262
+Johnson County,county,AR,,05071,125484.39243
+Morehouse Parish,county,LA,"Monroe, LA",22067,74836.71523
+Hart County,county,GA,,13147,178047.33241
+Barton County,county,KS,"Great Bend, KS",20009,72784.47446
+Lawrence County,county,SD,"Spearfish, SD",46081,266526.58381
+Mason County,county,WV,"Point Pleasant, WV-OH",54053,93195.98941
+Cheboygan County,county,MI,,26031,145753.60748
+Benton County,county,IA,"Cedar Rapids, IA",19011,158470.26392
+Hardee County,county,FL,"Wauchula, FL",12049,119823.38917
+Hardeman County,county,TN,,47069,89297.09623
+Plymouth County,county,IA,,19149,178226.12155
+Lyon County,county,MN,"Marshall, MN",27083,156188.0835
+Lauderdale County,county,TN,,47097,76778.68725
+Gladwin County,county,MI,,26051,114947.22405
+Adair County,county,MO,"Kirksville, MO",29001,125008.08171
+Posey County,county,IN,"Evansville, IN-KY",18129,150298.31492
+Luna County,county,NM,"Deming, NM",35029,112648.48755
+Salem City,county,VA,"Roanoke, VA",51775,173217.37293
+Iosco County,county,MI,,26069,96890.93326
+Barbour County,county,AL,"Eufaula, AL-GA",01005,111670.71262
+Audrain County,county,MO,"Mexico, MO",29007,102622.34389
+Staunton City,county,VA,"Staunton, VA",51790,168891.48046
+Pottawatomie County,county,KS,"Manhattan, KS",20149,208291.83711
+Todd County,county,MN,,27153,163927.54716
+Fannin County,county,GA,,13111,283932.19442
+Churchill County,county,NV,"Fallon, NV",32001,245628.08526
+Prentiss County,county,MS,"Tupelo, MS",28117,105584.26571
+Otsego County,county,MI,,26137,151325.24621
+Cherokee County,county,AL,,01019,153731.86344
+Jackson County,county,OK,"Altus, OK",40065,75614.50301
+Macon County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47111,146823.47379
+Butts County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13035,160827.14182
+Manistee County,county,MI,,26101,145704.85007
+Payette County,county,ID,"Ontario, OR-ID",16075,231324.5164
+Grant County,county,KY,"Cincinnati, OH-KY-IN",21081,153560.01957
+Uvalde County,county,TX,"Uvalde, TX",48463,143854.40916
+Washington County,county,FL,,12133,121301.86473
+Routt County,county,CO,"Steamboat Springs, CO",08107,574099.1151
+Chattooga County,county,GA,"Summerville, GA",13055,97907.04275
+Milam County,county,TX,,48331,175295.46775
+Randolph County,county,MO,"Moberly, MO",29175,102762.37066
+Texas County,county,MO,,29215,115292.09316
+Bremer County,county,IA,"Waterloo-Cedar Falls, IA",19017,178044.06501
+Hickman County,county,TN,,47081,122761.30585
+Cleburne County,county,AR,,05023,158130.8175
+Somerset County,county,MD,"Salisbury, MD-DE",24039,121113.11202
+Yates County,county,NY,"Rochester, NY",36123,179050.67881
+Nicholas County,county,WV,,54067,86791.36084
+Randolph County,county,IN,,18135,89810.81636
+Bell County,county,KY,"Middlesborough, KY",21013,80606.63912
+Rowan County,county,KY,,21205,108110.06934
+Miller County,county,MO,,29131,142327.26963
+Marion County,county,MS,,28091,105201.581
+Teller County,county,CO,"Colorado Springs, CO",08119,311640.19515
+White County,county,IN,,18181,133930.98821
+Waushara County,county,WI,,55137,157261.38416
+Cassia County,county,ID,"Burley, ID",16031,186769.59099
+Fayette County,county,TX,,48149,296044.98661
+Abbeville County,county,SC,,45001,122835.64401
+Lincoln County,county,KY,"Danville, KY",21137,106894.11083
+Crook County,county,OR,"Prineville, OR",41013,295130.94028
+Goochland County,county,VA,"Richmond, VA",51075,378267.33326
+Scott County,county,IN,"Scottsburg, IN",18143,120467.51141
+George County,county,MS,,28039,141150.61937
+Shelby County,county,TX,,48419,156429.0776
+Jefferson County,county,OR,,41031,261976.15132
+Burke County,county,GA,"Augusta-Richmond County, GA-SC",13033,97469.94819
+Union County,county,GA,,13291,216099.11467
+Aransas County,county,TX,"Rockport, TX",48007,215359.48552
+Jerome County,county,ID,"Twin Falls, ID",16053,209903.43502
+Dawson County,county,NE,"Lexington, NE",31047,128212.54168
+Fairfax City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51600,551944.34976
+Upshur County,county,WV,,54097,110423.99123
+Hood River County,county,OR,"Hood River, OR",41027,457949.46177
+Saline County,county,IL,,17165,68894.58518
+Blaine County,county,ID,"Hailey, ID",16013,500226.67185
+Itawamba County,county,MS,"Tupelo, MS",28057,115103.6604
+Ohio County,county,KY,,21183,118886.57823
+Mingo County,county,WV,,54059,43643.72049
+Seminole County,county,OK,,40133,65298.55718
+Washington County,county,MO,,29221,111857.55014
+Page County,county,VA,,51139,160946.28535
+Iowa County,county,WI,"Madison, WI",55049,200222.88344
+Winston County,county,AL,,01133,128219.58466
+Saint Francis County,county,AR,"Forrest City, AR",05123,71005.13903
+Juniata County,county,PA,,42067,158236.89012
+Plaquemines Parish,county,LA,"New Orleans-Metairie, LA",22075,255556.85165
+Menominee County,county,MI,"Marinette, WI-MI",26109,102461.23636
+Roscommon County,county,MI,,26143,94610.98641
+Antrim County,county,MI,,26009,185080.92115
+Fayette County,county,IN,"Connersville, IN",18041,84677.61203
+Grainger County,county,TN,"Morristown, TN",47057,158335.34578
+Anderson County,county,KY,"Frankfort, KY",21005,135582.32342
+Clarke County,county,AL,,01025,113671.80675
+Teton County,county,WY,"Jackson, WY-ID",56039,1138604.20689
+Saline County,county,MO,"Marshall, MO",29195,135005.78564
+Starke County,county,IN,,18149,114274.34333
+Meeker County,county,MN,,27093,184941.30689
+McDonald County,county,MO,,29119,122663.91095
+Franklin County,county,GA,,13119,146284.04123
+Curry County,county,OR,"Brookings, OR",41015,322191.97622
+Hampshire County,county,WV,"Winchester, VA-WV",54027,154351.20531
+Yankton County,county,SD,"Yankton, SD",46135,194114.03348
+Poinsett County,county,AR,"Jonesboro, AR",05111,82154.61946
+Tattnall County,county,GA,,13267,114572.51224
+Crawford County,county,MO,,29055,130747.78151
+Allen Parish,county,LA,,22003,96371.25606
+Ray County,county,MO,"Kansas City, MO-KS",29177,147809.3025
+Pacific County,county,WA,,53049,197234.64449
+Columbia County,county,AR,"Magnolia, AR",05027,116431.98755
+Osceola County,county,MI,,26133,103673.82162
+Hopewell City,county,VA,"Richmond, VA",51670,115222.13218
+Ouachita County,county,AR,"Camden, AR",05103,72341.5455
+Vilas County,county,WI,,55125,258822.28108
+Johnson County,county,KY,,21115,86665.65536
+Caswell County,county,NC,,37033,119896.22568
+Franklin County,county,IN,"Cincinnati, OH-KY-IN",18047,180711.67276
+Emanuel County,county,GA,,13107,71139.0966
+Rockbridge County,county,VA,,51163,202742.19997
+Sumner County,county,KS,"Wichita, KS",20191,82274.22448
+Panola County,county,TX,,48365,158505.24519
+Washington County,county,IA,"Iowa City, IA",19183,150670.17574
+New Kent County,county,VA,"Richmond, VA",51127,282831.77349
+Lee County,county,VA,,51105,72846.64694
+Klickitat County,county,WA,,53039,289452.14181
+Mercer County,county,KY,,21167,134600.46024
+Bibb County,county,AL,"Birmingham-Hoover, AL",01007,139558.2792
+Anson County,county,NC,"Charlotte-Concord-Gastonia, NC-SC",37007,70921.06955
+Brooke County,county,WV,"Weirton-Steubenville, WV-OH",54009,81758.62043
+Sabine Parish,county,LA,,22085,157232.01161
+Overton County,county,TN,"Cookeville, TN",47133,145626.73122
+Meigs County,county,OH,,39105,78473.00509
+Beckham County,county,OK,"Elk City, OK",40009,109738.59703
+Martin County,county,NC,,37117,75354.48053
+Houston County,county,TX,,48225,143678.16175
+Asotin County,county,WA,"Lewiston, ID-WA",53003,236683.75147
+Limestone County,county,TX,,48293,107969.75301
+Leelanau County,county,MI,"Traverse City, MI",26089,362493.35859
+Grant Parish,county,LA,"Alexandria, LA",22043,139279.56499
+Seward County,county,KS,"Liberal, KS",20175,106854.30909
+Nobles County,county,MN,"Worthington, MN",27105,146015.31089
+Waynesboro City,county,VA,"Staunton, VA",51820,174747.88674
+Mahaska County,county,IA,"Oskaloosa, IA",19123,118851.98243
+Boone County,county,WV,"Charleston, WV",54005,71059.57396
+Hertford County,county,NC,,37091,83609.14248
+Saunders County,county,NE,"Omaha-Council Bluffs, NE-IA",31155,219641.61075
+Randolph County,county,AL,,01111,131361.29278
+Mitchell County,county,GA,,13205,85498.49362
+Wyandot County,county,OH,,39175,116603.58671
+Jo Daviess County,county,IL,,17085,136473.67315
+Prince Edward County,county,VA,,51147,165132.02722
+Henry County,county,MO,,29083,116682.78712
+Tippah County,county,MS,,28139,114389.44443
+Putnam County,county,GA,,13237,228199.53033
+Scott County,county,TN,,47151,104707.77186
+Coahoma County,county,MS,"Clarksdale, MS",28027,49120.94256
+Letcher County,county,KY,,21133,55593.33591
+Colusa County,county,CA,,06011,260122.16622
+Logan County,county,CO,"Sterling, CO",08075,166193.64748
+Taylor County,county,FL,,12123,116164.34659
+McDuffie County,county,GA,"Augusta-Richmond County, GA-SC",13189,110173.24728
+Gage County,county,NE,"Beatrice, NE",31067,120770.21142
+Stutsman County,county,ND,"Jamestown, ND",38093,180833.4392
+Hockley County,county,TX,"Levelland, TX",48219,131204.8123
+Grenada County,county,MS,"Grenada, MS",28043,82254.86226
+Wyoming County,county,WV,,54109,38230.03574
+Scott County,county,VA,"Kingsport-Bristol, TN-VA",51169,96736.25639
+Nodaway County,county,MO,"Maryville, MO",29147,138408.66017
+Clark County,county,AR,"Arkadelphia, AR",05019,103864.0714
+Jersey County,county,IL,"St. Louis, MO-IL",17083,128796.55028
+Fayette County,county,IL,,17051,96012.62472
+Moore County,county,TX,"Dumas, TX",48341,142639.73023
+Sevier County,county,UT,,49041,175362.87342
+Leake County,county,MS,,28079,113049.99521
+Texas County,county,OK,"Guymon, OK",40139,110603.86021
+Lampasas County,county,TX,"Killeen-Temple, TX",48281,190436.18214
+Wabasha County,county,MN,"Rochester, MN",27157,198697.95584
+Gray County,county,TX,"Pampa, TX",48179,75056.30583
+Minidoka County,county,ID,"Burley, ID",16067,171333.81586
+Newton County,county,MS,,28101,107262.25944
+Logan County,county,AR,,05083,105779.89808
+Dakota County,county,NE,"Sioux City, IA-NE-SD",31043,141698.53879
+Owen County,county,IN,"Bloomington, IN",18119,133298.36841
+Union Parish,county,LA,"Monroe, LA",22111,120258.65825
+Madison County,county,NC,"Asheville, NC",37115,232248.7254
+Llano County,county,TX,,48299,308847.62482
+Hubbard County,county,MN,,27057,199110.54357
+Fairfield County,county,SC,"Columbia, SC",45039,135737.78811
+Fillmore County,county,MN,"Rochester, MN",27045,178285.44295
+Gaines County,county,TX,,48165,170765.25195
+Shelby County,county,IL,,17173,101749.91407
+Perry County,county,IL,,17145,54244.85866
+Morgan County,county,TN,"Knoxville, TN",47129,118581.89241
+Assumption Parish,county,LA,"Baton Rouge, LA",22007,144190.41357
+Clinton County,county,MO,"Kansas City, MO-KS",29049,162266.44026
+Jackson County,county,WI,,55053,140663.89148
+Pointe Coupee Parish,county,LA,"Baton Rouge, LA",22077,153010.68968
+Morgan County,county,MO,,29141,179192.75282
+Bandera County,county,TX,"San Antonio-New Braunfels, TX",48019,242330.43625
+Worth County,county,GA,"Albany, GA",13321,108049.72329
+Sullivan County,county,IN,"Terre Haute, IN",18153,93537.19682
+Hutchinson County,county,TX,"Borger, TX",48233,93807.34716
+Barnwell County,county,SC,,45011,114558.27858
+Dodge County,county,MN,"Rochester, MN",27039,211256.95093
+Carroll County,county,IA,"Carroll, IA",19027,137181.36414
+Ogemaw County,county,MI,,26129,96761.28177
+Buena Vista County,county,IA,"Storm Lake, IA",19021,123252.87068
+Washington County,county,NE,"Omaha-Council Bluffs, NE-IA",31177,246372.81474
+Conway County,county,AR,,05029,117076.38698
+Jones County,county,IA,"Cedar Rapids, IA",19105,145535.17387
+Meriwether County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13199,107880.09388
+Lincoln County,county,WV,"Charleston, WV",54043,78691.67938
+Buchanan County,county,VA,,51027,62769.62817
+Saint James Parish,county,LA,"New Orleans-Metairie, LA",22093,153011.83741
+Allen County,county,KY,"Bowling Green, KY",21003,116408.78259
+Buchanan County,county,IA,,19019,139282.86252
+Woodward County,county,OK,"Woodward, OK",40153,108634.39914
+Jay County,county,IN,,18075,85738.21228
+Colorado County,county,TX,,48089,184076.35906
+Kewaunee County,county,WI,"Green Bay, WI",55061,178719.93091
+Yell County,county,AR,"Russellville, AR",05149,111688.71517
+Crisp County,county,GA,"Cordele, GA",13081,82732.503
+Greene County,county,NC,,37079,112104.86558
+Uinta County,county,WY,"Evanston, WY",56041,195224.23032
+Henry County,county,IA,,19087,125814.53906
+Clay County,county,KY,"London, KY",21051,59528.15418
+Adams County,county,WI,,55001,130646.60527
+Willacy County,county,TX,"Raymondville, TX",48489,117373.45507
+Fulton County,county,IN,,18049,118788.48538
+Greene County,county,VA,"Charlottesville, VA",51079,240940.76002
+Calhoun County,county,TX,"Port Lavaca, TX",48057,154820.00468
+Adams County,county,WA,"Othello, WA",53001,175634.49459
+Hempstead County,county,AR,"Hope, AR",05057,82044.51774
+Breckinridge County,county,KY,,21027,96175.95305
+Carroll County,county,IN,"Lafayette-West Lafayette, IN",18015,140408.55551
+Lavaca County,county,TX,,48285,208292.45889
+Bourbon County,county,KY,"Lexington-Fayette, KY",21017,146443.72856
+Dukes County,county,MA,"Vineyard Haven, MA",25007,868658.43959
+Labette County,county,KS,"Parsons, KS",20099,56457.90626
+Carbon County,county,UT,"Price, UT",49007,145782.63253
+Monroe County,county,AL,,01099,100569.72503
+Richland Parish,county,LA,,22083,121530.52597
+Winneshiek County,county,IA,,19191,189628.83379
+Dodge County,county,GA,,13091,87643.62172
+Lincoln County,county,NM,"Ruidoso, NM",35027,245060.55151
+Martin County,county,MN,"Fairmont, MN",27091,111112.15622
+Washington County,county,GA,,13303,92236.72121
+Tyler County,county,TX,,48457,128488.36069
+Franklin Parish,county,LA,,22041,84890.70516
+Taylor County,county,WI,,55119,166260.22566
+Spencer County,county,IN,,18147,142352.55578
+Davison County,county,SD,"Mitchell, SD",46035,159152.31252
+Dekalb County,county,TN,,47041,170518.84927
+Montague County,county,TX,,48337,150959.71058
+Adair County,county,OK,,40001,90211.12122
+De Witt County,county,TX,,48123,158459.04737
+Vernon County,county,MO,,29217,90531.34731
+Wayne County,county,MS,,28153,109931.95587
+Smith County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47159,186836.33133
+Orange County,county,IN,,18117,103905.20729
+Wayne County,county,KY,,21231,87190.60219
+Jones County,county,TX,"Abilene, TX",48253,106260.53908
+Gonzales County,county,TX,,48177,166878.28846
+Douglas County,county,IL,,17041,93588.63421
+Morgan County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13211,259319.10965
+Lincoln County,county,MT,,30053,203451.28457
+Duchesne County,county,UT,,49013,192304.80795
+Pierce County,county,GA,"Waycross, GA",13229,109568.08737
+Plumas County,county,CA,,06063,276368.36547
+Holmes County,county,FL,,12059,118776.51051
+Union County,county,TN,"Knoxville, TN",47173,156372.86417
+East Feliciana Parish,county,LA,"Baton Rouge, LA",22037,181790.4788
+Fayette County,county,IA,,19065,102088.05963
+Marion County,county,KY,,21155,125603.26378
+Cherokee County,county,KS,,20021,63536.59045
+Jackson County,county,IA,,19097,148748.85435
+Macon County,county,AL,,01087,72402.11018
+Freestone County,county,TX,,48161,140535.45638
+Polk County,county,AR,,05113,107788.71634
+Langlade County,county,WI,,55067,130197.20859
+Lincoln County,county,WY,,56023,252744.36612
+Elbert County,county,GA,,13105,90170.73081
+Chaffee County,county,CO,,08015,415881.75557
+Polk County,county,NC,,37149,235965.37411
+Marengo County,county,AL,,01091,123961.29121
+Ashley County,county,AR,,05003,72694.40789
+Benton County,county,MO,,29015,121568.21082
+Kent County,county,MD,,24029,238563.92384
+McDowell County,county,WV,,54047,25423.75857
+Simpson County,county,KY,,21213,133443.23756
+Spencer County,county,KY,"Louisville/Jefferson County, KY-IN",21215,226347.70487
+Pickens County,county,AL,"Tuscaloosa, AL",01107,107396.61861
+Hampton County,county,SC,,45049,96627.31524
+Roosevelt County,county,NM,"Portales, NM",35041,129240.76246
+Hart County,county,KY,,21099,97913.27915
+Butler County,county,AL,,01013,89229.89524
+Los Alamos County,county,NM,"Los Alamos, NM",35028,354921.71447
+Perry County,county,IN,,18123,110525.12265
+McIntosh County,county,OK,,40091,101245.51715
+Saluda County,county,SC,"Columbia, SC",45081,128825.42555
+Perry County,county,MO,,29157,134026.26512
+Green Lake County,county,WI,,55047,161322.13821
+Concordia Parish,county,LA,"Natchez, MS-LA",22029,94857.95914
+Waseca County,county,MN,,27161,159106.60179
+Beadle County,county,SD,"Huron, SD",46005,154421.56116
+Humphreys County,county,TN,,47085,141429.26284
+Tishomingo County,county,MS,,28141,117608.16451
+Warren County,county,NC,,37185,129890.78337
+Paulding County,county,OH,,39125,100016.1092
+Adair County,county,KY,,21001,89489.7888
+Crawford County,county,IL,,17033,91538.73741
+Houston County,county,MN,"La Crosse-Onalaska, WI-MN",27055,188569.83633
+Inyo County,county,CA,,06027,355244.88509
+Clay County,county,MS,"West Point, MS",28025,101674.014
+Pike County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13231,206957.43911
+Gem County,county,ID,"Boise City, ID",16045,248115.64038
+Harrison County,county,KY,,21097,116130.99869
+Deaf Smith County,county,TX,"Hereford, TX",48117,100449.69795
+Otero County,county,CO,,08089,97940.84439
+Poweshiek County,county,IA,,19157,142522.65519
+Sainte Genevieve County,county,MO,,29186,144258.17489
+Dickinson County,county,KS,,20041,106211.2103
+Appling County,county,GA,,13001,104832.38331
+Cedar County,county,IA,,19031,160853.43006
+Covington County,county,MS,"Hattiesburg, MS",28031,104483.03482
+Lamar County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13171,148002.59402
+Greene County,county,GA,,13133,357875.79356
+Randolph County,county,AR,,05121,109009.72957
+Frio County,county,TX,"Pearsall, TX",48163,124860.94832
+Jefferson County,county,KS,"Topeka, KS",20087,147030.93007
+Fentress County,county,TN,,47049,121591.9627
+Yancey County,county,NC,,37199,176182.97285
+Stone County,county,MS,"Gulfport-Biloxi, MS",28131,128571.30333
+Westmoreland County,county,VA,,51193,210792.08333
+Bosque County,county,TX,,48035,147517.89034
+Wright County,county,MO,,29229,106298.89542
+Montour County,county,PA,"Bloomsburg-Berwick, PA",42093,195663.36966
+Berrien County,county,GA,,13019,104017.38899
+Andrews County,county,TX,"Andrews, TX",48003,194760.24961
+Colonial Heights City,county,VA,"Richmond, VA",51570,167392.01435
+Bertie County,county,NC,,37015,49267.78646
+Brantley County,county,GA,"Brunswick, GA",13025,111245.63679
+Banks County,county,GA,,13011,177886.62229
+Pike County,county,MO,,29163,116010.21775
+Madison County,county,FL,,12079,117520.91984
+Southampton County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51175,155158.93665
+Attala County,county,MS,,28007,86199.96291
+Andrew County,county,MO,"St. Joseph, MO-KS",29003,171870.39994
+Benzie County,county,MI,"Traverse City, MI",26019,208078.78049
+Schuyler County,county,NY,,36097,147084.90128
+Northampton County,county,NC,"Roanoke Rapids, NC",37131,80755.17384
+Grant County,county,AR,"Little Rock-North Little Rock-Conway, AR",05053,151100.48515
+Johnson County,county,TN,,47091,137250.94667
+Haywood County,county,TN,"Brownsville, TN",47075,101163.49957
+Russell County,county,KY,,21207,82308.64356
+Young County,county,TX,,48503,101221.04723
+Unicoi County,county,TN,"Johnson City, TN",47171,138979.90173
+Winston County,county,MS,,28159,96196.98138
+Hughes County,county,SD,"Pierre, SD",46065,189609.66675
+Sawyer County,county,WI,,55113,201004.59976
+Kalkaska County,county,MI,"Traverse City, MI",26079,119328.84713
+Eastland County,county,TX,,48133,98527.52834
+Gilchrist County,county,FL,"Gainesville, FL",12041,162923.07272
+Hancock County,county,IL,"Fort Madison-Keokuk, IA-IL-MO",17067,83138.0195
+Avery County,county,NC,,37011,191568.75311
+Burleson County,county,TX,"College Station-Bryan, TX",48051,205552.25299
+Patrick County,county,VA,,51141,130312.64705
+San Juan County,county,WA,,53055,561198.66638
+Seward County,county,NE,"Lincoln, NE",31159,200309.75493
+Dickinson County,county,IA,"Spirit Lake, IA",19059,254398.46924
+King William County,county,VA,"Richmond, VA",51101,208826.42897
+Drew County,county,AR,,05043,116536.92216
+Delaware County,county,IA,,19055,172344.52795
+Polk County,county,TN,"Cleveland, TN",47139,136528.13426
+Pitkin County,county,CO,"Glenwood Springs, CO",08097,1304741.72805
+Cooper County,county,MO,"Columbia, MO",29053,148754.02926
+Lee County,county,TX,,48287,240918.98986
+Park County,county,CO,"Denver-Aurora-Lakewood, CO",08093,351215.9133
+Richland County,county,WI,,55103,149328.24572
+Chester County,county,TN,"Jackson, TN",47023,113961.07222
+Arkansas County,county,AR,,05001,99808.97688
+Union County,county,IL,,17181,112667.28626
+Holmes County,county,MS,"Jackson, MS",28051,56087.86223
+Sharp County,county,AR,"Batesville, AR",05135,101648.02861
+Ben Hill County,county,GA,"Fitzgerald, GA",13017,67406.57425
+Mariposa County,county,CA,,06043,305935.03015
+Humboldt County,county,NV,"Winnemucca, NV",32013,205328.68255
+Cook County,county,GA,,13075,92724.3406
+Clayton County,county,IA,,19043,132482.32327
+Henry County,county,AL,"Dothan, AL",01067,135790.62348
+Franklin County,county,AR,"Fort Smith, AR-OK",05047,106193.05771
+Morgan County,county,WV,"Hagerstown-Martinsburg, MD-WV",54065,163277.67266
+Mason County,county,KY,"Maysville, KY",21161,92857.69019
+Chickasaw County,county,MS,,28017,100739.53061
+Tama County,county,IA,,19171,107342.13512
+Falls County,county,TX,"Waco, TX",48145,116305.93338
+Park County,county,MT,,30067,330307.27643
+McCreary County,county,KY,,21147,49584.36101
+Garrard County,county,KY,,21079,137443.7654
+Edgar County,county,IL,,17045,78440.03565
+Hardin County,county,IA,,19083,96234.2992
+Scurry County,county,TX,"Snyder, TX",48415,107537.51496
+Lewis County,county,WV,,54041,96118.07003
+Bristol City,county,VA,"Kingsport-Bristol, TN-VA",51520,100825.61448
+Phillips County,county,AR,"Helena-West Helena, AR",05107,57640.13962
+Dallas County,county,MO,"Springfield, MO",29059,131769.58075
+Cross County,county,AR,,05037,98276.89489
+Warren County,county,IL,,17187,82668.63891
+Jackson County,county,AR,,05067,68676.10087
+Gunnison County,county,CO,,08051,433186.55881
+La Paz County,county,AZ,,04012,176196.70389
+Robertson County,county,TX,"College Station-Bryan, TX",48395,201993.06071
+Buckingham County,county,VA,,51029,156929.93692
+Bond County,county,IL,"St. Louis, MO-IL",17005,111889.59954
+Giles County,county,VA,"Blacksburg-Christiansburg, VA",51071,119633.29151
+Piscataquis County,county,ME,,23021,117565.5818
+Marion County,county,AR,,05089,138293.91015
+Rabun County,county,GA,,13241,217640.46442
+Lee County,county,SC,,45061,111705.37578
+Taylor County,county,WV,"Clarksburg, WV",54091,125565.91241
+Rush County,county,IN,,18139,117670.20457
+Dixie County,county,FL,,12029,112160.248
+Piatt County,county,IL,"Champaign-Urbana, IL",17147,152014.99598
+Lafayette County,county,WI,,55065,139363.10154
+New Madrid County,county,MO,,29143,65631.85101
+Socorro County,county,NM,,35053,152516.11251
+Iowa County,county,IA,,19095,146320.69257
+Washburn County,county,WI,,55129,172997.84409
+Crawford County,county,IA,,19047,93025.78553
+Richland County,county,ND,"Wahpeton, ND-MN",38077,147738.63354
+Baker County,county,OR,,41001,169301.90486
+Madison County,county,AR,"Fayetteville-Springdale-Rogers, AR",05087,149574.97063
+Idaho County,county,ID,,16049,180695.36191
+Potter County,county,PA,,42105,114621.26
+Union County,county,SD,"Sioux City, IA-NE-SD",46127,229750.64014
+Fountain County,county,IN,,18045,112325.3597
+Madison County,county,IA,"Des Moines-West Des Moines, IA",19121,212232.81488
+Clay County,county,IA,"Spencer, IA",19041,128710.31099
+Jasper County,county,MS,"Laurel, MS",28061,112617.10078
+Long County,county,GA,"Hinesville, GA",13183,166127.10152
+Atchison County,county,KS,"Atchison, KS",20005,93743.50781
+Alamosa County,county,CO,,08003,184440.99505
+Fayette County,county,AL,,01057,85229.9605
+Burnett County,county,WI,,55013,165313.00739
+Wayne County,county,TN,,47181,100663.893
+Parke County,county,IN,"Terre Haute, IN",18121,115124.94299
+Dade County,county,GA,"Chattanooga, TN-GA",13083,145124.89216
+Hill County,county,MT,,30041,151965.14447
+Lawrence County,county,AR,,05075,79099.97195
+Lawrence County,county,KY,,21127,99624.21068
+Brooks County,county,GA,"Valdosta, GA",13027,104921.67871
+Wayne County,county,IL,,17191,103196.02618
+Radford City,county,VA,"Blacksburg-Christiansburg, VA",51750,166449.69081
+Crawford County,county,WI,,55023,130119.37191
+Rockcastle County,county,KY,,21203,87802.56917
+Union County,county,FL,,12125,148524.28379
+Bates County,county,MO,"Kansas City, MO-KS",29013,142098.06258
+Sevier County,county,AR,,05133,104028.28072
+Brunswick County,county,VA,,51025,119523.73372
+Appomattox County,county,VA,"Lynchburg, VA",51011,172153.77755
+Bayfield County,county,WI,,55007,181601.58661
+Kanabec County,county,MN,,27065,163941.17195
+Ashland County,county,WI,,55003,120799.67415
+Pemiscot County,county,MO,,29155,74059.96799
+Neosho County,county,KS,,20133,57585.60187
+Otoe County,county,NE,,31131,139926.04224
+Leon County,county,TX,,48289,202253.21809
+Richland County,county,IL,,17159,95489.30193
+Benton County,county,TN,,47005,103077.12938
+Casey County,county,KY,,21045,72920.31905
+Van Buren County,county,AR,,05141,100001.15348
+Jefferson County,county,IA,"Fairfield, IA",19101,122760.09254
+Trinity County,county,CA,,06105,258851.89019
+Osage County,county,KS,"Topeka, KS",20139,113623.89923
+Mercer County,county,IL,"Davenport-Moline-Rock Island, IA-IL",17131,127612.33495
+Aitkin County,county,MN,,27001,158541.61283
+Sequatchie County,county,TN,"Chattanooga, TN-GA",47153,153445.78344
+Moniteau County,county,MO,"Jefferson City, MO",29135,139571.0732
+Jefferson County,county,GA,,13163,79749.22674
+Henry County,county,KY,"Louisville/Jefferson County, KY-IN",21103,139259.61006
+Pawnee County,county,OK,"Tulsa, OK",40117,91626.76545
+Clarke County,county,MS,"Meridian, MS",28023,84356.77672
+Floyd County,county,IA,,19067,108977.32759
+Nottoway County,county,VA,,51135,122469.81302
+Dewitt County,county,IL,,17039,94350.92829
+Grand County,county,CO,,08049,458814.07387
+Barbour County,county,WV,,54001,93754.52522
+Clark County,county,IL,,17023,103683.22333
+Carroll County,county,IL,,17015,91060.01502
+Washington County,county,AL,"Mobile, AL",01129,106798.87031
+Floyd County,county,VA,,51063,156873.42334
+Marquette County,county,WI,,55077,147044.12265
+Vermillion County,county,IN,"Terre Haute, IN",18165,86032.15404
+Lawrence County,county,IL,,17101,59335.53939
+Brown County,county,IN,"Indianapolis-Carmel-Anderson, IN",18013,201752.01947
+Redwood County,county,MN,,27127,116344.13157
+Gooding County,county,ID,,16047,170650.58732
+Grayson County,county,VA,,51077,114859.33111
+Marshall County,county,OK,,40095,117985.92332
+West Feliciana Parish,county,LA,"Baton Rouge, LA",22125,245416.49551
+Roseau County,county,MN,,27135,152563.55929
+Tipton County,county,IN,,18159,133911.48347
+Kingfisher County,county,OK,,40073,162340.55288
+Alleghany County,county,VA,,51005,107285.59368
+Page County,county,IA,,19145,95285.91239
+Macon County,county,MO,,29121,107984.58248
+Jackson Parish,county,LA,,22049,92877.9732
+Gulf County,county,FL,,12045,239494.10197
+Pecos County,county,TX,,48371,141127.82364
+Williamsburg City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51830,280447.58313
+Torrance County,county,NM,"Albuquerque, NM",35057,165407.31283
+Hamilton County,county,IA,,19079,102928.48265
+Cleburne County,county,AL,,01029,141788.14624
+Missaukee County,county,MI,"Cadillac, MI",26113,158386.33042
+Arenac County,county,MI,,26011,89053.41789
+Livingston County,county,MO,,29117,110732.67312
+Fleming County,county,KY,,21069,97867.78645
+Jackson County,county,TX,,48239,156839.13018
+Mitchell County,county,NC,,37121,138328.91886
+Sibley County,county,MN,,27143,201887.47847
+Pike County,county,IL,,17149,76080.38792
+Bledsoe County,county,TN,,47007,129566.35933
+Gogebic County,county,MI,,26053,66991.34388
+Kossuth County,county,IA,,19109,109895.33368
+Karnes County,county,TX,,48255,175859.32139
+Hale County,county,AL,"Tuscaloosa, AL",01065,120843.79685
+Clay County,county,SD,"Vermillion, SD",46027,160423.13832
+Gasconade County,county,MO,,29073,125887.1763
+Manassas Park City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51685,301799.73075
+Nelson County,county,VA,"Charlottesville, VA",51125,205808.85055
+Oglethorpe County,county,GA,"Athens-Clarke County, GA",13221,169400.55829
+LaSalle Parish,county,LA,,22059,133243.45708
+Renville County,county,MN,,27129,119802.25419
+Larue County,county,KY,"Elizabethtown-Fort Knox, KY",21123,126064.69581
+Jeff Davis County,county,GA,,13161,81104.01457
+Nolan County,county,TX,"Sweetwater, TX",48353,112549.05346
+Clarke County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51043,356088.97908
+Carbon County,county,WY,,56007,166084.61674
+Clay County,county,AR,,05021,66604.22489
+Mills County,county,IA,"Omaha-Council Bluffs, NE-IA",19129,198394.52979
+Moultrie County,county,IL,,17139,102958.33857
+Wetzel County,county,WV,,54103,84172.01731
+Pendleton County,county,KY,"Cincinnati, OH-KY-IN",21191,119221.27117
+Harrison County,county,OH,,39067,95984.48308
+San Juan County,county,UT,,49037,205755.19285
+Harrison County,county,IA,"Omaha-Council Bluffs, NE-IA",19085,154750.02902
+Dent County,county,MO,,29065,101707.03919
+Reeves County,county,TX,"Pecos, TX",48389,172417.44268
+Las Animas County,county,CO,,08071,148576.86704
+Fulton County,county,PA,,42057,150309.86896
+Knott County,county,KY,,21119,60676.9258
+Smith County,county,MS,,28129,120410.42639
+Jasper County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13159,166126.17223
+Claiborne Parish,county,LA,,22027,184592.5854
+Butler County,county,IA,,19023,125668.37881
+Bourbon County,county,KS,,20011,66215.41703
+Jefferson County,county,FL,"Tallahassee, FL",12065,158151.33183
+Saline County,county,NE,,31151,120511.83783
+Falls Church City,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51610,794317.59918
+Cannon County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47015,175376.88188
+Choctaw County,county,OK,,40023,74272.96814
+Massac County,county,IL,"Paducah, KY-IL",17127,84477.67065
+Hardy County,county,WV,,54031,129719.48737
+Dickenson County,county,VA,,51051,60504.30212
+Calhoun County,county,SC,"Columbia, SC",45017,152035.4029
+Cedar County,county,MO,,29039,115584.63384
+Clay County,county,AL,,01027,110249.88268
+Rusk County,county,WI,,55107,118619.29083
+Craig County,county,OK,,40035,98254.01158
+Swain County,county,NC,"Cullowhee, NC",37173,181522.70909
+Noble County,county,OH,,39121,124928.86505
+York County,county,NE,,31185,146387.01703
+Estill County,county,KY,"Richmond-Berea, KY",21065,70037.6416
+O Brien County,county,IA,,19141,112079.95064
+Roane County,county,WV,,54087,96215.03091
+Atoka County,county,OK,,40005,109462.43371
+Allamakee County,county,IA,,19005,155262.7052
+Trigg County,county,KY,"Clarksville, TN-KY",21221,137351.6493
+Pennington County,county,MN,,27113,186134.87503
+Franklin County,county,ID,"Logan, UT-ID",16041,252573.89701
+Screven County,county,GA,,13251,98943.34911
+Crockett County,county,TN,"Jackson, TN",47033,102740.27709
+Wadena County,county,MN,,27159,142849.29437
+Price County,county,WI,,55099,121101.89703
+Walthall County,county,MS,,28147,111157.65283
+Hamilton County,county,FL,,12047,102708.44159
+White County,county,IL,,17193,88830.12204
+Morgan County,county,OH,,39115,93227.06318
+Ketchikan Gateway Borough,county,AK,"Ketchikan, AK",02130,317078.05338
+Zapata County,county,TX,"Zapata, TX",48505,134595.61438
+Faribault County,county,MN,,27043,92494.50561
+Lamar County,county,AL,,01075,89551.9102
+Winn Parish,county,LA,,22127,101314.03801
+Murray County,county,OK,,40099,96391.02585
+Newton County,county,IN,"Chicago-Naperville-Elgin, IL-IN-WI",18111,127059.15276
+Calhoun County,county,FL,,12013,105495.18751
+Washington County,county,IL,,17189,107410.88227
+Glacier County,county,MT,,30035,90722.8376
+Chowan County,county,NC,,37041,142496.05646
+Nantucket County,county,MA,,25019,1797554.87902
+Union County,county,KY,,21225,81835.59162
+Callahan County,county,TX,"Abilene, TX",48059,150762.47374
+Morgan County,county,KY,,21175,70554.67504
+McKenzie County,county,ND,,38053,280023.07941
+Madison County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51113,244894.1821
+Converse County,county,WY,,56009,206001.79092
+Trinity County,county,TX,,48455,126300.73938
+Greene County,county,MS,,28041,100570.19634
+Izard County,county,AR,,05065,106831.59504
+Breathitt County,county,KY,,21025,60947.783
+Ford County,county,IL,,17053,107922.6784
+Madison County,county,TX,,48313,165724.15872
+Stewart County,county,TN,"Clarksville, TN-KY",47161,144105.13
+Comanche County,county,TX,,48093,124686.53524
+Bamberg County,county,SC,,45009,74889.38842
+Monroe County,county,OH,,39111,114917.89357
+Martinsville City,county,VA,"Martinsville, VA",51690,57420.15887
+Grundy County,county,TN,,47061,110110.42695
+Calhoun County,county,MS,,28013,77638.38523
+Hughes County,county,OK,,40063,62114.48867
+Osage County,county,MO,"Jefferson City, MO",29151,155747.93128
+Fremont County,county,ID,"Rexburg, ID",16043,236466.97976
+Buffalo County,county,WI,,55011,153422.90639
+Clay County,county,IL,,17025,76850.88989
+Pend Oreille County,county,WA,,53051,233126.81266
+Crenshaw County,county,AL,,01041,92672.53419
+Mono County,county,CA,,06051,477567.4504
+Jackson County,county,KS,"Topeka, KS",20085,117887.72293
+Archuleta County,county,CO,,08007,343681.41292
+Lewis County,county,KY,,21135,64645.83338
+Moffat County,county,CO,"Craig, CO",08081,173967.44729
+Johnson County,county,IL,"Carbondale-Marion, IL",17087,122379.57214
+Mason County,county,IL,,17125,77800.12042
+Amelia County,county,VA,"Richmond, VA",51007,180210.8886
+Kodiak Island Borough,county,AK,,02150,344437.96139
+Big Horn County,county,MT,,30003,120260.2963
+Cass County,county,IA,,19029,98176.90292
+Lamb County,county,TX,,48279,71253.33697
+Bienville Parish,county,LA,,22013,88285.06977
+Shoshone County,county,ID,,16079,154665.81808
+Crawford County,county,MI,,26039,103791.0793
+Lincoln County,county,AR,"Pine Bluff, AR",05079,92843.56869
+Cass County,county,IL,,17017,65149.27497
+Powell County,county,KY,,21197,80871.52303
+Jackson County,county,KY,,21109,91230.35059
+Perquimans County,county,NC,"Elizabeth City, NC",37143,164429.60875
+Webster County,county,KY,,21233,66687.79861
+Wright County,county,IA,,19197,98258.60111
+Mississippi County,county,MO,,29133,64100.99488
+Presque Isle County,county,MI,,26141,150772.47349
+Tallahatchie County,county,MS,,28135,79708.32396
+Howard County,county,AR,,05061,105217.98084
+Wilbarger County,county,TX,"Vernon, TX",48487,74322.84404
+Millard County,county,UT,,49027,194561.91269
+Telfair County,county,GA,,13271,71760.47223
+Vinton County,county,OH,,39163,98417.12157
+Choctaw County,county,AL,,01023,
+Amite County,county,MS,,28005,119693.48109
+Braxton County,county,WV,,54007,83821.0749
+Bath County,county,KY,"Mount Sterling, KY",21011,87801.68422
+Goshen County,county,WY,,56015,155687.02242
+Caldwell County,county,KY,,21033,88775.61175
+Meigs County,county,TN,,47121,166522.10379
+Madison County,county,MO,,29123,98182.13167
+Yalobusha County,county,MS,,28161,114103.79815
+Bleckley County,county,GA,,13023,95700.3558
+Allen County,county,KS,,20001,54639.00219
+Newton County,county,TX,,48351,121553.23049
+Chippewa County,county,MN,,27023,131926.32373
+Camp County,county,TX,"Mount Pleasant, TX",48063,129521.83827
+Pulaski County,county,IN,,18131,102464.8288
+Monroe County,county,WV,,54063,104324.95841
+Lewis County,county,TN,,47101,127756.11952
+Sumter County,county,AL,,01119,71839.44834
+Charlton County,county,GA,,13049,100676.69748
+Butler County,county,KY,"Bowling Green, KY",21031,128189.74772
+Colfax County,county,NM,,35007,157727.02277
+Poquoson City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51735,311756.05449
+Dawson County,county,TX,"Lamesa, TX",48115,93451.41033
+Stone County,county,AR,,05137,125497.13099
+Menard County,county,IL,"Springfield, IL",17129,147253.30635
+Grundy County,county,IA,"Waterloo-Cedar Falls, IA",19075,140642.88852
+Macon County,county,GA,,13193,54092.47474
+Appanoose County,county,IA,,19007,86159.82188
+Towns County,county,GA,,13281,225913.62084
+Sanders County,county,MT,,30089,217864.79212
+Pamlico County,county,NC,"New Bern, NC",37137,162332.45897
+Lake County,county,MI,,26085,110939.74787
+Franklin County,county,FL,,12037,269091.89334
+Northampton County,county,VA,,51131,154085.71903
+Pike County,county,IN,"Jasper, IN",18125,101741.71512
+Todd County,county,KY,,21219,103180.25798
+Union County,county,IA,,19175,101856.30535
+Greene County,county,IL,,17061,86671.2497
+Glades County,county,FL,,12043,136563.50507
+Edmonson County,county,KY,"Bowling Green, KY",21061,99234.74406
+Morgan County,county,UT,"Ogden-Clearfield, UT",49029,433034.73398
+Crawford County,county,GA,"Macon-Bibb County, GA",13079,112823.47464
+Blackford County,county,IN,,18009,72131.86838
+Koochiching County,county,MN,,27071,98384.07208
+Summers County,county,WV,,54089,82874.32034
+Little River County,county,AR,"Texarkana, TX-AR",05081,97481.15292
+Fulton County,county,AR,,05049,120483.44699
+Jefferson County,county,MT,"Helena, MT",30043,282180.76578
+Lawrence County,county,MS,,28077,96831.42385
+Chickasaw County,county,IA,,19037,130723.7459
+Rains County,county,TX,,48379,186560.93369
+Morris County,county,TX,,48343,105307.57874
+Lunenburg County,county,VA,,51111,91991.95395
+Skamania County,county,WA,"Portland-Vancouver-Hillsboro, OR-WA",53059,354910.0114
+Custer County,county,MT,,30017,140142.15221
+Boundary County,county,ID,,16021,251432.91805
+Prowers County,county,CO,,08099,96552.15854
+Northumberland County,county,VA,,51133,242815.52073
+Morrow County,county,OR,"Hermiston-Pendleton, OR",41049,177823.47876
+Linn County,county,MO,,29115,75553.41777
+Washington County,county,KY,,21229,130198.17621
+Lyon County,county,IA,,19119,153122.14748
+Terry County,county,TX,,48445,121941.10141
+Marion County,county,KS,,20115,77963.69185
+Magoffin County,county,KY,,21153,77024.88842
+Owyhee County,county,ID,"Boise City, ID",16073,220130.39277
+Douglas County,county,MO,,29067,118593.74306
+Marshall County,county,IL,"Peoria, IL",17123,80707.65152
+Conecuh County,county,AL,,01035,90280.3007
+Shelby County,county,IA,,19165,128735.28921
+Barton County,county,MO,,29011,114189.62188
+Haskell County,county,OK,,40061,86570.70787
+Red River County,county,TX,,48387,96306.33954
+Big Horn County,county,WY,,56003,163486.64605
+Juab County,county,UT,"Provo-Orem, UT",49023,273620.3294
+DeKalb County,county,MO,"St. Joseph, MO-KS",29063,149163.85354
+Ramsey County,county,ND,,38071,177133.15686
+Jackson County,county,TN,"Cookeville, TN",47087,128129.33979
+Perry County,county,MS,"Hattiesburg, MS",28111,115929.08572
+Cherokee County,county,IA,,19035,112202.23681
+Charlotte County,county,VA,,51037,124790.74899
+Iron County,county,MI,,26071,77683.61911
+Dooly County,county,GA,,13093,79534.94681
+Desha County,county,AR,,05041,72778.4673
+Sierra County,county,NM,,35051,112480.62784
+Teton County,county,ID,"Jackson, WY-ID",16081,449161.62887
+Cottonwood County,county,MN,,27033,97823.37269
+Rio Grande County,county,CO,,08105,175833.22265
+Valley County,county,ID,,16085,343248.4681
+Greensville County,county,VA,,51081,92187.86653
+Fergus County,county,MT,,30027,152666.69362
+Trousdale County,county,TN,"Nashville-Davidson--Murfreesboro--Franklin, TN",47169,192901.17885
+Decatur County,county,TN,,47039,101350.21065
+Okfuskee County,county,OK,,40107,71227.33492
+Heard County,county,GA,"Atlanta-Sandy Springs-Alpharetta, GA",13149,141421.511
+Wabash County,county,IL,,17185,99429.06431
+Martin County,county,KY,,21159,72683.2109
+Montgomery County,county,MO,,29139,143473.70199
+Live Oak County,county,TX,,48297,148971.57373
+Ward County,county,TX,,48475,178032.55086
+Richland County,county,MT,,30083,216288.03044
+Jefferson Davis County,county,MS,,28065,82723.83279
+Lake County,county,SD,,46079,163642.96209
+Blanco County,county,TX,,48031,342925.47219
+Wayne County,county,MO,,29223,91837.90017
+McIntosh County,county,GA,"Brunswick, GA",13191,141004.09215
+Monroe County,county,KY,,21171,63630.41558
+Watonwan County,county,MN,,27165,88676.37194
+Pope County,county,MN,,27121,201584.58127
+Washington County,county,NC,,37187,82213.46066
+Bacon County,county,GA,,13005,79834.29458
+Owen County,county,KY,,21187,104942.18152
+Green County,county,KY,"Campbellsville, KY",21087,89155.21303
+Grant County,county,WV,,54023,118191.10469
+Ripley County,county,MO,"Poplar Bluff, MO",29181,135220.7237
+Noble County,county,OK,,40103,89108.94372
+Washita County,county,OK,,40149,63567.12649
+Clay County,county,NC,,37043,186724.39108
+Sussex County,county,VA,"Richmond, VA",51183,110883.00819
+Lancaster County,county,VA,,51103,245276.94674
+Alleghany County,county,NC,,37005,164513.72014
+Pushmataha County,county,OK,,40127,77364.42885
+Louisa County,county,IA,,19115,112048.11817
+Candler County,county,GA,,13043,105113.08353
+Roosevelt County,county,MT,,30085,78388.8
+Saint Helena Parish,county,LA,"Baton Rouge, LA",22091,
+Barnes County,county,ND,,38003,136853.09491
+North Slope Borough,county,AK,,02185,203823.22459
+Hancock County,county,IA,,19081,110654.74577
+Lake County,county,MN,"Duluth, MN-WI",27075,161982.61068
+Box Butte County,county,NE,,31013,110348.73166
+Mackinac County,county,MI,,26097,128005.45884
+Early County,county,GA,,13099,79364.39742
+Carroll County,county,KY,,21041,96547.84069
+Lincoln County,county,WA,,53043,179238.85937
+Evans County,county,GA,,13109,96191.93418
+Bollinger County,county,MO,"Cape Girardeau, MO-IL",29017,160771.0697
+Winnebago County,county,IA,,19189,106555.55632
+Red Willow County,county,NE,,31145,115774.07402
+Wilcox County,county,AL,,01131,109294.89437
+Middlesex County,county,VA,,51119,241712.29549
+Walsh County,county,ND,,38099,121224.4482
+Custer County,county,NE,,31041,121667.67923
+Leslie County,county,KY,,21131,40750.68041
+Essex County,county,VA,,51057,178555.7005
+Colfax County,county,NE,,31037,125542.08898
+Guthrie County,county,IA,"Des Moines-West Des Moines, IA",19077,168006.6754
+Bradley County,county,AR,,05011,74781.03147
+Gates County,county,NC,"Virginia Beach-Norfolk-Newport News, VA-NC",37073,133508.81186
+Cumberland County,county,IL,"Charleston-Mattoon, IL",17035,102497.75961
+Mitchell County,county,IA,,19131,127102.71186
+Crawford County,county,IN,,18025,90518.26443
+Carbon County,county,MT,"Billings, MT",30009,273413.58026
+Johnston County,county,OK,,40069,80509.15155
+Coosa County,county,AL,"Alexander City, AL",01037,126133.64895
+Washington County,county,ID,,16087,168489.41451
+Franklin County,county,TX,,48159,188625.77265
+Noxubee County,county,MS,,28103,94884.19577
+Chicot County,county,AR,,05017,97727.5277
+Bullock County,county,AL,,01011,87084.28608
+Camden County,county,NC,"Virginia Beach-Norfolk-Newport News, VA-NC",37029,240901.41696
+Lowndes County,county,AL,"Montgomery, AL",01085,125699.84397
+Montgomery County,county,IA,,19137,88062.40975
+Ralls County,county,MO,"Hannibal, MO",29173,137899.62002
+Madison Parish,county,LA,,22065,
+Metcalfe County,county,KY,"Glasgow, KY",21169,83486.31416
+Roberts County,county,SD,,46109,156064.83689
+Clay County,county,TX,"Wichita Falls, TX",48077,136612.35675
+Pike County,county,AR,,05109,109267.14172
+Nemaha County,county,KS,,20131,120924.69388
+Holt County,county,NE,,31089,104669.7005
+Butte County,county,SD,,46019,245752.82746
+Howard County,county,MO,"Columbia, MO",29089,124559.16641
+Alcona County,county,MI,,26001,141861.48129
+Love County,county,OK,"Ardmore, OK",40085,124204.71488
+Ochiltree County,county,TX,,48357,130638.65483
+Perry County,county,AR,"Little Rock-North Little Rock-Conway, AR",05105,103744.2274
+Franklin County,county,IA,,19069,102970.86181
+Carroll County,county,MS,"Greenwood, MS",28015,130801.61733
+Keokuk County,county,IA,,19107,100081.07203
+Lewis County,county,MO,"Quincy, IL-MO",29111,118542.38493
+Jackson County,county,MN,,27063,125858.11755
+Pulaski County,county,GA,,13235,97034.05591
+Duval County,county,TX,"Alice, TX",48131,
+Marshall County,county,KS,,20117,77284.72444
+Sabine County,county,TX,,48403,144907.43924
+Calhoun County,county,IA,,19025,90171.02256
+West Carroll Parish,county,LA,,22123,113204.75221
+Tunica County,county,MS,"Memphis, TN-MS-AR",28143,97425.31973
+Montgomery County,county,MS,,28097,82593.49764
+Yuma County,county,CO,,08125,176405.92993
+Webster County,county,MS,"Starkville, MS",28155,111260.79947
+Scott County,county,AR,,05127,99267.66301
+Grundy County,county,MO,,29079,56899.38073
+Zavala County,county,TX,,48507,72797.39764
+Runnels County,county,TX,,48399,108426.86472
+Martin County,county,IN,,18101,104186.18607
+Lanier County,county,GA,"Valdosta, GA",13173,115296.46467
+Parmer County,county,TX,,48369,111645.77348
+Switzerland County,county,IN,,18155,129484.27566
+Emery County,county,UT,,49015,
+Sac County,county,IA,,19161,94690.67489
+Swift County,county,MN,,27151,116731.93965
+McLean County,county,ND,,38055,156849.14981
+Marion County,county,TX,,48315,121806.34878
+Clarke County,county,IA,,19039,119604.72049
+Rock County,county,MN,,27133,183178.54206
+Mountrail County,county,ND,,38061,167000.28299
+Caldwell Parish,county,LA,,22021,108367.25019
+Stevens County,county,MN,,27149,161363.39138
+Cumberland County,county,VA,,51049,163831.38358
+Linn County,county,KS,"Kansas City, MO-KS",20107,93199.65089
+Valdez Cordova Borough,county,AK,,02261,285014.50339
+Wilkes County,county,GA,,13317,87051.4525
+Grand County,county,UT,,49019,363208.04043
+Humboldt County,county,IA,,19091,114743.48899
+Yellow Medicine County,county,MN,,27173,107777.20319
+Irwin County,county,GA,,13155,86117.93879
+Iron County,county,MO,,29093,81316.05973
+Wayne County,county,NE,,31179,150754.90997
+McCormick County,county,SC,,45065,211593.83654
+Cheyenne County,county,NE,,31033,92681.94608
+Latimer County,county,OK,,40077,92537.74531
+Greenlee County,county,AZ,,04011,
+Chattahoochee County,county,GA,"Columbus, GA-AL",13053,95680.76634
+Brown County,county,KS,,20013,74036.93039
+Jones County,county,NC,"New Bern, NC",37103,69747.68534
+Benewah County,county,ID,,16009,193613.23226
+Brewster County,county,TX,,48043,176615.01481
+Nowata County,county,OK,,40105,96618.34596
+Rice County,county,KS,,20159,64426.90661
+Howard County,county,IA,,19089,113447.92827
+Emmet County,county,IA,,19063,94974.86215
+Clear Creek County,county,CO,"Denver-Aurora-Lakewood, CO",08019,383095.98545
+Beaverhead County,county,MT,,30001,212881.83416
+Deer Lodge County,county,MT,,30023,123845.99332
+Hamilton County,county,NE,,31081,173333.79075
+Clinton County,county,KY,,21053,91001.30206
+Pipestone County,county,MN,,27117,123017.74488
+Charles Mix County,county,SD,,46023,130557.09611
+Jasper County,county,IL,,17079,104106.53176
+Johnson County,county,GA,"Dublin, GA",13167,79861.27205
+Pratt County,county,KS,,20151,75281.17084
+Saint Clair County,county,MO,,29185,108677.36561
+Kemper County,county,MS,"Meridian, MS",28069,89934.72453
+White Pine County,county,NV,,32033,124999.0325
+Forest County,county,WI,,55041,134991.09342
+McLean County,county,KY,"Owensboro, KY",21149,85939.87046
+Somervell County,county,TX,,48425,246650.33116
+Montmorency County,county,MI,,26119,117194.05596
+Stephens County,county,TX,,48429,122778.24759
+Catahoula Parish,county,LA,,22025,108655.6483
+Claiborne County,county,MS,,28021,100899.72533
+Seminole County,county,GA,,13253,85416.97777
+Terrell County,county,GA,"Albany, GA",13273,67303.79131
+Marshall County,county,MN,,27089,152606.71611
+Davis County,county,IA,,19051,138875.18225
+Hancock County,county,KY,"Owensboro, KY",21091,113232.80855
+Cloud County,county,KS,,20029,63362.29848
+Cuming County,county,NE,,31039,144979.82204
+Dawson County,county,MT,,30021,138579.64441
+Crittenden County,county,KY,,21055,74421.07228
+Palo Alto County,county,IA,,19147,104185.04285
+Livingston County,county,KY,"Paducah, KY-IL",21139,81400.65172
+Phelps County,county,NE,,31137,145431.13622
+Wilkinson County,county,GA,,13319,76529.16183
+Stillwater County,county,MT,"Billings, MT",30095,238834.04784
+Alger County,county,MI,,26003,140594.88889
+Mitchell County,county,TX,,48335,88981.58124
+Richmond County,county,VA,,51159,153516.48934
+Oregon County,county,MO,,29149,108860.57038
+Turner County,county,GA,,13287,86400.88003
+Caldwell County,county,MO,"Kansas City, MO-KS",29025,131872.17152
+Wilcox County,county,GA,,13315,80389.81673
+Dimmit County,county,TX,,48127,103629.42593
+Lee County,county,AR,,05077,72858.95694
+Greene County,county,IA,,19073,89241.4178
+Sublette County,county,WY,,56035,275692.82246
+Blaine County,county,OK,,40011,70193.40199
+Monona County,county,IA,,19133,96407.02944
+Woods County,county,OK,,40151,78017.66809
+Modoc County,county,CA,,06049,131708.71455
+Clearwater County,county,ID,,16035,160144.40949
+Wilson County,county,KS,,20205,60585.87656
+Wilkinson County,county,MS,,28157,96924.42369
+Perry County,county,AL,,01105,99279.71726
+Montgomery County,county,GA,"Vidalia, GA",13209,110707.69274
+Lyon County,county,KY,,21143,104026.38691
+Gallatin County,county,KY,"Cincinnati, OH-KY-IN",21077,118117.59637
+Jenkins County,county,GA,,13165,68121.40338
+Benton County,county,IN,"Lafayette-West Lafayette, IN",18007,98000.14012
+Ritchie County,county,WV,,54085,78332.8261
+Quay County,county,NM,,35037,71631.63232
+Ozark County,county,MO,,29153,124534.23092
+Hancock County,county,GA,"Milledgeville, GA",13141,117094.83528
+Lucas County,county,IA,,19117,108892.58791
+Monroe County,county,MO,,29137,127011.93968
+Turner County,county,SD,"Sioux Falls, SD",46125,161508.82716
+Archer County,county,TX,"Wichita Falls, TX",48009,161744.42342
+Platte County,county,WY,,56031,195057.08052
+Carroll County,county,MO,,29033,89694.32621
+Mathews County,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51115,239419.38382
+Montgomery County,county,AR,,05097,114626.95632
+Clearwater County,county,MN,,27029,151892.19362
+Sitka Borough,county,AK,,02220,451327.13907
+Kiowa County,county,OK,,40075,44247.08615
+Trimble County,county,KY,,21223,131799.27281
+Madison County,county,MT,,30057,392364.47951
+Jack County,county,TX,,48237,138512.24981
+Rosebud County,county,MT,,30087,129434.36665
+Johnson County,county,WY,,56019,263027.2034
+Maries County,county,MO,,29125,156914.69466
+Knox County,county,NE,,31107,104896.84515
+Warren County,county,IN,"Lafayette-West Lafayette, IN",18171,127568.48184
+Hickory County,county,MO,,29085,104904.47448
+Daviess County,county,MO,,29061,137382.13218
+Webster County,county,WV,,54101,47600.83807
+Mercer County,county,ND,,38057,187274.96021
+Cedar County,county,NE,,31027,145801.67644
+Tyler County,county,WV,,54095,65201.82491
+Bracken County,county,KY,"Cincinnati, OH-KY-IN",21023,99632.48521
+Dawes County,county,NE,,31045,122904.43881
+Coffey County,county,KS,,20031,106572.92792
+Custer County,county,SD,,46033,268745.60008
+Butler County,county,NE,,31023,133931.19062
+Lafayette County,county,FL,,12067,143640.82527
+Perry County,county,TN,,47135,104997.73751
+Keith County,county,NE,,31101,135783.57848
+Prairie County,county,AR,,05117,94543.69557
+Allendale County,county,SC,,45005,48607.15863
+Atkinson County,county,GA,"Douglas, GA",13003,85821.81096
+Choctaw County,county,MS,,28019,97448.27475
+Baraga County,county,MI,,26013,99735.84802
+Franklin City,county,VA,"Virginia Beach-Norfolk-Newport News, VA-NC",51620,127029.44382
+Houston County,county,TN,,47083,118324.04463
+Harrison County,county,MO,,29081,65577.41006
+Murray County,county,MN,,27101,149118.38703
+Hamilton County,county,TX,,48193,127321.22481
+Oscoda County,county,MI,,26135,95586.44085
+Clay County,county,WV,"Charleston, WV",54015,73193.23081
+Lake County,county,OR,,41037,103884.02205
+Graham County,county,NC,,37075,136201.65591
+Clay County,county,KS,,20027,89644.1824
+San Miguel County,county,CO,,08113,857357.94947
+Twiggs County,county,GA,"Macon-Bibb County, GA",13289,63693.18373
+Hamilton County,county,IL,,17065,119073.18521
+Traill County,county,ND,,38097,177293.72899
+Pocahontas County,county,WV,,54075,101735.68871
+Schoolcraft County,county,MI,,26153,104758.56957
+Liberty County,county,FL,,12077,110889.93999
+San Augustine County,county,TX,,48405,168140.52962
+Lemhi County,county,ID,,16059,191778.92785
+Doddridge County,county,WV,"Clarksburg, WV",54017,89757.65576
+Humphreys County,county,MS,,28053,66353.57044
+Thomas County,county,KS,,20193,123151.92465
+Richardson County,county,NE,,31147,65649.72193
+Searcy County,county,AR,,05129,99417.69958
+Taylor County,county,GA,,13269,93043.47341
+Power County,county,ID,"Pocatello, ID",16077,156604.40159
+Greene County,county,AL,"Tuscaloosa, AL",01063,98470.13728
+Coleman County,county,TX,,48083,97923.75432
+Ballard County,county,KY,"Paducah, KY-IL",21007,77284.59491
+Anderson County,county,KS,,20003,87102.44999
+Red River Parish,county,LA,,22081,135898.12576
+Washakie County,county,WY,,56043,166455.74137
+Major County,county,OK,,40093,107353.16636
+Decatur County,county,IA,,19053,131841.88588
+Yoakum County,county,TX,,48501,150360.5723
+Franklin County,county,MS,,28037,122188.14642
+Benton County,county,MS,,28009,120378.50787
+Merrick County,county,NE,"Grand Island, NE",31121,134182.72575
+Lincoln County,county,GA,"Augusta-Richmond County, GA-SC",13181,137990.22068
+McCulloch County,county,TX,,48307,101545.18309
+Kane County,county,UT,,49025,250452.77078
+Cleveland County,county,AR,"Pine Bluff, AR",05025,135914.07168
+Winkler County,county,TX,,48495,99837.13062
+Pleasants County,county,WV,,54073,113982.18506
+Monroe County,county,IA,,19135,99298.85186
+Dade County,county,MO,,29057,94906.56585
+Conejos County,county,CO,,08021,139882.05427
+Wheeler County,county,GA,,13309,78862.84461
+Clay County,county,TN,,47027,115357.77345
+Marion County,county,GA,"Columbus, GA-AL",13197,101442.19651
+Valley County,county,MT,,30105,111150.74406
+Grant County,county,SD,,46051,142412.32246
+Boise County,county,ID,"Boise City, ID",16015,232436.69143
+Doniphan County,county,KS,"St. Joseph, MO-KS",20043,89735.47777
+Nicholas County,county,KY,,21181,90248.99848
+Gilmer County,county,WV,,54021,75978.7356
+East Carroll Parish,county,LA,,22035,
+Kingman County,county,KS,,20095,93139.90557
+Harney County,county,OR,,41025,110068.38957
+Castro County,county,TX,,48069,106319.89559
+Worth County,county,IA,"Mason City, IA",19195,116212.95125
+Adair County,county,IA,,19001,111477.61653
+Chariton County,county,MO,,29041,183162.93004
+Grant County,county,KS,,20067,100528.02376
+Lake County,county,CO,,08065,281636.86936
+Elliott County,county,KY,,21063,69906.37671
+Hutchinson County,county,SD,,46067,132874.76309
+Rappahannock County,county,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",51157,369346.07668
+Newton County,county,AR,"Harrison, AR",05101,111715.57645
+Wallowa County,county,OR,,41063,257414.06838
+Pepin County,county,WI,,55091,146178.32445
+Grand Isle County,county,VT,"Burlington-South Burlington, VT",50013,289993.14019
+Lexington City,county,VA,,51678,206686.85091
+Jefferson County,county,MS,,28063,100963.49672
+Pierce County,county,NE,"Norfolk, NE",31139,153506.57663
+Lee County,county,KY,,21129,
+Grant County,county,OR,,41023,172595.24795
+Jefferson County,county,NE,,31095,81217.93682
+Ferry County,county,WA,,53019,214638.32198
+Van Buren County,county,IA,,19177,85128.94292
+Lake County,county,TN,,47095,66766.94526
+Crook County,county,WY,"Gillette, WY",56011,237762.58314
+Shannon County,county,MO,,29203,98059.30834
+Dallam County,county,TX,,48111,82748.69754
+Broadwater County,county,MT,,30007,254898.36338
+Forest County,county,PA,,42053,83153.32434
+Brooks County,county,TX,,48047,
+Union County,county,IN,"Cincinnati, OH-KY-IN",18161,130785.74911
+Pocahontas County,county,IA,,19151,86464.31903
+Goliad County,county,TX,"Victoria, TX",48175,222612.47983
+Kit Carson County,county,CO,,08063,145109.03307
+Tillman County,county,OK,,40141,34172.61781
+Swisher County,county,TX,,48437,76075.92984
+Blaine County,county,MT,,30005,108011.92907
+Nemaha County,county,NE,,31127,105696.26116
+Bon Homme County,county,SD,,46009,126104.38411
+Caribou County,county,ID,,16029,186262.62846
+Fall River County,county,SD,,46047,162629.86957
+Ida County,county,IA,,19093,92939.63289
+Bailey County,county,TX,,48017,81445.08585
+Beaver County,county,UT,,49001,182792.48554
+La Salle County,county,TX,,48283,
+Powell County,county,MT,,30077,156922.82018
+Schuyler County,county,IL,,17169,104540.86305
+Pembina County,county,ND,,38067,104704.85165
+Monroe County,county,AR,,05095,78805.6648
+Weston County,county,WY,"Gillette, WY",56045,160803.08755
+Wabaunsee County,county,KS,"Topeka, KS",20197,132686.72858
+Southeast Fairbanks Borough,county,AK,,02240,236568.32124
+Tucker County,county,WV,,54093,122925.5081
+Refugio County,county,TX,,48391,124239.51943
+Charles City County,county,VA,"Richmond, VA",51036,170289.40575
+Thurston County,county,NE,,31173,112096.88633
+Huerfano County,county,CO,,08055,152184.23416
+Childress County,county,TX,,48075,75748.38404
+Lac Qui Parle County,county,MN,,27073,119704.49043
+Russell County,county,KS,,20167,63036.24775
+Clinch County,county,GA,,13065,79459.74298
+Burt County,county,NE,,31021,99786.53879
+Fremont County,county,IA,,19071,104613.52589
+Hancock County,county,TN,,47067,101422.86976
+King and Queen County,county,VA,"Richmond, VA",51097,175256.31518
+Galax City,county,VA,,51640,98758.51977
+Pershing County,county,NV,,32027,114102.42788
+Wolfe County,county,KY,,21237,114718.37052
+Clark County,county,MO,"Fort Madison-Keokuk, IA-IL-MO",29045,
+Buena Vista City,county,VA,,51530,100823.92583
+Dallas County,county,AR,,05039,86844.78743
+Kearney County,county,NE,"Kearney, NE",31099,166125.52421
+Surry County,county,VA,,51181,182767.96392
+Fulton County,county,KY,,21075,48771.05434
+Wayne County,county,IA,,19185,78614.05142
+Randolph County,county,GA,,13243,56370.5375
+Norman County,county,MN,,27107,116154.35041
+Wilkin County,county,MN,"Wahpeton, ND-MN",27167,155469.99452
+Rio Blanco County,county,CO,,08103,200797.23092
+Henderson County,county,IL,"Burlington, IA-IL",17071,91797.37074
+Moore County,county,TN,"Tullahoma-Manchester, TN",47127,197319.99848
+Howard County,county,NE,"Grand Island, NE",31093,165378.56867
+Bottineau County,county,ND,,38009,149210.78607
+Calhoun County,county,WV,,54013,63204.90625
+Treutlen County,county,GA,"Dublin, GA",13283,80792.06458
+Spink County,county,SD,,46115,99024.48541
+Ellsworth County,county,KS,,20053,71134.67349
+Lafayette County,county,AR,,05073,75077.71795
+Saguache County,county,CO,,08109,170845.55631
+Pawnee County,county,KS,,20145,52735.06684
+Moody County,county,SD,,46101,168617.62703
+Woodruff County,county,AR,,05147,53111.01499
+Brown County,county,IL,,17009,128363.31046
+Presidio County,county,TX,,48377,143305.70659
+Bear Lake County,county,ID,,16007,202130.93827
+Antelope County,county,NE,,31003,120610.34955
+Bland County,county,VA,"Bluefield, WV-VA",51021,114774.48322
+Pendleton County,county,WV,,54071,120767.64454
+Edwards County,county,IL,,17047,79386.56209
+Gentry County,county,MO,,29075,75131.29796
+Teton County,county,MT,,30099,167432.76768
+Osceola County,county,IA,,19143,98982.341
+Menifee County,county,KY,"Mount Sterling, KY",21165,78653.72194
+Reynolds County,county,MO,,29179,107491.16033
+Hamlin County,county,SD,"Watertown, SD",46057,218228.46782
+Clay County,county,NE,,31035,101067.39169
+Benson County,county,ND,,38005,
+Shelby County,county,MO,,29205,95151.00782
+Van Buren County,county,TN,,47175,122486.74658
+Iron County,county,WI,,55051,127032.89114
+Greenwood County,county,KS,,20073,52157.93919
+Sullivan County,county,MO,,29211,63421.91147
+Grant County,county,MN,,27051,134426.00858
+Cumberland County,county,KY,,21057,91188.3294
+Crowley County,county,CO,,08025,99705.80938
+Miller County,county,GA,,13201,82920.76099
+Pondera County,county,MT,,30073,137590.5851
+Essex County,county,VT,,50009,137702.98036
+Sherman County,county,KS,,20181,82470.49312
+Sullivan County,county,PA,,42113,146271.37175
+Taylor County,county,IA,,19173,86705.35834
+Ohio County,county,IN,"Cincinnati, OH-KY-IN",18115,158764.67097
+Chouteau County,county,MT,,30015,145378.78609
+Ontonagon County,county,MI,,26131,73592.80287
+Mitchell County,county,KS,,20123,86009.44659
+Stanton County,county,NE,"Norfolk, NE",31167,164714.44882
+Bent County,county,CO,,08011,76758.15995
+Carson County,county,TX,"Amarillo, TX",48065,123886.53845
+Talbot County,county,GA,"Columbus, GA-AL",13263,102698.74425
+Gilpin County,county,CO,"Denver-Aurora-Lakewood, CO",08047,371044.5624
+Ottawa County,county,KS,"Salina, KS",20143,95291.17423
+San Saba County,county,TX,,48411,147871.90326
+Emporia City,county,VA,,51595,67540.64593
+Alfalfa County,county,OK,,40003,58004.21181
+Garza County,county,TX,,48169,102023.02994
+Lander County,county,NV,,32015,157202.86437
+Gray County,county,KS,,20069,133314.81484
+Covington City,county,VA,,51580,48712.19968
+Ransom County,county,ND,,38073,145440.78555
+McCook County,county,SD,"Sioux Falls, SD",46087,172268.47188
+Calhoun County,county,GA,,13037,67686.12225
+Audubon County,county,IA,,19009,92626.66055
+Lincoln County,county,MN,,27081,125243.79001
+Cameron Parish,county,LA,"Lake Charles, LA",22023,203341.86935
+Putnam County,county,IL,"Ottawa, IL",17155,109828.69221
+Dixon County,county,NE,"Sioux City, IA-NE-SD",31051,124213.17227
+Lincoln County,county,CO,,08073,151390.2469
+Tripp County,county,SD,,46123,133544.81058
+Cotton County,county,OK,"Lawton, OK",40033,76287.14466
+Lynn County,county,TX,"Lubbock, TX",48305,146491.78835
+Cook County,county,MN,,27031,256042.44997
+Fillmore County,county,NE,,31059,103062.02596
+Greer County,county,OK,,40055,54267.28426
+Washington County,county,KS,,20201,87510.78408
+Harper County,county,KS,,20077,53230.26474
+Luce County,county,MI,,26095,82230.39822
+Cherry County,county,NE,,31031,133337.02272
+Jefferson County,county,OK,,40067,41521.71522
+Day County,county,SD,,46037,170836.51788
+Floyd County,county,TX,,48153,90545.94134
+Hartley County,county,TX,,48205,194212.71472
+Alexander County,county,IL,"Cape Girardeau, MO-IL",17003,
+Norton County,county,KS,,20137,68866.75889
+Stark County,county,IL,"Peoria, IL",17175,93576.56258
+Mahnomen County,county,MN,,27087,113289.28733
+Haskell County,county,TX,,48207,77102.44995
+McHenry County,county,ND,"Minot, ND",38049,149267.12742
+Boone County,county,NE,,31011,165394.78093
+Morris County,county,KS,,20127,92836.15871
+Carter County,county,MO,,29035,118866.74617
+Walworth County,county,SD,,46129,89170.6352
+Stewart County,county,GA,"Columbus, GA-AL",13259,50969.82176
+Hansford County,county,TX,,48195,122166.85941
+Stevens County,county,KS,,20189,97747.41295
+Atchison County,county,MO,,29005,79458.13171
+Johnson County,county,NE,,31097,110732.92713
+Coal County,county,OK,,40029,66726.50759
+Pulaski County,county,IL,,17153,
+Crosby County,county,TX,"Lubbock, TX",48107,79404.49225
+Wirt County,county,WV,"Parkersburg-Vienna, WV",54105,80805.18261
+Delta County,county,TX,,48119,107513.1408
+Brule County,county,SD,,46015,145623.71232
+Polk County,county,NE,,31143,128070.73049
+Warren County,county,GA,,13301,69502.81887
+Martin County,county,TX,"Midland, TX",48317,
+Lincoln County,county,ID,,16063,181122.99337
+Scott County,county,KS,,20171,113250.91161
+Big Stone County,county,MN,,27011,113011.68696
+Sheridan County,county,NE,,31161,78491.66349
+Kingsbury County,county,SD,,46077,138611.54992
+Beaver County,county,OK,,40007,96048.5108
+Wheeler County,county,TX,,48483,86039.48788
+Hamilton County,county,NY,,36041,169717.58735
+Garfield County,county,UT,,49017,189798.87617
+Thayer County,county,NE,,31169,81388.91745
+Gallatin County,county,IL,,17059,73665.93528
+Phillips County,county,KS,,20147,62780.12468
+Pickett County,county,TN,,47137,140752.51133
+Toole County,county,MT,,30101,119999.83837
+Dickey County,county,ND,,38021,138379.09654
+Rooks County,county,KS,,20163,66458.96715
+Scott County,county,IL,"Jacksonville, IL",17171,97457.92614
+Craig County,county,VA,"Roanoke, VA",51045,155434.28816
+Jim Hogg County,county,TX,,48247,88803.98529
+Ouray County,county,CO,"Montrose, CO",08091,471326.47579
+Washington County,county,CO,,08121,140081.63209
+Carlisle County,county,KY,,21039,68378.112
+Musselshell County,county,MT,,30065,140504.46536
+Calhoun County,county,AR,"Camden, AR",05013,84536.5686
+Scotland County,county,MO,,29199,72910.8274
+Ringgold County,county,IA,,19159,119932.85301
+Custer County,county,CO,,08027,244104.67418
+Putnam County,county,MO,,29171,110093.39337
+Republic County,county,KS,,20157,69185.99224
+Hyde County,county,NC,,37095,150683.3337
+Hot Springs County,county,WY,,56017,153573.83537
+Furnas County,county,NE,,31065,110887.84602
+Crane County,county,TX,,48103,158364.13898
+Schley County,county,GA,"Americus, GA",13249,99955.80999
+Lincoln County,county,NV,,32017,151370.63396
+Cameron County,county,PA,,42023,81181.14171
+Morrill County,county,NE,,31123,97249.21264
+Mineral County,county,NV,,32021,83236.36851
+Dewey County,county,OK,,40043,91143.36541
+Florence County,county,WI,"Iron Mountain, MI-WI",55037,120988.51614
+Calhoun County,county,IL,"St. Louis, MO-IL",17013,135691.08235
+Hickman County,county,KY,,21105,79591.48928
+Mills County,county,TX,,48333,154122.30873
+Oneida County,county,ID,,16071,154683.4636
+Phillips County,county,CO,,08095,162732.56917
+Mineral County,county,MT,,30061,183852.8877
+Marshall County,county,SD,,46091,180560.80236
+Wahkiakum County,county,WA,,53069,238162.04981
+Adams County,county,ID,,16003,238782.14566
+Menominee County,county,WI,"Shawano, WI",55078,163532.77144
+Kimble County,county,TX,,48267,186086.25389
+Deuel County,county,SD,,46039,191140.04127
+Custer County,county,ID,,16037,181133.03889
+Tensas Parish,county,LA,,22107,
+Bath County,county,VA,,51017,143545.55643
+Phillips County,county,MT,,30071,122782.84753
+Hidalgo County,county,NM,,35023,
+Kittson County,county,MN,,27069,127508.79457
+Barber County,county,KS,,20007,41632.30627
+Lamoure County,county,ND,,38045,
+Grant County,county,OK,,40053,67265.38363
+Sharkey County,county,MS,,28125,
+Nuckolls County,county,NE,,31129,70735.71892
+Union County,county,NM,,35059,74100.02183
+Stafford County,county,KS,,20185,54223.20487
+Owsley County,county,KY,,21189,82766.57599
+Schuyler County,county,MO,"Kirksville, MO",29197,103616.78233
+Meade County,county,KS,,20119,66904.53031
+Dunn County,county,ND,,38025,267948.45219
+Storey County,county,NV,"Reno, NV",32029,321546.77205
+Wells County,county,ND,,38103,167349.03318
+Valley County,county,NE,,31175,107471.38904
+Kearny County,county,KS,"Garden City, KS",20093,121704.23795
+Edmunds County,county,SD,"Aberdeen, SD",46045,146667.31441
+Columbia County,county,WA,,53013,188136.45509
+Corson County,county,SD,,46031,71654.94079
+Mason County,county,TX,,48319,202642.69575
+Red Lake County,county,MN,,27125,166650.30136
+Sargent County,county,ND,,38081,138356.2379
+Pope County,county,IL,,17151,118167.89089
+Ellis County,county,OK,"Woodward, OK",40045,72309.86724
+Haskell County,county,KS,,20081,107371.32335
+Clark County,county,SD,,46025,157059.70533
+Knox County,county,MO,,29103,87591.00504
+Lake of the Woods County,county,MN,,27077,159298.46621
+Cavalier County,county,ND,,38019,138075.25982
+Fisher County,county,TX,,48151,93942.07811
+Hardin County,county,IL,,17069,58252.00881
+Adams County,county,IA,,19003,101720.60314
+Norton City,county,VA,"Big Stone Gap, VA",51720,69706.48579
+Chase County,county,NE,,31029,133421.64552
+Echols County,county,GA,"Valdosta, GA",13101,109793.01946
+Sweet Grass County,county,MT,,30097,214620.60831
+Petersburg Borough,county,AK,,02195,304996.12682
+Lewis County,county,ID,,16061,141655.30156
+Smith County,county,KS,,20183,58154.53804
+Kimball County,county,NE,,31105,92530.58062
+Catron County,county,NM,,35003,147938.52158
+Hardeman County,county,TX,,48197,
+Mercer County,county,MO,,29129,81067.73799
+Sheridan County,county,MT,,30091,102158.75864
+Costilla County,county,CO,,08023,142412.30382
+Osborne County,county,KS,,20141,51369.31936
+Baylor County,county,TX,,48023,87252.64958
+Roger Mills County,county,OK,,40129,116296.0956
+Hemphill County,county,TX,,48211,148394.97398
+Webster County,county,NE,,31181,76613.70013
+Tyrrell County,county,NC,,37177,116428.0054
+Sutton County,county,TX,,48435,134402.53684
+Bennett County,county,SD,,46007,
+Foster County,county,ND,,38031,144129.22562
+Chautauqua County,county,KS,,20019,51973.69317
+Nance County,county,NE,,31125,116654.10445
+Knox County,county,TX,,48275,
+Reagan County,county,TX,,48383,
+Traverse County,county,MN,,27155,106861.00284
+Harper County,county,OK,,40059,45868.02095
+Upton County,county,TX,,48461,96024.34504
+Granite County,county,MT,,30039,216658.72097
+Emmons County,county,ND,,38029,104170.44733
+Coke County,county,TX,,48081,110251.4933
+Donley County,county,TX,,48129,
+Harlan County,county,NE,,31083,108757.3371
+Kinney County,county,TX,,48271,86479.98186
+Concho County,county,TX,,48095,156290.32076
+Woodson County,county,KS,,20207,56900.56237
+Shackelford County,county,TX,,48417,125083.36785
+Lipscomb County,county,TX,,48295,
+Sierra County,county,CA,,06091,224429.42676
+Fallon County,county,MT,,30025,136827.89425
+Hand County,county,SD,,46059,167518.35591
+Nelson County,county,ND,,38063,146760.30104
+Bowman County,county,ND,,38011,163299.32746
+Sherman County,county,NE,,31163,111075.60006
+Perkins County,county,SD,,46105,82983.78967
+Stanley County,county,SD,"Pierre, SD",46117,227205.66787
+Lincoln County,county,KS,,20105,66179.28878
+Collingsworth County,county,TX,,48087,78600.6451
+Crockett County,county,TX,,48105,
+Baker County,county,GA,,13007,
+Jewell County,county,KS,,20089,61555.18017
+Franklin County,county,NE,,31061,80048.48476
+Edwards County,county,KS,,20047,47844.7871
+Glascock County,county,GA,,13125,
+Clay County,county,GA,,13061,105536.34372
+Rush County,county,KS,,20165,43886.86616
+Hall County,county,TX,,48191,
+Jackson County,county,SD,,46071,
+Perkins County,county,NE,,31135,130723.35709
+Real County,county,TX,,48385,185613.03648
+Trego County,county,KS,,20195,75135.4221
+Decatur County,county,KS,,20039,59688.46696
+Logan County,county,KS,,20109,91225.99753
+Gove County,county,KS,,20063,80224.35081
+Brown County,county,NE,,31017,92732.36481
+Morton County,county,KS,,20129,70992.3052
+Ness County,county,KS,,20135,59095.04416
+Cheyenne County,county,KS,,20023,74797.10566
+Hitchcock County,county,NE,,31087,73737.39056
+Potter County,county,SD,,46107,
+Chase County,county,KS,"Emporia, KS",20017,92430.82051
+Hamilton County,county,KS,,20075,78540.84576
+Pawnee County,county,NE,,31133,93085.20873
+Cochran County,county,TX,,48079,
+Harmon County,county,OK,,40057,53095.34144
+Rawlins County,county,KS,,20153,71920.30135
+Frontier County,county,NE,,31063,116099.13827
+Rich County,county,UT,,49033,290611.35577
+Hettinger County,county,ND,,38041,92912.74321
+Wayne County,county,UT,,49055,
+Niobrara County,county,WY,,56027,128116.10663
+Elk County,county,KS,,20049,45818.09285
+Sheridan County,county,KS,,20179,119058.44729
+Sedgwick County,county,CO,,08115,107595.27249
+Kiowa County,county,KS,,20097,91134.56333
+Graham County,county,KS,,20065,58831.19588
+Kidder County,county,ND,,38043,
+Eddy County,county,ND,,38027,83337.17952
+Webster County,county,GA,,13307,72993.79424
+Sanborn County,county,SD,,46111,137563.5609
+Sherman County,county,TX,,48421,
+Renville County,county,ND,"Minot, ND",38075,175623.89929
+Miner County,county,SD,,46097,112365.70653
+Dolores County,county,CO,,08033,212085.78845
+Garfield County,county,WA,,53023,140816.17018
+Cimarron County,county,OK,,40025,53785.87599
+Quitman County,county,GA,"Eufaula, AL-GA",13239,67777.1877
+Griggs County,county,ND,,38039,
+Adams County,county,ND,,38001,
+Highland County,county,VA,,51091,172874.41991
+Greeley County,county,NE,,31077,115471.85162
+Culberson County,county,TX,,48109,
+Robertson County,county,KY,,21201,85485.92412
+Towner County,county,ND,,38095,87646.62937
+Burke County,county,ND,,38013,
+Wichita County,county,KS,,20203,94280.92972
+Wrangell Borough,county,AK,,02275,
+Haines Borough,county,AK,,02100,
+Stanton County,county,KS,,20187,88973.64126
+Wheatland County,county,MT,,30107,88594.40782
+Keweenaw County,county,MI,"Houghton, MI",26083,123027.27389
+Liberty County,county,MT,,30051,122742.7847
+Jeff Davis County,county,TX,,48243,182709.37997
+Judith Basin County,county,MT,,30045,147678.61045
+Clark County,county,KS,,20025,47608.51252
+Menard County,county,TX,,48327,
+Armstrong County,county,TX,"Amarillo, TX",48011,146117.51297
+Gilliam County,county,OR,,41021,163026.44839
+Meagher County,county,MT,,30059,162325.34728
+Dundy County,county,NE,,31057,
+Garfield County,county,NE,,31071,268098.60301
+Deuel County,county,NE,,31049,94572.07326
+De Baca County,county,NM,,35011,
+Hodgeman County,county,KS,,20083,74622.29147
+Oliver County,county,ND,"Bismarck, ND",38065,
+Golden Valley County,county,ND,,38033,
+Boyd County,county,NE,,31015,96114.70308
+Jerauld County,county,SD,"Huron, SD",46073,147127.33978
+Gosper County,county,NE,"Lexington, NE",31073,198364.63578
+Comanche County,county,KS,,20033,48948.9598
+McCone County,county,MT,,30055,116722.47733
+Sherman County,county,OR,,41055,149505.19042
+Powder River County,county,MT,,30075,117896.5975
+Daniels County,county,MT,,30019,117108.89986
+Garden County,county,NE,,31069,103284.54345
+Cheyenne County,county,CO,,08017,104876.01276
+Eureka County,county,NV,"Elko, NV",32011,114811.097
+Taliaferro County,county,GA,,13265,96550.56078
+Dickens County,county,TX,,48125,
+Cottle County,county,TX,,48101,
+Irion County,county,TX,"San Angelo, TX",48235,177585.71287
+Campbell County,county,SD,,46021,
+Wallace County,county,KS,,20199,75254.83797
+Lane County,county,KS,,20101,59930.63414
+Wheeler County,county,OR,,41069,177162.91222
+Throckmorton County,county,TX,,48447,
+Kiowa County,county,CO,,08061,90928.61566
+Sterling County,county,TX,"San Angelo, TX",48431,
+Stonewall County,county,TX,,48433,
+Carter County,county,MT,,30011,77312.57729
+Alpine County,county,CA,,06003,365720.28504
+Sheridan County,county,ND,,38083,
+Rock County,county,NE,,31149,
+Sully County,county,SD,,46119,
+Motley County,county,TX,,48345,
+Briscoe County,county,TX,,48045,
+Greeley County,county,KS,,20071,86723.88255
+Prairie County,county,MT,,30079,99580.44931
+Glasscock County,county,TX,,48173,
+Harding County,county,SD,,46063,
+Foard County,county,TX,,48155,
+Sioux County,county,NE,"Scottsbluff, NE",31165,165012.10991
+Camas County,county,ID,"Hailey, ID",16025,228075.56656
+Wibaux County,county,MT,,30109,125941.18008
+Terrell County,county,TX,,48443,
+Garfield County,county,MT,,30033,115082.7035
+Keya Paha County,county,NE,,31103,154410.19847
+Hayes County,county,NE,,31085,172868.46215
+Logan County,county,NE,"North Platte, NE",31113,
+Hinsdale County,county,CO,,08053,316722.65572
+Clark County,county,ID,,16033,121388.80277
+Golden Valley County,county,MT,,30037,124569.82035
+Mineral County,county,CO,,08079,247305.33101
+Wheeler County,county,NE,,31183,
+Hooker County,county,NE,,31091,69332.33081
+San Juan County,county,CO,,08111,305218.15482
+Treasure County,county,MT,,30103,197480.37778
+Loup County,county,NE,,31115,
+Banner County,county,NE,"Scottsbluff, NE",31007,
+Daggett County,county,UT,,49009,
+Thomas County,county,NE,,31171,
+McPherson County,county,NE,"North Platte, NE",31117,
+Petroleum County,county,MT,,30069,117195.49261
