@@ -154,7 +154,7 @@ Since our data is location-based, we can draw geographic maps showing the relati
 #### 2. Unemployment Rate
 ![Unemployment_Map](https://github.com/user-attachments/assets/3f4b46e8-c232-4257-a6cd-ad365f0c63f7)
 
-#### 3. National (Environmental Risk Index)
+#### 3. National (Environmental) Risk Index
 ![NRI_Map](https://github.com/user-attachments/assets/bf9f512d-eeb6-4b3b-9865-1990722bb6a6)
 
 #### 4. Log-transformed House Prices
@@ -191,18 +191,71 @@ The heatmap illustration below shows the correlation coefficient values between 
 
 ### Hypothesis Testing
 
-We will test the correlation of each variable (AQI, Unemployment Rate, Environmental Risk Index) with the log-transformed house prices to see if their correlations were significant or not. In order to prevent any disproportionality and variability, I will apply a min-max normalization on all of the values in the dataset. After that, we apply a permutation test for each pair of variables.
+We will test the correlation of each variable (AQI, Unemployment Rate, Environmental Risk Index) with the log-transformed house prices to see if their correlations were significant or not. In order to prevent any disproportionality and variability, I will apply a min-max normalization on all of the values in the dataset. After that, we apply a permutation test for each pair of variables. Along with the numerical results, a graph of the distribution resulting from the permutation test and the observed correlation coefficient will be obtained.
 
 #### 1. Median AQI and House Prices
 
 - **Null Hypothesis (H<sub>0</sub>)**: There is **no correlation** between the **Median AQI** and the house prices.
 - **Alternative Hypothesis (H<sub>1</sub>)**: There is **a correlation** between the **Median AQI** and the house prices.
 
-A permutation test with 10,000 iterations was performed with a significance level of 0.05.
+A permutation test of 10,000 iterations was performed with a significance level of 0.05.
 
 - **Results**:
   - Observed Correlation: 0.0406
-  - p-value: 0.21078
-  - **Fail to reject** the null hypothesis. This means that the observed correlation between the **Median AQI** and the house prices is not statistically significant.
+  - p-value: 0.2108
+  - **Fail to reject** the null hypothesis. This means that the observed correlation between the **Median AQI** and the house price is **not statistically significant**.
   
-![Unemployment_Hypothesis](https://github.com/user-attachments/assets/826c0005-7c8b-4bfe-875d-fbeed6323c0c)
+![AQI_Hypothesis](https://github.com/user-attachments/assets/826c0005-7c8b-4bfe-875d-fbeed6323c0c)
+
+#### 2. Unemployment Rate and House Prices
+
+- **Null Hypothesis (H<sub>0</sub>)**: There is **no correlation** between the **Unemployment Rate** and the house prices.
+- **Alternative Hypothesis (H<sub>1</sub>)**: There is **a correlation** between the **Unemployment Rate** and the house prices.
+
+A permutation test of 10,000 iterations was performed with a significance level of 0.05.
+
+- **Results**:
+  - Observed Correlation: -0.2380
+  - p-value: 0.0002
+  - **Reject** the null hypothesis. This means that the observed correlation between the **Unemployment Rate** and the house price is **statistically significant**.
+
+![Unemployment_Hypothesis](https://github.com/user-attachments/assets/f22b3ff6-0d21-4610-8b2f-ea093c0b3719)
+
+#### 3. National (Environmental) Risk Index and House Prices
+
+- **Null Hypothesis (H<sub>0</sub>)**: There is **no correlation** between the **National Risk Index** and the house prices.
+- **Alternative Hypothesis (H<sub>1</sub>)**: There is **a correlation** between the **National Risk Index** and the house prices.
+
+A permutation test of 10,000 iterations was performed with a significance level of 0.050.
+
+- **Results**:
+  - Observed Correlation: 0.3260
+  - p-value: 0.0002
+  - **Reject** the null hypothesis. This means that the observed correlation between the **National Risk Index** and the house price is **statistically significant**.
+
+![NRI_Hypothesis](https://github.com/user-attachments/assets/b25c6db7-8906-49c8-9183-961429324a90)
+
+#### Conclusions for Hypothesis Testing
+
+- **Air Quality Index (AQI)**
+  - The correlation found in our data turned out to be not statistically significant. This revelead that there is not an apparent relationship between the air quality of a location and the house prices of that location.
+- **Unemployment Rate**
+   - The correlation found in our data turned out to be statistically significant. This revealed a negative relationship between the unemployment in a location and the house prices of that location. The negative relationship means we've found out that the higher the employment, the higher the house prices are. Although, it should be noted that the correlation value was not high.
+- **National (Environmental) Risk Index**
+   - The correlation found in our data turned out to be statistically significant. This revealed a positive relationship between the environmental risk and house prices. In hindsight, this appears contrary to my expectations when starting this project, when I expected that the safer a place is, the more the houses would be in demand. Instead, the data suggests that higher-risk counties have higher house prices. Again, it should be noted that the correlation value was not high.
+
+## Limitations and Future Work
+
+### Limitations
+ - **Diversity of data**: The data collected was exclusively from the United States, which is a diverse country by itself but in comparison to the rest of the world it's very rich and developed.
+ - **Types of data obtained**: While the house price data was meant to serve as an analog to the demand to live in a certain place, buying houses are simply not the only way people get to live somewhere. Renting houses, building new ones, and short-to-medium term homestays (such as AirBnB) were not included in the project.
+ - **Timeframe**: The data that was used for all variables were from 2019 exclusively, which can be considered a limited view and we may have missed any emerging or long-term trends.
+ - **Narrow variables**: The variables used, such as house prices and unemployment, may be too dependent on macro-level attributes like the economy. To better isolate relevant trends, we would need to obtain additional data to account for these broader economic influences.
+ - **Data availability**: The AQI data was only available for around 1,000 counties out of a total 3,000, less diverse data can affect the confidence in our findings.
+
+### Future Work
+ - **Expanding the geographic breadth of the data**: Data from other countries can be collected alongside the United States to enhance and strengthen our findings.
+ - **Diversifying target variables**: More types of data can be collected alongside house prices such as: rent prices, tourism, homestays, population changes, house constructions etc. We can get a clearer picture of the demand to live in a certain place this way. This will improve our insights.
+ - **Expanding the timeframe**: More data can be collected simply by increasing the time range, most of the data collected have archives from previous years as well.
+ - **More general variables**: In order to do a fairer comparison we might want to look at how house prices move independent of the economy or the housing market and move in line with our other variables like air quality, unemployment, and disaster risk. For this we need to obtain more data from these areas to serve as a controlling factor.
+ - **Increasing sources for data**: Obtaining more data from other sources may also help to diversify and increase the quantity of our data, leading to more confident analysis.
