@@ -2,9 +2,9 @@
 
 This is my term project for the course, DSA210: Introduction to Data Science, in the 2024-25 Spring term.
 
-# Project Proposal
+# Project Report
 
-In this project, I will be exploring some essential factors and their relation to **housing prices**, which will serve as an analog for the general demand of living in a specific place. Among these factors are:
+In this project, I will be exploring some essential factors that affect life in a loctaion and their relation to **housing prices**, which will serve as an analog for the general demand of living in a specific place. Among these factors are:
 
 - **Air quality**, crucial in the future of someone's health and quality of life.
 - **Unemployment rate**, which determines the chances of a person being able to make a livelihood where they live.
@@ -14,7 +14,9 @@ In this project, I will be exploring some essential factors and their relation t
 
 My interest in putting together this project started with considering my life in university, and in the future. Sabancı University's campus in Tuzla, İstanbul, is in close proximity to an **'Organized Industrial Zone'**, an area of land designated by public authorities for industrial facilities. While this type of zoning can help industry work effectively and efficiently, it also brings lots of pollution as a side effect of the waste produced by these facilities.
 
-Students at our university often complain about the quality of the air, bad odors, and trouble breathing as a result of living and studying so close to the pollution. This situation has made me think more carefully about the qualities of where I will want to live and work after I graduate, especially the quality of the air everyone has to breathe. I want to find out whether people have also taken air quality, among other things, into account when buying houses. This led to the idea for this project.
+Students at our university often complain about the quality of the air, bad odors, and trouble breathing as a result of living and studying so close to the pollution. This situation has made me think more carefully about the qualities of where I will want to live and work after I graduate, especially the quality of the air everyone has to breathe. As I looked deeper into this matter, I also wanted to research the effect of the chances of employment, and the risk of natural disasters. These two things are often on the minds of people living in Turkey, as both of them are hot-button issues of the day, and they will especially be so for graduating students looking for work, where I will also be one in the near future.
+
+In conclusion, I wanted to find out whether people have also taken air quality, among other things, into account when buying houses. This led to the idea for this project.
 
 ## Plan
 
@@ -57,4 +59,150 @@ I plan to obtain this data through publicly-available online datasets and websit
 4. **Environmental Risk**
 
 - **United States Federal Emergency Management Agency (FEMA)**: Develops a measure of environmental risk, known as the **Environmental Risk Index**, which is available for each individual county. [Datasets are available here.](https://hazards.fema.gov/nri/data-resources#csvDownload)
-   
+
+## Data Analysis
+
+### Data Sourcing
+- Among the data sources mentioned above, the following ended up being used for this project: House prices data from [Zillow](https://www.zillow.com/research/data/), Air quality data from the [EPA](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual), employment data from the [Bureau of Labor Statistics](https://www.bls.gov/lau/tables.htm), environmental risk data from [FEMA](https://hazards.fema.gov/nri/data-resources#csvDownload) were used.
+
+- To make the processing of this data easier, two auxillary datasets were obtained. One is a dataset that contained a standardized FIPS (Federal Information Processing Standard) code for every county in the United States. All datasets except for the AQI data had these codes present, and they were vital for matching every attribute to the correct locations. Many copies of this kind of data are available online. I used one from the [United States Department of Transportation](https://data.transportation.gov/Railroads/State-County-and-City-FIPS-Reference-Table/eek5-pv8d/about_data). The other is a dataset that combined these FIPS codes to a GeoJSON dataset for each county in the United States, this makes it possible to visualize the data in the form of an interactive map. This dataset was obtained from a [public GitHub repository](https://github.com/plotly/datasets/blob/master/geojson-counties-fips.json).
+
+### Processing and Combining Data
+- Since the obtained data is from public sources they are often quite large and contain a plethora of different observations. Only some of them were necessary for this project so the datasets were "filtered", cleaned, and then combined into a single dataset for further analysis. The notebook files in the repository outline these processes as well.
+
+### Exploratory Data Analysis and Further Transformations
+- The distributions of house prices, AQI, unemployment rate, and the risk index were obtained and analyzed using different plotting techniques such as histograms and boxplots. The variables' relation to house prices were obtained and analyzed by use of scatter plotting.
+- A log-transformation was applied to house prices due to its skewness for the rest of the data analysis, the reasons will be further explained in the findings.
+
+### Correlation Analysis
+- The relationships between the variables' were examined by use of a correlation matri and were visualized.
+
+### Hypothesis Testing
+- The significance of the correlations between the house prices and the rest of the variables were analyzed by use of permutation testing their respective Pearson correlation coefficients, distributions of these tests and the observed correlations were visualized as well.
+
+## Findings
+
+### Distributions of Variables
+
+#### 1. Air Quality Index
+The following histogram shows the distribution of the median AQI that was recorded in a single year. The x-axis is the AQI that was recorded and the y-axis are the frequency of that particular AQI reading across all counties. The distribution appears mostly normal and has a low variance from a mean of about 40.
+
+![AQI_Histogram](https://github.com/user-attachments/assets/b54b7f99-28eb-4ac3-9ab5-4063b6c2264b)
+
+The following boxplot shows the distribution of the median AQI values. The points between Q1 and Q3 are in a small margin ranging from approximately 35 to 45. The whiskers are slightly far away from the median. Some, but not many outliers are present as well, ranging from near 0 to about 80.
+
+![AQI_Boxplot](https://github.com/user-attachments/assets/1afb6030-a565-4f6c-99bf-2d8026e09563)
+
+
+#### 2. Unemployment Rate
+The following histogram shows the distribution of the unemployment rate percentages that were recorded in a single year. The x-axis is the unemployment rate that was recorded for that county and the y-axis is the frequency of that rate. The distribution appears normal but is right skewed and has a low variance from a mean of about 4%.
+
+![Unemployment_Histogram](https://github.com/user-attachments/assets/c8f367dc-58de-4ac1-9a94-5c18ac53ec31)
+
+The following boxplot shows the distribution of the unemployment rates. Most of the data points are near the mean as shown in the histogram. The range between Q1 and Q3 is also small, from 3% to 4.5%. All of the outliers are on the right side, meaning most of the counties have lower unemployment. The outliers range from 7% to beyond 20%.
+
+![Unemployment_Boxplot](https://github.com/user-attachments/assets/55f9ecc9-d02a-4b25-a67b-8e373acd939c)
+
+#### 3. National (Environmental) Risk Index
+The following histogram shows the distribution of the National Risk Index values that were calculated for each county in a single year. The x-axis is ther Risk Index values and the y-axis is the frequency of those values. As the index increases, the frequency of the specific index values increase with it, levelling off and following an almost uniform distribution. This is expected as the Risk Index data is calculated in a percentile form comparing each county with fellow counties with similar attributes other than the environmental risk. As a result, all the values range from 0 to 100.
+
+![NRI_Histogram](https://github.com/user-attachments/assets/2ee23438-9103-4bab-8371-b7073150dc45)
+
+The following boxplot shows the distribution of the National Risk Index values. As observed in the histogram, almost completely uniform, with a median value only slightly above 50 and there are no outliers.
+
+![NRI_Boxplot](https://github.com/user-attachments/assets/7c4ca38f-356d-4a2b-8d64-c630304258d8)
+
+#### 4. Average House Prices
+
+The following histogram shows the distributions for the average house price for every county in a single year. The x-axis is the house price (in millions of US Dollars) and the y-axis is the frequency of the prices. The distribution is **heavily right-skewed** and most houses are priced around the mean of around $170,000. While the average house price can reach up to $1,700,000 for some counties.
+![AvgHouse_Histogram](https://github.com/user-attachments/assets/9302802a-44b0-4fc0-be0a-ae8e4babd8b7)
+
+The following boxplot shows the distribution of the average house prices, too. A similar observation can be made here as with the histogram, most prices are grouped on the left while there are some outliers close to the whiskers, and there are also a few outliers very far away from the median. Q1, Median, and Q3 points are also quite close to each other.
+
+![AvgHouse_Boxplot](https://github.com/user-attachments/assets/bf73460b-ff7c-447c-824e-eb5ae9d02975)
+
+#### 5. Log-Transformed House Prices
+
+Since our house price data is **heavily right-skewed**, this raw form can negatively impact the rest of our visualizations, testing, and analysis. This skewness can affect any attempt at machine learning on the data as well. In order to mitigate these problems, I will apply a logarithm transformation (taking the base-10 logarithm of each average house price value in the dataset) that will reduce the skewness and stabilize the variance.
+
+The histogram and the boxplot of these new transformed house price values are as follows:
+
+![LogHouse_Histogram](https://github.com/user-attachments/assets/267c3503-57be-4c9a-9349-ea3a4503772b)
+
+![LogHouse_Boxplot](https://github.com/user-attachments/assets/069530c8-57ed-4660-8fe2-cc8e13b26d7b)
+
+As it can be seen, the data much more resembles a normal distribution, with the mean value much better centered than before. The amount of outliers has also been reduced, making analysis easier. We will use this form of the house prices for the rest of our analyses and hypothesis testing.
+
+### Descriptive Statistics
+The following numerical descriptive statistics were acquired from the data, here they're given in table form:
+|               | Average House Price | Log-transformed House Price | Unemployment Rate (%) | National (Environmental) Risk Index | Median AQI |
+|---------------|---------------------|-----------------------------|-----------------------|-------------------------------------|------------|
+| **Count**     | 3,004               | 3,004                       | 3,004                 | 3,004                               | 995        |
+| **Mean**      | $171,594            | 5.17                        | 3.93                  | 51.66                               | 39.35      |
+| **Median**    | $143,815            | 5.15                        | 3.70                  | 52.06                               | 40         |
+| **Std. Dev.** | $113,751            | 0.21                        | 1.38                  | 28.29                               | 9.67       |
+| **Min.**      | $25,423             | 4.40                        | 1.3                   | 0                                   | 2          |
+| **Max.**      | $1,797,555          | 6.25                        | 20.7                  | 100                                 | 81         |
+
+### Cartographic Visualizations
+
+Since our data is location-based, we can draw geographic maps showing the relationship between the counties pertaining to our data. Following are pictures of a map for each variable in the data, interactive versions are available in the notebook files. Lower values are light yellow while higher values are dark red, gray means that there was no data for that county. A legend is provided in the top-right corner.
+
+#### 1. Median AQI
+![AQI_Map](https://github.com/user-attachments/assets/6d208538-cd8a-414f-9b94-7cb5feb7535e)
+
+#### 2. Unemployment Rate
+![Unemployment_Map](https://github.com/user-attachments/assets/3f4b46e8-c232-4257-a6cd-ad365f0c63f7)
+
+#### 3. National (Environmental Risk Index)
+![NRI_Map](https://github.com/user-attachments/assets/bf9f512d-eeb6-4b3b-9865-1990722bb6a6)
+
+#### 4. Log-transformed House Prices
+![LogHousePrice_Map](https://github.com/user-attachments/assets/44de3928-5e91-426f-936e-bb725108bb7b)
+
+### Comparing the Variables with House Prices
+
+#### 1. Median AQI
+
+The following scatter plot compares the distribution of the counties in terms of the AQI and the house prices. The x-axis is the AQI value and the y-axis is the log-transformed house price value. Darker spots indicate that there are more than one point in that spot. The distribution appears to be quite uniform around the center, and there doesn't appear to be any distinguishable patterns, implying low if any correlation.
+
+![AQI_Scatter](https://github.com/user-attachments/assets/ff9a8aba-ef9e-40d9-b716-ee3fbd8ed7f8)
+
+#### 2. Unemployment Rate
+The following scatter plot compares the distribution of the counties in terms of the unemployment rate and the house prices. The x-axis is the unemployment rate percentage value and the y-axis is the log-transformed house price value. Darker spots indicate that there are more than one point in that spot. The distribution is concentrated around the left side, however there is a slight decline in house price as unemployment rises. The counties with higher house prices are more on the left-side (lower unemployment) than those with lower house prices, implicating some correlation.
+
+![Unemployment_Scatter](https://github.com/user-attachments/assets/ce1b488c-5332-4d98-8958-7ae834ae23b6)
+
+#### 3. National (Environmental) Risk Index
+The following scatter plot compares the distribution of the counties in terms of the National Risk Index and the house prices. The x-axis is the Risk Index value and the y-axis is the log-transformed house price value. Darker spots indicate that there are mroe than one point in that spot. The distribution is quite uniform. As the Risk Index value increases the points get more spread out have a slight inclination in terms of house prices. This might be implying that places with more valuable houses are in more environmental risk.
+
+![RiskIndex_Scatter](https://github.com/user-attachments/assets/b3a4634b-97a1-4e68-afd7-b8c14758b3ac)
+
+### Correlation Analysis
+The heatmap illustration below shows the correlation coefficient values between the following variables: Log-transformed House Price, Average House Price, Median AQI, Unemployment Rate (%), National (Environmental) Risk Index. Some key observations are:
+- Correlation between the Log-transformed house price and the AQI: **0.04**
+  - Positive but very small correlation.
+- Correlation between the Log-transformed house price and the Unemployment Rate: **-0.25**
+  - Negative and slight correlation
+- Correlation between the Log-transformed house price and the National Risk Index: **0.36**
+  - Positive and slight correlation
+
+  ![Corr_Matrix](https://github.com/user-attachments/assets/559bebb1-ad6c-4be6-ad21-ce9b1ea8f475)
+
+### Hypothesis Testing
+
+We will test the correlation of each variable (AQI, Unemployment Rate, Environmental Risk Index) with the log-transformed house prices to see if their correlations were significant or not. In order to prevent any disproportionality and variability, I will apply a min-max normalization on all of the values in the dataset. After that, we apply a permutation test for each pair of variables.
+
+#### 1. Median AQI and House Prices
+
+- **Null Hypothesis (H<sub>0</sub>)**: There is **no correlation** between the **Median AQI** and the house prices.
+- **Alternative Hypothesis (H<sub>1</sub>)**: There is **a correlation** between the **Median AQI** and the house prices.
+
+A permutation test with 10,000 iterations was performed with a significance level of 0.05.
+
+- **Results**:
+  - Observed Correlation: 0.0406
+  - p-value: 0.21078
+  - **Fail to reject** the null hypothesis. This means that the observed correlation between the **Median AQI** and the house prices is not statistically significant.
+  
+![Unemployment_Hypothesis](https://github.com/user-attachments/assets/826c0005-7c8b-4bfe-875d-fbeed6323c0c)
