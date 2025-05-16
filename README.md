@@ -15,6 +15,7 @@ This is my term project for the course, DSA210: Introduction to Data Science, in
   - [Comparing the Variables](#comparing-the-variables-with-house-prices)
   - [Correlation Analysis](#comparing-the-variables-with-house-prices)
   - [Hypothesis Testing](#hypothesis-testing-1)
+  - [Machine Learning Techniques](#machine-learning-techniques)
 - [Limitations and Future Work](#limitations-and-future-work)
   - [Limitations](#limitations)
   - [Future Work](#future-work)
