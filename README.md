@@ -262,6 +262,66 @@ A permutation test of 10,000 iterations was performed with a significance level 
 - **National (Environmental) Risk Index**
    - The correlation found in our data turned out to be statistically significant. This revealed a positive relationship between the environmental risk and house prices. In hindsight, this appears contrary to my expectations when starting this project, when I expected that the safer a place is, the more the houses would be in demand. Instead, the data suggests that higher-risk counties have higher house prices. Again, it should be noted that the correlation value was not high.
 
+### Machine Learning Techniques
+
+After we have observed the relationship between our features, we now will apply machine learning techniques to observe how well we can use these relationships to predict the average house price of an area by taking into account the Unemployment Rate, Environmental Risk, and Air Quality of said area.
+
+Since our data is entirely continuous and numerical, we prefer to train regression models on our dataset. We will also scale our data using standardization (subtracting the mean and dividing by the standard error) on every column to make the regression model training healthier.
+
+#### Multicollinearity
+
+Before training models on our data, it is advisable to see if there's any multicollinearity that will prevent unwanted any instability, variance, and loss in significance in any of our features. The correlation values were already not high as previously explored, but it is still important to check.
+
+The Variance Inflation Factor (VIF) of the predicting features was found as follows:
+| Feature                             | VIF      |
+|-------------------------------------|----------|
+| Unemployment Rate (%)               | 1.001443 |
+| National (Environmental) Risk Index | 1.136174 |
+| Median AQI                          | 1.134710 |
+
+Our VIF values are considerably low, indicating that there is not multicollinearity that will harm our training.
+
+#### Models and Parameters
+
+Because our dataset is not very large (approximately 1,000 rows with no NA values and 4 variables), training time is not a great concern. We will train a couple regression models with several hyperparameter configurations on multiples folds of training and testing data to try to achieve the best results possible. The following models were trained with the following hyperparameters:
+
+- **Multiple Linear Regression**
+- **K Nearest Neighbors**
+  - Number of neighbors ranging from 1 to 20.
+- **Decision Tree**
+  - Maximum depth from select values between and including 3 and 30.
+  - Minimum samples per leaf from select values between and including 2 and 10.
+- **Random Forest**
+   - Maximum depth from select values between and including 5 and 10.
+   - Number of estimators from select values between and including 50 and 500.
+
+Cross-validation was used to find the optimal parameters for each machine learning model. Results were scored using R² values. 
+ 
+#### Results of Machine Learning and Conclusions
+
+The optimal parameters of each model, along with their scores was found as the following:
+
+| Model Name        | R²    | RMSE  | Optimal Parameters                               |
+|-------------------|-------|-------|--------------------------------------------------|
+| Linear Regression | 0.149 | 0.201 | (Not applicable)                                 |
+| KNN               | 0.243 | 0.190 | 20-21 Neighbors                                  |
+| DecisionTree      | 0.195 | 0.196 | 5 Max Depth and 10 Minimum Samples for Each Leaf |
+| RandomForest      | 0.277 | 0.185 | 5 Max Depth and 100 Estimators                   |
+
+Furthermore, the entirety of the data was fitted into each model and scatter plots were drawn comparing the predicted and actual house prices for each county.
+
+![Machine Learning Grid Plot](https://github.com/user-attachments/assets/0ac7e210-f1dd-4da4-80f6-3a97e0c7c882)
+
+It can be seen that the RandomForest model with a maximum depth of 5 and 100 estimators performed the best among every other model, with an R² value of 0.277 and a root mean square error (RMSE) of 0.185. It should be said that the R² and RMSE values of each model is considerably low, though this was expected after our correlation analysis. The Pearson correlation coefficients of our data points were also quite low, and this definitely hurt our models' performance.
+
+We can observe this on the graphs drawn as well. The dashed red diagonal line represents a perfect prediction on every point in our model. The predictions do not really line up and most of them are clustered around the middle with some there are some outliers around the cluster, implying our models are predicting the same house price for lots of regions with different prices and attributes.
+
+While the multiple linear regression model has no parameters per se, the optimal model's intercept and coefficient values were found and put into an equation:
+
+$$ \text{Log-transformed\ House\ Price}\ =\ 5.2962\ +\ (-0.0492)\cdot\text{Unemployment\ Rate}\ +\ (0.0753)\cdot\text{National\ Risk\ Index}\ +\ (-0.0177)\cdot\text{Median\ AQI} $$
+
+The coefficients are in line with our correlation values. The coefficients of the Unemployment Rate and Median AQI are negative, meaning they're driving down the house price. While the National Risk Index's coefficient is positive, implying it is driving up house prices. The size of the regression equation's coefficients corroborates with the size of the correlation coefficients. They are both clearly low.
+
 ## Limitations and Future Work
 
 ### Limitations
