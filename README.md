@@ -31,15 +31,15 @@ In this project, I will be exploring some essential factors that affect life in 
 
 ## Motivation
 
-My interest in putting together this project started with considering my life in university, and in the future. Sabancı University's campus in Tuzla, İstanbul, is in close proximity to an **'Organized Industrial Zone'**, an area of land designated by public authorities for industrial facilities. While this type of zoning can help industry work effectively and efficiently, it also brings lots of pollution as a side effect of the waste produced by these facilities.
+My interest in this project started with reflections on my life at university, and thoughts about what my life might look like in the future. Sabancı University's campus in Tuzla, İstanbul is in close proximity to an **'Organized Industrial Zone'** (OSB), an area of land designated by public authorities for industrial facilities. While this type of zoning can help industry work effectively and efficiently, it also produces a significant amount of pollution as a side effect of waste.
 
-Students at our university often complain about the quality of the air, bad odors, and trouble breathing as a result of living and studying so close to the pollution. This situation has made me think more carefully about the qualities of where I will want to live and work after I graduate, especially the quality of the air everyone has to breathe. As I looked deeper into this matter, I also wanted to research the effect of the chances of employment, and the risk of natural disasters. These two things are often on the minds of people living in Turkey, as both of them are hot-button issues of the day, and they will especially be so for graduating students looking for work, where I will also be one in the near future.
+Students at our university often complain about the quality of the air, unpleasant smells, and difficulty breathing as a result of living and studying so close to the pollution. This situation has made me think more carefully about the qualities of where I will want to live and work after I graduate, especially the quality of the air everyone has to breathe. As I looked deeper into this matter, I became interested in how employment opportunities, and environmental risks, such the risk of natural disasters might influence people's decisions. These two matters are particularly relevant in Turkey, as they are hot-button issues, and they will especially be so for graduating students looking for work, soon including myself.
 
-In conclusion, I wanted to find out whether people have also taken air quality, among other things, into account when buying houses. This led to the idea for this project.
+In conclusion, I wanted to find out whether people have taken air quality, unemployment, and environmental risk into account when buying houses. This question led to the conception of this project.
 
 ## Plan
 
-My plan is to analyze if and how the main variable of interest, **housing prices** is affected by other environmental and economic variables which are: the **Air Quality Index (AQI)** (an indicator developed by agencies specializing in the environment to make the pollution in the air easily quantifiable and understandable), **environmental risk** (which is also developed by environmental agencies), and the **rate of unemployment** by small administrative units covering a large geographical area: the United States.
+My plan is to analyze if and how the main variable of interest, **housing prices** is affected by key environmental and economic variables. These variables are: the **Air Quality Index (AQI)**, a metric developed by environmental and meteorological agencies to quantify the air pollution levels of an area, the **rate of unemployment**, and the **environmental risk levels** across small administrative units. The area of focus will be the United States, which was attractive to use in my project due to its wide availability of data including those from small locations.
 
 ### Data to be Used
 
@@ -265,13 +265,13 @@ A permutation test of 10,000 iterations was performed with a significance level 
 
 ### Machine Learning Techniques
 
-After we have observed the relationship between our features, we now will apply machine learning techniques to observe how well we can use these relationships to predict the average house price of an area by taking into account the Unemployment Rate, Environmental Risk, and Air Quality of said area.
+After analyzing the relationship between the features, we will apply machine learning techniques to see how well we can use these relationships to predict the average house price of an area by taking into account the Unemployment Rate, Environmental Risk, and Air Quality.
 
-Since our data is entirely continuous and numerical, we prefer to train regression models on our dataset. We will also scale our data using standardization (subtracting the mean and dividing by the standard error) on every column to make the regression model training healthier.
+Since our variables are entirely continuous and numerical, training regression models on our dataset is most appropriate. We will also scale our data using standardization (subtracting the mean and dividing by the standard deviation) for each feature to improve the performance of our regression models.
 
 #### Multicollinearity
 
-Before training models on our data, it is advisable to see if there's any multicollinearity that will prevent unwanted any instability, variance, and loss in significance in any of our features. The correlation values were already not high as previously explored, but it is still important to check.
+Before training models on our data, it is advisable to check for multicollinearity, as it can cause instability, increase variance, and reduce the statistical significance of our features. Although our earlier analysis showed relatively low correlation between our features, it is still important to check for multicollinearity.
 
 The Variance Inflation Factor (VIF) of the predicting features was found as follows:
 | Feature                             | VIF      |
@@ -280,27 +280,26 @@ The Variance Inflation Factor (VIF) of the predicting features was found as foll
 | National (Environmental) Risk Index | 1.136174 |
 | Median AQI                          | 1.134710 |
 
-Our VIF values are considerably low, indicating that there is not multicollinearity that will harm our training.
+The VIF values are low, indicating that there is no multicollinearity between our features.
 
 #### Models and Parameters
 
-Because our dataset is not very large (approximately 1,000 rows with no NA values and 4 variables), training time is not a great concern. We will train a couple regression models with several hyperparameter configurations on multiples folds of training and testing data to try to achieve the best results possible. The following models were trained with the following hyperparameters:
+Given our dataset is not very large (approximately 1,000 rows with no missing values, and 4 variables), model training time is not a major concern. We will train several regression models with various hyperparameter configurations on multiple folds of training and testing data to achieve the best results. The following models were trained with the following hyperparameters:
 
 - **Multiple Linear Regression**
 - **K Nearest Neighbors**
-  - Number of neighbors ranging from 1 to 20.
+  - Number of neighbors ranging from 1 to 20
 - **Decision Tree**
-  - Maximum depth from select values between and including 3 and 30.
-  - Minimum samples per leaf from select values between and including 2 and 10.
+  - Maximum depth: values from 3 to 30
+  - Minimum samples per leaf: values from 2 to 10
 - **Random Forest**
-   - Maximum depth from select values between and including 5 and 10.
-   - Number of estimators from select values between and including 50 and 500.
-
+   - Maximum depth: valeus from 5 to 10
+   - Number of estimators: values from 50 to 500
 Cross-validation was used to find the optimal parameters for each machine learning model. Results were scored using R² values. 
  
 #### Results of Machine Learning and Conclusions
 
-The optimal parameters of each model, along with their scores was found as the following:
+The optimal parameters of each model, along with their scores were found as follows:
 
 | Model Name        | R²    | RMSE  | Optimal Parameters                               |
 |-------------------|-------|-------|--------------------------------------------------|
@@ -309,19 +308,20 @@ The optimal parameters of each model, along with their scores was found as the f
 | DecisionTree      | 0.195 | 0.196 | 5 Max Depth and 10 Minimum Samples for Each Leaf |
 | RandomForest      | 0.277 | 0.185 | 5 Max Depth and 100 Estimators                   |
 
-Furthermore, the entirety of the data was fitted into each model and scatter plots were drawn comparing the predicted and actual house prices for each county.
+Furthermore, each model was refitted on the entire dataset, and scatter plots were generated to compare predicted and actual house prices for each county.
 
 ![Machine Learning Grid Plot](https://github.com/user-attachments/assets/0ac7e210-f1dd-4da4-80f6-3a97e0c7c882)
 
-It can be seen that the RandomForest model with a maximum depth of 5 and 100 estimators performed the best among every other model, with an R² value of 0.277 and a root mean square error (RMSE) of 0.185. It should be said that the R² and RMSE values of each model is considerably low, though this was expected after our correlation analysis. The Pearson correlation coefficients of our data points were also quite low, and this definitely hurt our models' performance.
+It can be seen that the RandomForest model with a maximum depth of 5 and 100 estimators performed the best among the models, with an R² value of 0.277 and a root mean square error (RMSE) of 0.185. It should be said that the R² and RMSE values of each model are considerably low, though this was expected after our correlation analysis. The Pearson correlation coefficients of our data points were also quite low, and this likely contributed to our models' low performance.
 
-We can observe this on the graphs drawn as well. The dashed red diagonal line represents a perfect prediction on every point in our model. The predictions do not really line up and most of them are clustered around the middle with some there are some outliers around the cluster, implying our models are predicting the same house price for lots of regions with different prices and attributes.
+We can observe this on the graphs drawn as well. The dashed red diagonal line represents a perfect prediction on every point in our model. Most predictions are clustered around the middle, with some outliers around the cluster. Ideally the data points would be following the red line more closely. This implies our models are predicting the same house price for many regions with different prices and attributes.
 
-While the multiple linear regression model has no parameters per se, the optimal model's intercept and coefficient values were found and put into an equation:
+#### Analysis of the Linear Regression Model
+While the multiple linear regression model has no hyperparameters, it does have intercept and coefficient values. The optimal linear regression model's intercept and coefficient values were found and placed into equation form:
 
 $$ \text{Log-transformed\ House\ Price}\ =\ 5.2962\ +\ (-0.0492)\cdot\text{Unemployment\ Rate}\ +\ (0.0753)\cdot\text{National\ Risk\ Index}\ +\ (-0.0177)\cdot\text{Median\ AQI} $$
 
-The coefficients are in line with our correlation values. The coefficients of the Unemployment Rate and Median AQI are negative, meaning they're driving down the house price. While the National Risk Index's coefficient is positive, implying it is driving up house prices. The size of the regression equation's coefficients corroborates with the size of the correlation coefficients. They are both clearly low.
+The coefficients are in line with our correlation values. The coefficients of the Unemployment Rate and Median AQI are negative, meaning they're related to lower house prices. While the National Risk Index's coefficient is positive, meaning it is related to higher house prices. The size of the regression equation's coefficients aligns with the size of the correlation coefficients. They are both clearly low.
 
 ## Limitations and Future Work
 
